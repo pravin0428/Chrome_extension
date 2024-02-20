@@ -439,7 +439,14 @@ async function runScraping() {
                     let champ = document.getElementById("show_iframe")
                     champ.innerHTML = response.html;
 
-                    console.log("Contact info response from content.js ", response);
+                    const contactInfoDom = response.html
+
+                    //now extract the info from the dom /////
+
+                    var contactInfo = parseContactInfo(contactInfoDom);
+                    console.log(contactInfo);
+
+                    // console.log("Contact info response from content.js ", contactInfo);
                 }
             });
         });
@@ -724,7 +731,7 @@ async function runScraping() {
                         designationAndTechStack: designationAndTechStack,
                         location: location,
                         connections: connections,
-                        // contactInfo: contactInfo
+                        //   contactInfo: contactInfo 
                         // email: email
                     };
 
@@ -917,6 +924,40 @@ async function runScraping() {
 //     return json;
 // }
 
+
+
+var parseContactInfo = (htmlContent) => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(htmlContent, "text/html");
+
+    const contactInfo = {};
+
+    // Extracting Ankit’s Profile URL
+    const profileLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(1) a');
+    contactInfo.profileUrl = profileLink ? profileLink.getAttribute('href') : 'Profile URL not found';
+
+    // Extracting email
+    const emailLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(5) a');
+    contactInfo.email = emailLink ? emailLink.textContent.trim() : 'Email not found';
+
+    // Extracting phone number
+    const phoneNumber = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(7) span');
+    contactInfo.phone = phoneNumber ? phoneNumber.textContent.trim() : 'Phone number not found';
+
+    // Extracting birthday
+    const birthday = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(9) span');
+    contactInfo.birthday = birthday ? birthday.textContent.trim() : 'Birthday not found';
+
+    // Extracting connected date
+    const connectedDate = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(11) span');
+    contactInfo.connectedDate = connectedDate ? connectedDate.textContent.trim() : 'Connected date not found';
+
+    // Extracting address
+    const addressLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(13) .pv-contact-info__ci-container a');
+    contactInfo.address = addressLink ? addressLink.textContent.trim() : 'Address not found';
+
+    return contactInfo;
+};
 
 
  
