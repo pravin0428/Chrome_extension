@@ -190,7 +190,7 @@
 
 // import * as cheerio from 'cheerio';
 
-import { Cheerio } from "cheerio";
+//  import { Cheerio } from "cheerio";
 document.addEventListener("DOMContentLoaded", function() {
     let ourBtn = document.getElementById("powerButton");
     ourBtn.addEventListener("click", () => {
@@ -432,25 +432,17 @@ document.getElementById('new_contact_btn').addEventListener('click', async () =>
 
 async function runScraping() {
     try {
-        // Fetch the HTML content of the contact info link
-        const response = await fetch(contactInfoLink);
-        const html = await response.text();
+        chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+            chrome.tabs.sendMessage(tabs[0].id, { text: "getContactInfo", url: contactInfoLink }, function(response) {
+                if (response && response.html) {
 
-        // Load the HTML content into Cheerio
-        const $ = Cheerio.load(html);
+                    let champ = document.getElementById("show_iframe")
+                    champ.innerHTML = response.html;
 
-        // Add your scraping logic using Cheerio here
-        // For example, you can select and extract specific elements from the page
-
-        // Example: Extract text content of all <p> tags
-        $('p').each((index, element) => {
-            console.log($(element).text());
+                    console.log("Contact info response from content.js ", response);
+                }
+            });
         });
-
-        // Example: Extract the value of a specific element by its class
-        const contactInfo = $('.contact-info').text();
-        console.log('Contact Info:', contactInfo);
-
     } catch (error) {
         console.error('Error scraping contact info:', error);
     }

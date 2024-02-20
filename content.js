@@ -2,63 +2,105 @@
 
 
 
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-    if (request.text && request.text === "getDOM") {
-        const htmlContent = document.documentElement.outerHTML;
-        sendResponse({ html: htmlContent }); // Change htmlCode to html
-    }
-    // if (request.action === "reloadDOM") {
-    //     // Reload or update the DOM as needed
-    //     // (async () => {
-    //     //     // Launch the browser and open a new blank page
-    //     //     const browser = await puppeteer.launch({ headless : false });
-    //     //     const page = await browser.newPage();
+// chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+//     if (request.text && request.text === "getDOM") {
+//         const htmlContent = document.documentElement.outerHTML;
+//         sendResponse({ html: htmlContent }); // Change htmlCode to html
+//     }else if(request.text && request.text === "getContactInfo"){
+//      console.log("entered in the scraping function");
+      
+//         const iframe = document.createElement('iframe');
+//         // iframe.style.display = 'none';
+        
+//         iframe.src = request.url;
+       
+//       let newDomData = document.body.appendChild(iframe);
+//     //   let frame =   document.getElementById("show_iframe")
+//       newDomData.appendChild(iframe);
+//     //   console.log(newDomData , "updated dom")
+//     }
+
+//     // if (request.action === "reloadDOM") {
+//     //     // Reload or update the DOM as needed
+//     //     // (async () => {
+//     //     //     // Launch the browser and open a new blank page
+//     //     //     const browser = await puppeteer.launch({ headless : false });
+//     //     //     const page = await browser.newPage();
           
-    //     //     // Navigate the page to a URL
-    //     //     await page.goto(request.linkData);
+//     //     //     // Navigate the page to a URL
+//     //     //     await page.goto(request.linkData);
           
-    //     //     // Set screen size
-    //     //     await page.setViewport({width: 1080, height: 1024});
+//     //     //     // Set screen size
+//     //     //     await page.setViewport({width: 1080, height: 1024});
           
            
-    //     //     await browser.close();
-    //     //   })();
-    //     const htmlContent = document.documentElement.outerHTML;
-    //     console.log(htmlContent , "updated")
-    //     sendResponse({ success: true, htmlCode: htmlContent }); // Correct the property name
-    // }
-});
+//     //     //     await browser.close();
+//     //     //   })();
+//     //     const htmlContent = document.documentElement.outerHTML;
+//     //     console.log(htmlContent , "updated")
+//     //     sendResponse({ success: true, htmlCode: htmlContent }); // Correct the property name
+//     // }
+// });
 
 
-// chrome.runtime.sendMessage({ action: "reloadDOM", linkData: contactInfoLink }, function(response) {
-//     if (response && response.success) {
-//         console.log("Reload DOM request sent successfully");
-//     } else {
-//         console.log("Failed to send reload DOM request");
+// // chrome.runtime.sendMessage({ action: "reloadDOM", linkData: contactInfoLink }, function(response) {
+// //     if (response && response.success) {
+// //         console.log("Reload DOM request sent successfully");
+// //     } else {
+// //         console.log("Failed to send reload DOM request");
+// //     }
+// // });
+
+
+// //code to reload dom as well 
+// chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+//     if (request.text && request.text === "getDOM") {
+//         const htmlContent = document.documentElement.outerHTML;
+//         sendResponse({ html: htmlContent }); // Change htmlCode to html
+//     }
+//     console.log( "content.js : " ,  request)
+//     if (request.text === "reloadDOM") {
+//         sendResponse({ linkData:newDomData }); 
+//         // Send a message to the background script to reload the DOM
+//         // chrome.runtime.sendMessage({ action: "getContactInfo", linkData:newDomData }, function(response) {
+//             if (response && response.success) {
+//                 console.log("Reload DOM request sent successfully");
+//             } else {
+//                 console.log("Failed to send reload DOM request");
+//             }
+//         // });
 //     }
 // });
 
 
-//code to reload dom as well 
+
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    console.log(request.url , "ckecking url in the content.js")
     if (request.text && request.text === "getDOM") {
         const htmlContent = document.documentElement.outerHTML;
-        sendResponse({ html: htmlContent }); // Change htmlCode to html
-    }
-    console.log( "content.js : " ,  request)
-    if (request.action === "reloadDOM") {
-        // Send a message to the background script to reload the DOM
-        chrome.runtime.sendMessage({ action: "reloadDOM", linkData: request.linkData }, function(response) {
-            if (response && response.success) {
-                console.log("Reload DOM request sent successfully");
-            } else {
-                console.log("Failed to send reload DOM request");
-            }
-        });
+        sendResponse({ html: htmlContent });
+    }  else if (request.text && request.text === "getContactInfo") {
+        // Handle message to fetch DOM data from the provided URL
+        const iframe = document.createElement('iframe');
+        iframe.src = request.url;
+        
+        // Set up onload event for the iframe to access its contents
+        iframe.onload = () => {
+            // Access the content of the iframe and send it back as a response
+            const iframeContent = iframe.contentDocument.documentElement.outerHTML;
+            sendResponse({ html: iframeContent });
+        };
+        
+        // Append the iframe to the document to trigger loading
+        document.body.appendChild(iframe);
+        
+        // Return true to indicate that sendResponse will be called asynchronously
+        return true;
+    }else if (request.text === "reloadDOM") {
+        // Handle reload DOM request if needed
+        console.log("dome reloaded")
     }
 });
-
-
 
 
 // chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
