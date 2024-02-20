@@ -1,0 +1,70 @@
+body {
+    width: 350px;
+    padding: 10px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  #domContent {
+    white-space: pre-line;
+  }
+
+  /* Main container */
+#main-div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Profile photo */
+#profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #ffffff; /* Add border with white color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+/* Name */
+#name {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Company name */
+#companyName {
+    font-size: 1em;
+    color: #666; 
+    margin-bottom: 20px;
+}
+
+/* Container for additional content */
+#container {
+    padding: 20px;
+    background-color: #f9f9f9;  
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+    text-align: left;  
+}
+
+/* Button */
+#powerButton {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #007bff;  
+    color: #fff;  
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#powerButton:hover {
+    background-color: #0056b3;  
+}
+  
