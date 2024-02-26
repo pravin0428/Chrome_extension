@@ -28,52 +28,3603 @@
   },
   "data": [
     {
-      "id": "14ff",
-      "name": "Kunjan Ballawar",
-      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHdDXiVmHgjDg/profile-displayphoto-shrink_100_100/0/1666953727751?e=1713398400&v=beta&t=_oW0rbX_JU2P5eIpn24PtuK3kLhkTtO2wkijEZ2dQZQ",
-      "companyName": "Kunjan Ballawar\n              \n\n      \n         (He/Him)",
-      "designationAndTechStack": "Software Engineer | Full Stack Developer | Front End & Back End Developer | HTML | CSS | JavaScript | React JS | Redux | MongoDB | Express JS | Next JS | Node | Git hub | MERN Stack Developer",
-      "location": "Nagpur, Maharashtra, India",
-      "connections": "353",
-      "email": "Email Not Found"
-    },
-    {
-      "id": "c924",
-      "name": "Mazhar Iqbal siddiquee",
-      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHdDXiVmHgjDg/profile-displayphoto-shrink_100_100/0/1666953727751?e=1713398400&v=beta&t=_oW0rbX_JU2P5eIpn24PtuK3kLhkTtO2wkijEZ2dQZQ",
-      "companyName": "Mazhar Iqbal siddiquee\n              \n\n      \n         (He/Him)",
-      "designationAndTechStack": "Nodejs Backend Developer",
-      "location": "Jamshedpur, Jharkhand, India",
-      "connections": "443",
-      "email": "Email Not Found"
-    },
-    {
-      "id": "6c20",
-      "name": "Harshit Gupta",
-      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHdDXiVmHgjDg/profile-displayphoto-shrink_100_100/0/1666953727751?e=1713398400&v=beta&t=_oW0rbX_JU2P5eIpn24PtuK3kLhkTtO2wkijEZ2dQZQ",
-      "companyName": "Harshit Gupta\n              \n\n      \n         (He/Him)",
-      "designationAndTechStack": "SWE II @Google | Ex-Microsoft | IIT Kanpur | 95K+  | AIR - 111 GATE CSE'18",
-      "location": "Bengaluru, Karnataka, India",
-      "connections": "97,155",
-      "email": "Email Not Found"
-    },
-    {
-      "id": "9db6",
+      "id": "3277",
       "name": "Ankit Chhetri",
-      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQFFJwReOTL1wA/profile-framedphoto-shrink_200_200/0/1675919057817?e=1709067600&v=beta&t=rGNczf6_TsESlyDfK-9sk-ssBGqRlB6fCgcCiwAh1qY",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQFFJwReOTL1wA/profile-framedphoto-shrink_200_200/0/1675919057817?e=1709542800&v=beta&t=EoB7cqHLvTPB8k9goHpkA1ES_BLxJZG0Czu1A_R648A",
       "companyName": "Company Info Not Found",
       "designationAndTechStack": "Enthusiast Front End Developer|  ReactJS | JS | HTML | CSS | React-Redux | Firebase | RestAPI | Tailwind | Nextjs",
       "location": "Bengaluru, Karnataka, India",
-      "connections": "500+"
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9064444169",
+        "Email": "ankitxtri@gmail.com",
+        "Birthday": "October 9",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHqcTQbrPl2jA/company-logo_100_100/0/1632304407294?e=1717027200&v=beta&t=vJR64x5X_SzrxnCAIl58fZHCPJMt2re0qE6dqDZbNos",
+          "job_title": "Frontend Web DeveloperFrontend Web Developer",
+          "company_name": "TWD",
+          "employment_type": "Internship",
+          "duration": "Jul 2022 - Sep 2022 · 3 mos",
+          "location": "Madhya Pradesh, IndiaMadhya Pradesh, India",
+          "skills": "Web Development, HTML5 and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 44,
+          "degree": "Acharya InstitutesAcharya Institutes Master of Computer Applications - MCA",
+          "institution": "computer applicationMaster of Computer Applications - MCA",
+          "dates": "computer application 2018 - 20212018 - 2021 Grade: 8.5Grade: 8.5"
+        },
+        {
+          "id": 46,
+          "degree": "University Of North BengalUniversity Of North Bengal Bachelor of Computer Application",
+          "institution": "computer applicationBachelor of Computer Application",
+          "dates": "computer application 2015 - 20182015 - 2018 Grade: 65%Grade: 65%"
+        },
+        {
+          "id": 74,
+          "degree": "React Developers - ReactJS & React Native Professional Development MastermindReact Developers - ReactJS & React Native Professional Development Mastermind 465",
+          "institution": "373 members465",
+          "dates": "373 members Join"
+        }
+      ]
     },
     {
-      "id": "b794",
-      "name": "Pappu Kumar",
-      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEWKrLGcYBtuw/profile-framedphoto-shrink_200_200/0/1708447661459?e=1709067600&v=beta&t=gBP-4-vWJkDduUXWCCLgPRT0rLxzoXeinYDrBA71vrM",
+      "id": "9a6a",
+      "name": "Apurba Adhikary",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQG0PowHfzMcOA/profile-displayphoto-shrink_200_200/0/1708881196275?e=1714608000&v=beta&t=7wZul5Di8owxTGFbFAzt4MFoZIeOzjEu_WusjkCHmEo",
       "companyName": "Company Info Not Found",
-      "designationAndTechStack": "Software  Engineer at MatrIoT Solutions ll Ex-InfinityBox ll MERN,MEAN, Ionic App Developer ||Content creator ll 170K+ view || 161+ Subscriber on Youtube",
+      "designationAndTechStack": "Full Stack Web Developer | React.js, Node.js, Agile",
+      "location": "Kolkata, West Bengal, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9062371141",
+        "Email": "apurba.apurbaadhikary@gmail.com",
+        "Connected": "Nov 27, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQFIvysNHPcrMg/company-logo_100_100/0/1682317243600?e=1717027200&v=beta&t=fFUujaEWbdqE_P1brQ4h1XPzmOFAG8uDNM4ohE7g06k",
+          "job_title": "SDE Intern SDE Intern",
+          "company_name": "LevelUp",
+          "employment_type": "Internship",
+          "duration": "Nov 2023 - Present · 4 mos",
+          "location": "Bangalore  · On-siteBangalore  · On-site"
+        },
+        {
+          "job_title": "Web DeveloperWeb Developer",
+          "company_name": "Freelance Web Development",
+          "employment_type": "Freelance",
+          "duration": "Jan 2019 - Nov 2023 · 4 yrs 11 mos",
+          "skills": "Developer Tools, Back-End Web Development and +11 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQHKf0MauLZ6xw/company-logo_100_100/0/1630619048969?e=1717027200&v=beta&t=nII8DrFFBfwWu_D8aElaOJlm-z61reyQ4O4IX11SVNA",
+          "job_title": "Web DeveloperWeb Developer",
+          "company_name": "Digitalinfolink",
+          "employment_type": "Full-time",
+          "duration": "Jan 2020 - Jan 2021 · 1 yr 1 mo",
+          "location": "Barasat-II, West Bengal, IndiaBarasat-II, West Bengal, India",
+          "skills": "Node.js, Search Engine Optimization (SEO) and +3 skills"
+        },
+        {
+          "job_title": "Graphic DesignerGraphic Designer",
+          "company_name": "Freelancer",
+          "employment_type": "Freelance",
+          "duration": "Feb 2018 - Mar 2019 · 1 yr 2 mos"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 39,
+          "degree": "Apurba Adhikary reposted this • 1w1w \"Empowering my emotional landscape is a conscious choice. I hold the reins to my reactions",
+          "institution": "granting no freedom to external forces to incite anger or disrupt my tranquility. In the journey of self-mastery",
+          "dates": "emotional autonomy is my compass"
+        }
+      ]
+    },
+    {
+      "id": "6586",
+      "name": "Atif Naquee",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQFBUx2dny51wA/profile-displayphoto-shrink_200_200/0/1703174267393?e=1714608000&v=beta&t=FMxbSMM4nGn2l3CaWly99uuv7TXxlYy352o8212hfOw",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Senior Software developer  at Womeki",
+      "location": "Ghaziabad, Uttar Pradesh, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "8619934330",
+        "Email": "atif123n@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQG5Pmt_JE_9hg/company-logo_100_100/0/1647326508920?e=1717027200&v=beta&t=mqBlPborfrgsbijTt2w5vKdvJA5a3MgYDTNMwJDAen4",
+          "job_title": "Senior Software EngineerSenior Software Engineer",
+          "company_name": "Womeki Investors Club (WIC)",
+          "employment_type": "Full-time",
+          "duration": "Jul 2023 - Present · 8 mos",
+          "location": "India · On-siteIndia · On-site"
+        },
+        {
+          "job_title": "React Native DeveloperReact Native Developer",
+          "company_name": "Turka technology ",
+          "employment_type": "Full-time",
+          "duration": "Jul 2023 - Jul 2023 · 1 mo",
+          "location": "India · RemoteIndia · Remote"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHXDG-LHTvOdQ/company-logo_100_100/0/1649135320911/pennep_logo?e=1717027200&v=beta&t=uZm8KqW3rfNyxnJF9D5r5WUCRkobASTJW3NeCoMPr8M",
+          "job_title": "Software DeveloperSoftware Developer",
+          "company_name": "PENNEP",
+          "employment_type": "Full-time",
+          "duration": "Aug 2022 - Mar 2023 · 8 mos",
+          "location": "Jhalandar punjabJhalandar punjab",
+          "skills": "Problem Solving, Version Control Tools and +32 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 55,
+          "degree": "Manglam school of management Manglam school of management Diploma",
+          "institution": "Electronic ECEDiploma",
+          "dates": "Electronic ECE Jun 2019 - Aug 2021Jun 2019 - Aug 2021 Grade: AGrade: A Cascading Style Sheets (CSS)"
+        },
+        {
+          "id": 60,
+          "degree": "Ingraham instituteIngraham institute Iti",
+          "institution": "Technical and Scientific CommunicationIti",
+          "dates": "Technical and Scientific Communication 2017 - 20192017 - 2019 Cascading Style Sheets (CSS)"
+        }
+      ]
+    },
+    {
+      "id": "15c3",
+      "name": "Suraj kushwaha",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFFPjicfZoiZA/profile-framedphoto-shrink_200_200/0/1699876738684?e=1709546400&v=beta&t=79B_lyRwKmvq0keWo_BQAS--9AUvuWahqKbUY6HOh-8",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Developer at NDML",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "ss971600@gmail.com",
+        "Connected": "Oct 3, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQF1bTVMFCtvXw/company-logo_100_100/0/1630554800067/nsdl_database_management_limited_logo?e=1717027200&v=beta&t=dyVTG-2VwxWkWhN3jx4uafWIq3mHanZ380CXR0nFIUI",
+          "job_title": "Executive management trainee (Java Full Stack Developer)Executive management trainee (Java Full Stack Developer)",
+          "company_name": "NSDL Database Management Ltd. (NDML)",
+          "employment_type": "Full-time",
+          "duration": "Mar 2023 - Present · 1 yr",
+          "location": "Mumbai, Maharashtra, India · On-siteMumbai, Maharashtra, India · On-site",
+          "skills": "Java, Spring Framework and +8 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "J.C. Bose University of Science and Technology",
+          "institution": "YMCAJ.C. Bose University of Science and Technology",
+          "dates": "YMCA Master of Technology - MTech"
+        }
+      ]
+    },
+    {
+      "id": "1450",
+      "name": "Jairaj Shetty",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQFNYdWMmH-wVg/profile-displayphoto-shrink_200_200/0/1654437388786?e=1714608000&v=beta&t=tV1aDHvMZWFwkguCZ2f5bpVitW-Uw2B6QmMkTUi0pdY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Engineer | Frontend | MERN stack",
       "location": "Bengaluru, Karnataka, India",
-      "connections": "7,367"
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "7019463250",
+        "Email": "jairajs1729@gmail.com",
+        "Connected": "Oct 16, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE17HhB0rGpYQ/company-logo_100_100/0/1654720362299/twilio_inc__logo?e=1717027200&v=beta&t=QyovduxXYnqIRHrYN-mF5V8Rpu01MXcXm8y1_UyK22o",
+          "job_title": "Software Engineer (L2)Software Engineer (L2)",
+          "company_name": "Twilio",
+          "employment_type": "Full-time",
+          "duration": "Jul 2022 - Present · 1 yr 8 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "NokiaNokia",
+          "company_name": "Full-time",
+          "employment_type": "3 yrs",
+          "duration": "Oct 2021 - Jul 2022 · 10 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "NokiaNokia"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "Student InternStudent Intern",
+          "company_name": "Nokia",
+          "employment_type": "Internship",
+          "duration": "Jan 2019 - Jun 2019 · 6 mos",
+          "location": "BangaloreBangalore"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "Full Stack Award 2021Full Stack Award 2021",
+          "company_name": "Issued by Nokia",
+          "employment_type": "Nov 2021"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "B. M. S. College of EngineeringB. M. S. College of Engineering Bachelor's degree",
+          "institution": "Electrical",
+          "dates": "Electronics and Communications EngineeringBachelor's degree"
+        },
+        {
+          "id": 88,
+          "degree": "React Developers - ReactJS & React Native Professional Development MastermindReact Developers - ReactJS & React Native Professional Development Mastermind 465",
+          "institution": "381 members465",
+          "dates": "381 members Join"
+        }
+      ]
+    },
+    {
+      "id": "9273",
+      "name": "Mili Bhatt",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQEwel7toFkCDQ/profile-framedphoto-shrink_200_200/0/1708925829266?e=1709546400&v=beta&t=-sdSNIqGDTSE1CejVk7NnF8zcs3GXeUeupEgswC5QwM",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Sr. Recruitment Executive at Narola Infotech | HIRING || AngularJS Developer | DotNet Developer | Jr. BDE | NodeJS Developer| Business Analyst",
+      "location": "Surat, Gujarat, India",
+      "connections": "36,036",
+      "contactInfo": {
+        "Email": "milibhatt1998@gmail.com",
+        "Connected": "Oct 20, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGEKsMVIUjVvA/company-logo_100_100/0/1638446822535/narola_infotech_logo?e=1717027200&v=beta&t=85dInDtEzoxwD6qSVhVDsi3BEVMPBjl5o6aEAtmjSbk",
+          "job_title": "Narola InfotechNarola Infotech",
+          "company_name": "Full-time",
+          "employment_type": "2 yrs 2 mos",
+          "duration": "Surat, Gujarat, India · On-site",
+          "location": "Jan 2024 - Present · 2 mosJan 2024 - Present · 2 mos",
+          "skills": "Narola InfotechNarola Infotech"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE40FKhbvMlnA/company-logo_100_100/0/1630572283871/therubricgroup_logo?e=1717027200&v=beta&t=Uegpe8Q39d6LHTyPAdXJKUr63-2TXfhe-QiGjowL3Ro",
+          "job_title": "HR recruiterHR recruiter",
+          "company_name": "Rubric Management Services Pvt Ltd",
+          "employment_type": "Full-time",
+          "duration": "Feb 2021 - Jan 2022 · 1 yr",
+          "location": "Surat, Gujarat, India · On-siteSurat, Gujarat, India · On-site",
+          "skills": "Interviewing, Research and +29 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQGNOMUCes4kCA/company-logo_100_100/0/1630586812907/adani_ports__sez_ltd__logo?e=1717027200&v=beta&t=Ip_oM9iWyFbovktXIHirhTs9eCz3l4NmxCiCTHOMlkQ",
+          "job_title": "Summer InternSummer Intern",
+          "company_name": "Adani Ports and SEZ",
+          "employment_type": "Internship",
+          "duration": "May 2018 - Jun 2018 · 2 mos",
+          "location": "Surat, Gujarat, India · On-siteSurat, Gujarat, India · On-site",
+          "skills": "Research, Management and +10 skills"
+        },
+        {
+          "job_title": "President Awarded GuidePresident Awarded Guide",
+          "company_name": "Issued by The Bharat Scouts and Guides",
+          "employment_type": "Jun 2016"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 77,
+          "degree": "Dr. D. Y. Patil VidyapeethDr. D. Y. Patil Vidyapeeth Master of Business Administration - MBA",
+          "institution": "Human Resources Management and ServicesMaster of Business Administration - MBA",
+          "dates": "Human Resources Management and Services Aug 2021 - Aug 2023Aug 2021 - Aug 2023"
+        },
+        {
+          "id": 103,
+          "degree": "Bhautik Kumar↗️Bhautik Kumar↗️ · 2ndSecond degree connection On a MISSION to create 100",
+          "institution": "000 Super effective leaders who leads purposeful Decisions and Make it win on the concrete foundation of FREEDOM",
+          "dates": "HAPPINESS"
+        },
+        {
+          "id": 104,
+          "degree": "To Whomsoever it may concern",
+          "institution": "I'm very pleased to recommend Bhautik Kumar Sir . As a fellow Team Member at Narola Infotech Solutions LLP",
+          "dates": "I've worked alongside for the past 11 Months. Bhautik Sir's communication skills and leadership qualities has inspired to grow in professional and personal life.As i have personally attended Sir's communication session of \" Master The Communication Mantra\" at Narola Infotech and it was a great experience of learning from him.Please feel free to contact me for any further information. Thanks very much for your time.Sincerely"
+        },
+        {
+          "id": 105,
+          "degree": "To Whomsoever it may concern",
+          "institution": "I'm very pleased to recommend Bhautik Kumar Sir . As a fellow Team Member at Narola Infotech Solutions LLP",
+          "dates": "I've worked alongside for the past 11 Months. Bhautik Sir's communication skills and leadership qualities has inspired to grow in professional and personal life.As i have personally attended Sir's communication session of \" Master The Communication Mantra\" at Narola Infotech and it was a great experience of learning from him.Please feel free to contact me for any further information. Thanks very much for your time.Sincerely"
+        }
+      ]
+    },
+    {
+      "id": "afd8",
+      "name": "Prashant Chaudhary",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQF961JYRLF_EQ/profile-framedphoto-shrink_200_200/0/1698854456117?e=1709546400&v=beta&t=U5HERFY8XlD_E_sH4XUgAzQwPrLc7lp_CQO7qaqA3UQ",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Web Developer | Blockchain, Business Analytics",
+      "location": "Delhi, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "iamprashantch@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGcqniAVzuGBw/company-logo_100_100/0/1677924632733?e=1717027200&v=beta&t=EQ8O0CegbuY4IlVqLC6aGDB9sC5O5L5fr8iYpEAN5Ug",
+          "job_title": "Full Stack DeveloperFull Stack Developer",
+          "company_name": "DreamViewer Infotech",
+          "employment_type": "Full-time",
+          "duration": "Oct 2023 - Present · 5 mos",
+          "location": "Noida, Uttar Pradesh, India · On-siteNoida, Uttar Pradesh, India · On-site"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "StudentStudent",
+          "company_name": "Masai School",
+          "employment_type": "Apprenticeship",
+          "duration": "2021 - Oct 2023 · 2 yrs 10 mos",
+          "location": "BangaloreBangalore",
+          "skills": "Spring Boot, HTML5 and +11 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 55,
+          "degree": "CHANDIGARH UNIVERSITYCHANDIGARH UNIVERSITY Master of Computer Applications - MCA",
+          "institution": "Computer ScienceMaster of Computer Applications - MCA",
+          "dates": "Computer Science Jun 2022 - Jun 2024Jun 2022 - Jun 2024 Grade: 7.0Grade: 7.0 Git"
+        }
+      ]
+    },
+    {
+      "id": "f459",
+      "name": "Tanaji Bhosale",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHNQgMPBMrvfg/profile-displayphoto-shrink_200_200/0/1694891787706?e=1714608000&v=beta&t=l_gWd1sJmgB-tN2LN04TtaTvGVLzuKrmjI78cKGMMKY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Python Developer-Clodura.AI | Python | SQL",
+      "location": "Pune, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9673798332",
+        "Email": "hi.tanajiscope@gmail.com",
+        "Connected": "Feb 14, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Python DeveloperPython Developer",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Apr 2022 - Present · 1 yr 11 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India",
+          "skills": "SQL, PostgreSQL and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQFfQBddfVGx3A/company-logo_100_100/0/1630627740596/bharat_broadband_network_limited_logo?e=1717027200&v=beta&t=1qn2hHnC0Z0Uj9Qp2VhWwyRViygRkYx5orzCG-5lRLI",
+          "job_title": "Network EngineerNetwork Engineer",
+          "company_name": "Bharat Broadband Network Limited",
+          "employment_type": "Full-time",
+          "duration": "Sep 2020 - Mar 2022 · 1 yr 7 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 43,
+          "degree": "Pimpri Chinchwad College of EngineeringPimpri Chinchwad College of Engineering Bachelor of Engineering - BE",
+          "institution": "Electronics and Telecommunication EngineeringBachelor of Engineering - BE",
+          "dates": "Electronics and Telecommunication Engineering 2015 - 20182015 - 2018"
+        }
+      ]
+    },
+    {
+      "id": "a7f5",
+      "name": "Ankit Chhetri",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQFFJwReOTL1wA/profile-framedphoto-shrink_200_200/0/1675919057817?e=1709546400&v=beta&t=Fbx3vqqo_RlNDD2r2RGd6w9KkmKbdVokTmwscGXTGzc",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Enthusiast Front End Developer|  ReactJS | JS | HTML | CSS | React-Redux | Firebase | RestAPI | Tailwind | Nextjs",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9064444169",
+        "Email": "ankitxtri@gmail.com",
+        "Birthday": "October 9",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHqcTQbrPl2jA/company-logo_100_100/0/1632304407294?e=1717027200&v=beta&t=vJR64x5X_SzrxnCAIl58fZHCPJMt2re0qE6dqDZbNos",
+          "job_title": "Frontend Web DeveloperFrontend Web Developer",
+          "company_name": "TWD",
+          "employment_type": "Internship",
+          "duration": "Jul 2022 - Sep 2022 · 3 mos",
+          "location": "Madhya Pradesh, IndiaMadhya Pradesh, India",
+          "skills": "Web Development, HTML5 and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 44,
+          "degree": "Acharya InstitutesAcharya Institutes Master of Computer Applications - MCA",
+          "institution": "computer applicationMaster of Computer Applications - MCA",
+          "dates": "computer application 2018 - 20212018 - 2021 Grade: 8.5Grade: 8.5"
+        },
+        {
+          "id": 46,
+          "degree": "University Of North BengalUniversity Of North Bengal Bachelor of Computer Application",
+          "institution": "computer applicationBachelor of Computer Application",
+          "dates": "computer application 2015 - 20182015 - 2018 Grade: 65%Grade: 65%"
+        },
+        {
+          "id": 74,
+          "degree": "React Developers - ReactJS & React Native Professional Development MastermindReact Developers - ReactJS & React Native Professional Development Mastermind 465",
+          "institution": "387 members465",
+          "dates": "387 members Join"
+        }
+      ]
+    },
+    {
+      "id": "9795",
+      "name": "Sanjan Yadav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQHc-8tjpdkaXQ/profile-framedphoto-shrink_200_200/0/1700638941749?e=1709546400&v=beta&t=eDbdJGkCVJnV2sxA-ZEkq-RsWWD2iDTmy7aUakhQ5Mo",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "JAVA || Spring boot || Hibernate || JDBC || MySQL || HTML5 || CSS3  || Javascript p|| DSA || Rest Api",
+      "location": "Sri Muktsar Sahib, Punjab, India",
+      "connections": "1,679",
+      "contactInfo": {
+        "Phone": "75896-14279",
+        "Email": "sanjanyadav060@gmail.com",
+        "IM": "Sanjan Yadav",
+        "Birthday": "April 4",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4E0BAQEyF__hKG59nQ/company-logo_100_100/0/1683038647031/dovelpofficial_logo?e=1717027200&v=beta&t=7QIZ8SwRhkDBtNWUoDWwwzpcy-ufdSzUSSoxMkVFiCM",
+          "job_title": "Full-stack DeveloperFull-stack Developer",
+          "company_name": "Dovelp",
+          "employment_type": "Full-time",
+          "duration": "May 2023 - Sep 2023 · 5 mos",
+          "location": "RemoteRemote",
+          "skills": "Leadership, Problem Solving and +11 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 56,
+          "degree": "MasaiMasai Diploma of Education",
+          "institution": "Computer Software EngineeringDiploma of Education",
+          "dates": "Computer Software Engineering 20222022 ECMAScript"
+        },
+        {
+          "id": 60,
+          "degree": "Adesh Polytechnic College MuktsarAdesh Polytechnic College Muktsar Diploma of Education",
+          "institution": "Electrical and Electronics EngineeringDiploma of Education",
+          "dates": "Electrical and Electronics Engineering 2020 - 20222020 - 2022 Grade: AGrade: A Training"
+        }
+      ]
+    },
+    {
+      "id": "c537",
+      "name": "Dinesh Patil",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHUH2R5hPe6Dw/profile-displayphoto-shrink_200_200/0/1705380405603?e=1714608000&v=beta&t=pwtI3z1GOf-Lxx8eX4T6kkFge0fXBfwtIbwSKFJ7m_c",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Aspiring Full Stack Developer 👨‍💻",
+      "location": "Indore, Madhya Pradesh, India",
+      "connections": "2,714",
+      "contactInfo": {
+        "Phone": "9644636001",
+        "Email": "dineshpatil6001@gmail.com",
+        "Birthday": "December 22",
+        "Connected": "Sep 19, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "StudentStudent",
+          "company_name": "Masai",
+          "employment_type": "Full-time",
+          "duration": "2023 - Present · 1 yr 2 mos",
+          "location": "Indore, Madhya Pradesh, IndiaIndore, Madhya Pradesh, India",
+          "skills": "JavaScript"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGcDCWC30R-fw/company-logo_100_100/0/1653384616715/shri_vaishnav_institute_of_management_indore_logo?e=1717027200&v=beta&t=jqm_ciC5puKJukrnN-gvBh2nlQhXjU7OcZ3jE4vXzSU",
+          "job_title": "BBABBA",
+          "company_name": "Score: 76%",
+          "employment_type": "Jan 2023"
+        },
+        {
+          "job_title": "12th12th",
+          "company_name": "Score: 76.40%",
+          "employment_type": "Jan 2020"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 48,
+          "degree": "Shri Vaishnav Institute of Management",
+          "institution": "IndoreShri Vaishnav Institute of Management",
+          "dates": "Indore Bachelor of Business Administration - BBA"
+        }
+      ]
+    },
+    {
+      "id": "e734",
+      "name": "Rushikesh Patil",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQH6stjBA3HPow/profile-displayphoto-shrink_200_200/0/1673940038615?e=1714608000&v=beta&t=gi_6o6APQ9vUJs-9eA6lQH5tfjSQLwU640XUTyftNeA",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Cyber security specialist @PWC India  | ISO 27001 LA | ISO 27701 LI | Full-stack MERN developer | Mechanical engineer",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "rushiypatil@gmail.com",
+        "Connected": "Feb 21, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQEtmr6S8mWZEA/company-logo_100_100/0/1688459463757/pwc_india_logo?e=1717027200&v=beta&t=_CVTqwjuYS3jrpedOw9VahZu8ibh55_Nz2xNvno-cQE",
+          "job_title": "Cyber Security SpecialistCyber Security Specialist",
+          "company_name": "PwC India",
+          "employment_type": "Full-time",
+          "duration": "Apr 2023 - Present · 11 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 41,
+          "degree": "Dr. D. Y. Patil Institute of Engineering & Technology",
+          "institution": "Pune logo Dr. D. Y. Patil Institute of Engineering & Technology",
+          "dates": "PuneDr. D. Y. Patil Institute of Engineering & Technology"
+        }
+      ]
+    },
+    {
+      "id": "8d4f",
+      "name": "Anushka singh",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGNgFd8m84BRg/profile-displayphoto-shrink_200_200/0/1702596631534?e=1714608000&v=beta&t=VZk9Bs-YWmAnVj0P0Si37iF3CNJjxCfEvjYlaERwpy8",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "IIT KGP '23  | competitive programming | machine learning | software development",
+      "location": "Kharagpur, West Bengal, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "anushkasingh100@yahoo.com",
+        "Connected": "Feb 19, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Software EngineerSoftware Engineer",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Feb 2024 - Present · 1 mo",
+          "location": "Pune, Maharashtra, India · HybridPune, Maharashtra, India · Hybrid"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGvhwmWwUBSjQ/company-logo_100_100/0/1631338715772?e=1717027200&v=beta&t=eX2DAxGs0AV9NKYjSME9pdIVWoEhes1QlwxhpapBAXk",
+          "job_title": "Head of software teamHead of software team",
+          "company_name": "Swarm Robotics IIT KGP",
+          "employment_type": "Part-time",
+          "duration": "Mar 2020 - May 2023 · 3 yrs 3 mos"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "Indian Institute of Technology",
+          "institution": "KharagpurIndian Institute of Technology",
+          "dates": "Kharagpur Bachelor of Technology - BTechBachelor of Technology - BTech 2019 - 20232019 - 2023"
+        }
+      ]
+    },
+    {
+      "id": "eb4b",
+      "name": "Rupali Gurav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQEmn3WaxMEqLw/profile-framedphoto-shrink_200_200/0/1642189465372?e=1709546400&v=beta&t=AEO71hY9mMwR4HrRAB2vqJ38El1zgz60QFjKSh39Z3c",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "--",
+      "location": "Pune, Maharashtra, India",
+      "connections": "177",
+      "contactInfo": {
+        "Email": "rupali.gurav41@gmail.com",
+        "Connected": "Feb 19, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Customer Support Manager - Clodura.AICustomer Support Manager - Clodura.AI",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Jan 2018 - Present · 6 yrs 2 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India"
+        },
+        {
+          "job_title": "Assistant ProfessorAssistant Professor",
+          "company_name": "CSMU- Chhatrapati Shivaji Maharaj Institute of Technology, Panvel.",
+          "employment_type": "Full-time",
+          "duration": "Jul 2014 - Apr 2016 · 1 yr 10 mos",
+          "location": "Panvel, Maharashtra, IndiaPanvel, Maharashtra, India"
+        },
+        {
+          "job_title": "Assistant ProfessorAssistant Professor",
+          "company_name": "Ramsheth Thakur College of Commerce & Science, Kharghar",
+          "employment_type": "Full-time",
+          "duration": "Jun 2012 - Apr 2014 · 1 yr 11 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 37,
+          "degree": "Pillai College of EngineeringPillai College of Engineering Master of Engineering - MEng",
+          "institution": "Information TechnologyMaster of Engineering - MEng",
+          "dates": "Information Technology 2013 - 20172013 - 2017 Grade: DistinctionGrade: Distinction"
+        },
+        {
+          "id": 39,
+          "degree": "TKIET(Autonomous)",
+          "institution": "WARANANAGARTKIET(Autonomous)",
+          "dates": "WARANANAGAR Bachelor of Engineering - BE"
+        }
+      ]
+    },
+    {
+      "id": "1d68",
+      "name": "Shrikant Jawla",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHe6ON5tmYNqQ/profile-displayphoto-shrink_200_200/0/1708699728863?e=1714608000&v=beta&t=n9FdTQYNIi88lwdpYvAHOFMMZN3_OP8eX7E7_ItVPEA",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Full Stack Web Developer | MERN Stack Developer | HTML | CSS | JavaScript | React.js | Next.js | Typescript | Tailwindcss | Chakra-UI | Styled-Components | Figma | Rest API | Node.js | Express.js | Mongo DB | DSA",
+      "location": "Muzaffarnagar, Uttar Pradesh, India",
+      "connections": "989",
+      "contactInfo": {
+        "Phone": "9069006661",
+        "Email": "shrikantjawla@gmail.com",
+        "Birthday": "December 23",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHUifk1ynAemw/company-logo_100_100/0/1631383373841?e=1717027200&v=beta&t=lzYmvSwL98KtTDr9WujJ6_fPUogS6sO2cKvkeFrEnEo",
+          "job_title": "Full-stack web DeveloperFull-stack web Developer",
+          "company_name": "AM Tech Networks",
+          "employment_type": "Full-time",
+          "duration": "Feb 2023 - Present · 1 yr 1 mo",
+          "location": "Panchkula, Haryana, India · On-sitePanchkula, Haryana, India · On-site",
+          "skills": "NestJS, MongoDB and +9 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack web developerFull Stack web developer",
+          "company_name": "Masai",
+          "employment_type": "Internship",
+          "duration": "May 2022 - Feb 2023 · 10 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "MongoDB, Nodej and +7 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 43,
+          "degree": "Shrikant Jawla posted this • 3mo3mo 🚀 I am thrilled to share a dynamic website that I've had the privilege of building for Card Insider! 🌐💳 https://finpaisa.in🔧 Tech Stack Used:HTMLEJSTailwindCSSJavaScriptjQueryNode.jsExpress.jsPostgreSQL DatabaseFrom integrating click tracking links API to crafting a seamless wallet system with affiliate links of credit cards",
+          "institution": "Finpaisa is designed to redefine user experiences in the world of financial insights. 💼💻🎉 What's Under the Hood:Click Tracking API for accurate analyticsPayout system for usersAffiliate links for credit cardsResponsive and intuitive design✨ About Me:With a solid two years of experience in the realm of web development",
+          "dates": "I am a passionate full-stack developer who thrives on transforming ideas into interactive"
+        },
+        {
+          "id": 47,
+          "degree": "Shrikant Jawla posted this • 3mo3mo Thrilled to present one of my recent triumphs: the live Card Insider Lounge website! 🚀 https://lnkd.in/dUf9Ba-8",
+          "institution": "Developed with React.js",
+          "dates": "Redux"
+        },
+        {
+          "id": 61,
+          "degree": "MasaiMasai Full Stack Web Development",
+          "institution": "Web Page",
+          "dates": "Digital/Multimedia and Information Resources DesignFull Stack Web Development"
+        }
+      ]
+    },
+    {
+      "id": "ab3c",
+      "name": "Greeshma Tuduru",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQHRDAS4vuS3CQ/profile-framedphoto-shrink_200_200/0/1708599871513?e=1709550000&v=beta&t=BEmCcfoLNLI_W6izPMLJphITNHRZQp7_NR_K-X1Ea18",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Hiring Specialist at Orange shark || Graduated from Nizam College",
+      "location": "Hyderabad, Telangana, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "greeshmatuduru@gmail.com",
+        "Birthday": "August 22",
+        "Connected": "Oct 20, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQEa6bH8h--Iiw/company-logo_100_100/0/1630642678830/universal_tribes_logo?e=1717027200&v=beta&t=SLP98cN24BGG3w0VwuuHpcGG0DmsTwCvRK-M-xOCBvU",
+          "job_title": "Human Resources InternHuman Resources Intern",
+          "company_name": "Universal Tribes",
+          "employment_type": "Internship",
+          "duration": "Jan 2023 - Mar 2023 · 3 mos",
+          "location": "Hyderabad · RemoteHyderabad · Remote"
+        },
+        {
+          "job_title": "Human Resources ExecutiveHuman Resources Executive",
+          "company_name": "Aashman Foundation",
+          "employment_type": "Internship",
+          "duration": "Oct 2022 - Dec 2022 · 3 mos",
+          "location": "India · RemoteIndia · Remote"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "Nizam College",
+          "institution": "BasheerbaghNizam College",
+          "dates": "Basheerbagh Bachelor of Business Administration - BBA"
+        }
+      ]
+    },
+    {
+      "id": "5baa",
+      "name": "Rajat Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQHN2jzULr1GbA/profile-framedphoto-shrink_200_200/0/1694448133751?e=1709553600&v=beta&t=SNhJF0s3WqqmonJSlBPJswPUnk7Y52N7S17CYm6xwCI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Java Developer",
+      "location": "Varanasi, Uttar Pradesh, India",
+      "connections": "59",
+      "contactInfo": {
+        "Phone": "7080668248",
+        "Email": "rajat20010208@gmail.com",
+        "Birthday": "February 8",
+        "Connected": "Sep 15, 2023"
+      },
+      "experience": [
+        {
+          "job_title": "Java Software DeveloperJava Software Developer",
+          "company_name": "Betaue Technologies And Placement Services",
+          "employment_type": "Apprenticeship",
+          "duration": "Jul 2023 - Present · 8 mos",
+          "location": "Kanpur Nagar, Uttar Pradesh, India · On-siteKanpur Nagar, Uttar Pradesh, India · On-site",
+          "skills": "Web Development, Java Development and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 31,
+          "degree": "Java Software DeveloperJava Software Developer Betaue Technologies And Placement Services · ApprenticeshipBetaue Technologies And Placement Services · Apprenticeship Jul 2023 - Present · 8 mosJul 2023 - Present · 8 mos Kanpur Nagar",
+          "institution": "Uttar Pradesh",
+          "dates": "India · On-siteKanpur Nagar"
+        }
+      ]
+    },
+    {
+      "id": "7c82",
+      "name": "Rajat Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQHN2jzULr1GbA/profile-framedphoto-shrink_200_200/0/1694448133751?e=1709553600&v=beta&t=SNhJF0s3WqqmonJSlBPJswPUnk7Y52N7S17CYm6xwCI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Java Developer",
+      "location": "Varanasi, Uttar Pradesh, India",
+      "connections": "59",
+      "contactInfo": {
+        "Phone": "7080668248",
+        "Email": "rajat20010208@gmail.com",
+        "Birthday": "February 8",
+        "Connected": "Sep 15, 2023"
+      },
+      "experience": [
+        {
+          "job_title": "Java Software DeveloperJava Software Developer",
+          "company_name": "Betaue Technologies And Placement Services",
+          "employment_type": "Apprenticeship",
+          "duration": "Jul 2023 - Present · 8 mos",
+          "location": "Kanpur Nagar, Uttar Pradesh, India · On-siteKanpur Nagar, Uttar Pradesh, India · On-site",
+          "skills": "Web Development, Java Development and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 31,
+          "degree": "Java Software DeveloperJava Software Developer Betaue Technologies And Placement Services · ApprenticeshipBetaue Technologies And Placement Services · Apprenticeship Jul 2023 - Present · 8 mosJul 2023 - Present · 8 mos Kanpur Nagar",
+          "institution": "Uttar Pradesh",
+          "dates": "India · On-siteKanpur Nagar"
+        }
+      ]
+    },
+    {
+      "id": "2bd6",
+      "name": "Rahul Sinha",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGGxKrE_AZmEQ/profile-displayphoto-shrink_200_200/0/1666116170041?e=1714608000&v=beta&t=TEAXpNQ7hinEasN1AopxrtqGCP3qrDyQ3HWnRsbJKEI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Developer @ Narayana's The Learning App",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "1,885",
+      "contactInfo": {
+        "Phone": "9304657432",
+        "Email": "rahulsinha1996@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGWqsT7gNqyjQ/company-logo_100_100/0/1664780851609/narayana_s_learning_app_logo?e=1717027200&v=beta&t=HpI0Vz_bQhntX0wQqsl06iVeEuxk6Eds25V8ouWi0lI",
+          "job_title": "Associate Software DeveloperAssociate Software Developer",
+          "company_name": "Narayana's The Learning App",
+          "employment_type": "Full-time",
+          "duration": "Sep 2022 - Present · 1 yr 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site",
+          "skills": "TypeORM, Cascading Style Sheets (CSS) and +18 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack Web DeveloperFull Stack Web Developer",
+          "company_name": "Masai",
+          "employment_type": "Internship",
+          "duration": "Dec 2021 - Aug 2022 · 9 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Cascading Style Sheets (CSS), React.js and +10 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 52,
+          "degree": "Magadh UniversityMagadh University Bachelor's degree",
+          "institution": "Computer ScienceBachelor's degree",
+          "dates": "Computer Science Jul 2015 - Oct 2018Jul 2015 - Oct 2018 Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges.Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges. JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "3909",
+      "name": "Neeraj Panchal",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQH1dNOahpX8kQ/profile-displayphoto-shrink_200_200/0/1704873524231?e=1714608000&v=beta&t=-YFSXZHhcx8INU1nkLGm7vm6X49ah2lEqvAy5oLqeF8",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Looking for  job opportunity | Next.js | React.js | Tailwind CSS | Responsive design | Redux toolkit",
+      "location": "Saharanpur, Uttar Pradesh, India",
+      "connections": "1,292",
+      "contactInfo": {
+        "Phone": "7668428177",
+        "Email": "neerajpanchal004@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "96f6",
+      "name": "Neeraj Rawat",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQE4Qub_YOXtoQ/profile-displayphoto-shrink_200_200/0/1698813213766?e=1714608000&v=beta&t=0Xs8YdefnBsP6yvygPpFqwtdrcf5j9FsJRq6oFeXk7o",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Freelance Front-End Web Developer | Tailwind CSS, HTML5, Bootstrap",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "1,845",
+      "contactInfo": {
+        "Phone": "7820021649",
+        "Email": "neerajrawat78200@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEJe-MEhPTm7w/company-logo_100_100/0/1631379336837?e=1717027200&v=beta&t=GoE40-nzbBJwGNDb-PK6NpvNbINLvFBHsyEtiVR326I",
+          "job_title": "FreelanceFreelance",
+          "company_name": "Freelancer.com",
+          "employment_type": "Self-employed",
+          "duration": "Jan 2023 - Present · 1 yr 2 mos"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 43,
+          "degree": "Kumaun University logo Kumaun UniversityKumaun University Bachelor of Science - BS",
+          "institution": "Mathematics and Computer ScienceBachelor of Science - BS",
+          "dates": "Mathematics and Computer Science Apr 2022Apr 2022 Markup Languages"
+        }
+      ]
+    },
+    {
+      "id": "c7ee",
+      "name": "Ankita Mehta",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQFXObPly9VirA/profile-displayphoto-shrink_200_200/0/1681033137700?e=1714608000&v=beta&t=R4Rk61ShQeGPxlZlpaVMhdX_Wx7e9Js3yAHLO-yPhKM",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "HR | Tech & Design",
+      "location": "Gurugram, Haryana, India",
+      "connections": "7,006",
+      "contactInfo": {
+        "Email": "ankitaabir@gmail.com",
+        "Connected": "Aug 16, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQESqmIRc7VGFA/company-logo_100_100/0/1655473519487/jio_logo?e=1717027200&v=beta&t=RI_jZCkVBdE6egzDYhtOwsBaN6ax8yS_TRAVu-jHXTg",
+          "job_title": "Human Resources | Tech & Design @ JioHuman Resources | Tech & Design @ Jio",
+          "company_name": "Jio",
+          "employment_type": "Full-time",
+          "duration": "Jun 2022 - Present · 1 yr 9 mos",
+          "location": "Delhi, IndiaDelhi, India",
+          "skills": "Talent Management, Global Talent Acquisition and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 54,
+          "degree": "Christ University",
+          "institution": "BangaloreChrist University",
+          "dates": "Bangalore PG"
+        },
+        {
+          "id": 55,
+          "degree": "Christ University",
+          "institution": "BangaloreChrist University",
+          "dates": "Bangalore Bachelor of Arts - BA"
+        },
+        {
+          "id": 98,
+          "degree": "Urmi BanerjeeUrmi Banerjee · 2ndSecond degree connection Senior Brand Designer at Jio | IIT-B Alumnus",
+          "institution": "Master in Design topper with 9.25 GPA | Best Student Director @ Indie Shorts",
+          "dates": "CannesSenior Brand Designer at Jio | IIT-B Alumnus"
+        }
+      ]
+    },
+    {
+      "id": "730e",
+      "name": "Kartik Mahurkar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFnbIgw78jLrw/profile-framedphoto-shrink_200_200/0/1704971867532?e=1709553600&v=beta&t=2AC7Pmrdg7Aix7GPSIG33VyEAG6kBvBBt808L17Boms",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "ReactJs Developer",
+      "location": "Pune, Maharashtra, India",
+      "connections": "488",
+      "contactInfo": {
+        "Phone": "7773987872",
+        "Email": "kartik.mahurkar777@gmail.com",
+        "Connected": "Feb 10, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGrko5j5-w7Vg/company-logo_100_100/0/1673009013583/mobiloitte_logo?e=1717027200&v=beta&t=t5VPfZvCkyQxJILVT6rnY_uh6-e_voCKbPrjdnQAL-0",
+          "job_title": "MobiloitteMobiloitte",
+          "company_name": "Full-time",
+          "employment_type": "1 yr 7 mos",
+          "duration": "Pune, Maharashtra, India · On-site",
+          "location": "Oct 2022 - Jan 2024 · 1 yr 4 mosOct 2022 - Jan 2024 · 1 yr 4 mos",
+          "skills": "MobiloitteMobiloitte"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4VR4JJrGBrQ/company-logo_100_100/0/1631322741408?e=1717027200&v=beta&t=MNTyDLX9I6hEn3BXUhOxYyZH3_EE-yCviCtyiLZ9boA",
+          "job_title": "InternIntern",
+          "company_name": "SwiftWIN Solutions Inc",
+          "employment_type": "Internship",
+          "duration": "Jul 2021 - Nov 2021 · 5 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India",
+          "skills": "Git and Jira"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 50,
+          "degree": "Institute for Advanced Computing and Software Development (IACSD)Institute for Advanced Computing and Software Development (IACSD) PG-Diploma",
+          "institution": "Diploma in advanced computingPG-Diploma",
+          "dates": "Diploma in advanced computing 2020 - 20212020 - 2021 Grade: 63%Grade: 63%"
+        },
+        {
+          "id": 52,
+          "degree": "GES R.H. Sapat Collage of Engineering Management Studies and Research Nashik -05GES R.H. Sapat Collage of Engineering Management Studies and Research Nashik -05 Bachelor of Engineering - BE",
+          "institution": "Electronics and Telecommunication Engineering Bachelor of Engineering - BE",
+          "dates": "Electronics and Telecommunication Engineering 2013 - 20192013 - 2019 Grade: 60.93%Grade: 60.93%"
+        }
+      ]
+    },
+    {
+      "id": "b3db",
+      "name": "Kayathri Devendra",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFWjCCltL21wA/profile-framedphoto-shrink_200_200/0/1707209798762?e=1709553600&v=beta&t=PK4LQ88vkYW16ELouIoXTbHA2Oy4GnqI_M2PFpHzmcE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "HR Executive at Togglehead | Digital Marketing | People Analytics | Talent and Workforce | 📃Resume✍🏻Writing || Fostering an environment that is welcoming and inclusive for an employee",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "1,345",
+      "contactInfo": {
+        "Email": "kayudev222000@gmail.com",
+        "Birthday": "August 22",
+        "Connected": "Oct 20, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQHur9tV9dHRLQ/company-logo_100_100/0/1707290606393?e=1717027200&v=beta&t=Vv-WmzxcnPszAnxTUWVGJU5-tzdGE33Q65wd83-8_30",
+          "job_title": "Human Resources ExecutiveHuman Resources Executive",
+          "company_name": "Togglehead",
+          "employment_type": "Full-time",
+          "duration": "Nov 2022 - Feb 2024 · 1 yr 4 mos",
+          "location": "Mumbai, Maharashtra, India · RemoteMumbai, Maharashtra, India · Remote"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQG6JRIG4sXEMw/company-logo_100_100/0/1631357870935?e=1717027200&v=beta&t=d57sXhOgy_Y_0okmVvYBbaAHVbXCKqIyx-fBdNkjYn4",
+          "job_title": "Talent Acquisition ExecutiveTalent Acquisition Executive",
+          "company_name": "Gigs Media Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Feb 2022 - Apr 2022 · 3 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        },
+        {
+          "job_title": "Human Resources InternshipHuman Resources Internship",
+          "company_name": "Aashman Foundation",
+          "employment_type": "Full-time",
+          "duration": "May 2021 - Nov 2021 · 7 mos",
+          "location": "IndiaIndia",
+          "skills": "Sourcing, Training and Development (HR) and +7 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE6Fq5HNvwvLA/company-logo_100_100/0/1630664186668/campus_corporate_logo?e=1717027200&v=beta&t=hs8a3mDMg5SdOPXvptzcCxIVL-ag0lazOn4ycgLxv-E",
+          "job_title": "Human Resources InternHuman Resources Intern",
+          "company_name": "Campus-Corporate | Internship | Job Opportunities | Part-Time Jobs | Digital Marketing ",
+          "employment_type": "Part-time",
+          "duration": "Jul 2021 - Oct 2021 · 4 mos",
+          "location": "Mumbai, Maharashtra, India · RemoteMumbai, Maharashtra, India · Remote",
+          "skills": "Digital Marketing Agencies, Human Resources (HR) and +5 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 36,
+          "degree": "Kayathri Devendra posted this • 3mo3mo 🌟 Join Our Toggler Team! 🌟....Does passion drive you? Do you have a knack for crafting captivating copy that sparks desire and drives engagement? Look no further",
+          "institution": "because we have the perfect opportunity for you!📣 Position: Copywriter 🖋️(1-3) years 🌐 Location: Mumbai",
+          "dates": "Lower Parel 🌍⏰ Immediate Joining! ⏰At Togglehead"
+        }
+      ]
+    },
+    {
+      "id": "eec3",
+      "name": "Sonu Shettiyar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHesOvcPuNbMg/profile-displayphoto-shrink_200_200/0/1700990420369?e=1714608000&v=beta&t=Fb6Sdq8nhR6llg4CfZA9xvBc8y-pp5s36mGUqOroGN8",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Developer | React | Redux | Node | Express | MongoDB | JavaScript | TypeScript | Vue3 | HTML5 | CSS3 | Data Structure and Algorithms | OpenAI",
+      "location": "Chandrapur, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "Sonubadmash003@gmail.com",
+        "Connected": "Jul 28, 2023"
+      },
+      "experience": [
+        {
+          "job_title": "ShopkeeperShopkeeper",
+          "company_name": "Krishnamurti Kirana stores",
+          "employment_type": "Self-employed",
+          "duration": "Jan 2013 - Present · 11 yrs 2 mos",
+          "location": "Chandrapur, Maharashtra, India · HybridChandrapur, Maharashtra, India · Hybrid"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "StudentStudent",
+          "company_name": "Masai",
+          "employment_type": "Full-time",
+          "duration": "Nov 2022 - Aug 2023 · 10 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Communication, MongoDB and +39 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQG2hYpmp8_WxA/company-logo_100_100/0/1630618530669?e=1717027200&v=beta&t=btK8ofbuhMesmZ3vpmfutkOrKA4AEd-GNPH9qbiky1s",
+          "job_title": "Poster Making CompetitionPoster Making Competition",
+          "company_name": "Issued by Janata Mahavidyalaya, Chandrapur",
+          "employment_type": "Jan 2019"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 48,
+          "degree": "GONDWANA UNIVERSITY",
+          "institution": "GADCHIROLIGONDWANA UNIVERSITY",
+          "dates": "GADCHIROLI Bachelor of ScienceBachelor of Science Jun 2018 - Apr 2021Jun 2018 - Apr 2021"
+        }
+      ]
+    },
+    {
+      "id": "6f02",
+      "name": "Archishman Das",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQENYSST99-x3w/profile-framedphoto-shrink_200_200/0/1650744242391?e=1709553600&v=beta&t=Z2SONQYphfxLLKeD_23SIruSJ38iGt1MwuHcnHZpMTI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Looking for SDE1 opportunities | Java | Python",
+      "location": "New Delhi, Delhi, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "gowork.archis@gmail.com",
+        "Connected": "Jul 2, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "40c2",
+      "name": "Dirk Sieger",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4E35AQFq_XdgyTMJMw/profile-framedphoto-shrink_200_200/0/1705496441859?e=1709553600&v=beta&t=6AM1Qo9ZmR4blIFb3A2vPamzZarvDNY5NkBuCPIz--4",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Senior Associate Talent Acquisition bei Publicis Sapient",
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "connections": "500+",
+      "contactInfo": {
+        "Connected": "Aug 22, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4E0BAQFBLqu-aPvgtQ/company-logo_100_100/0/1688590236578/publicissapient_logo?e=1717027200&v=beta&t=MqvDwMiK_o9iKwtK5v77lomU4YazWciSY-sq1YjxJcc",
+          "job_title": "Senior Associate Talent AcquisitionSenior Associate Talent Acquisition",
+          "company_name": "Publicis Sapient",
+          "employment_type": "Full-time",
+          "duration": "Jan 2021 - Present · 3 yrs 2 mos",
+          "location": "Frankfurt am Main, Hessen, DeutschlandFrankfurt am Main, Hessen, Deutschland"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGmlDR0g_2XIg/company-logo_100_100/0/1688575032847/avanade_logo?e=1717027200&v=beta&t=Q7xSjI6vtAoHaTcdZ6fQMsybrarPhFCYCLpHV4pftW8",
+          "job_title": "Talent Acquisition ConsultantTalent Acquisition Consultant",
+          "company_name": "AVANADE DEUTSCHLAND GMBH",
+          "employment_type": "Full-time",
+          "duration": "Nov 2019 - Apr 2020 · 6 mos",
+          "location": "KronbergKronberg"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFwAk6lD9DhlQ/company-logo_100_100/0/1631429289868/randstad_sourceright_logo?e=1717027200&v=beta&t=ngz4HlyjT0m7LQr_9plkXyjlx4p5FsIKG3oFSkRxJfU",
+          "job_title": "Senior Recruitment Business PartnerSenior Recruitment Business Partner",
+          "company_name": "Randstad Sourceright",
+          "employment_type": "Full-time",
+          "duration": "Oct 2019 - Apr 2020 · 7 mos",
+          "location": "EschbornEschborn"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "2900",
+      "name": "Dirk Sieger",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4E35AQFq_XdgyTMJMw/profile-framedphoto-shrink_200_200/0/1705496441859?e=1709553600&v=beta&t=6AM1Qo9ZmR4blIFb3A2vPamzZarvDNY5NkBuCPIz--4",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Senior Associate Talent Acquisition bei Publicis Sapient",
+      "location": "Frankfurt Rhine-Main Metropolitan Area",
+      "connections": "500+",
+      "contactInfo": {
+        "Connected": "Aug 22, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4E0BAQFBLqu-aPvgtQ/company-logo_100_100/0/1688590236578/publicissapient_logo?e=1717027200&v=beta&t=MqvDwMiK_o9iKwtK5v77lomU4YazWciSY-sq1YjxJcc",
+          "job_title": "Senior Associate Talent AcquisitionSenior Associate Talent Acquisition",
+          "company_name": "Publicis Sapient",
+          "employment_type": "Full-time",
+          "duration": "Jan 2021 - Present · 3 yrs 2 mos",
+          "location": "Frankfurt am Main, Hessen, DeutschlandFrankfurt am Main, Hessen, Deutschland"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGmlDR0g_2XIg/company-logo_100_100/0/1688575032847/avanade_logo?e=1717027200&v=beta&t=Q7xSjI6vtAoHaTcdZ6fQMsybrarPhFCYCLpHV4pftW8",
+          "job_title": "Talent Acquisition ConsultantTalent Acquisition Consultant",
+          "company_name": "AVANADE DEUTSCHLAND GMBH",
+          "employment_type": "Full-time",
+          "duration": "Nov 2019 - Apr 2020 · 6 mos",
+          "location": "KronbergKronberg"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFwAk6lD9DhlQ/company-logo_100_100/0/1631429289868/randstad_sourceright_logo?e=1717027200&v=beta&t=ngz4HlyjT0m7LQr_9plkXyjlx4p5FsIKG3oFSkRxJfU",
+          "job_title": "Senior Recruitment Business PartnerSenior Recruitment Business Partner",
+          "company_name": "Randstad Sourceright",
+          "employment_type": "Full-time",
+          "duration": "Oct 2019 - Apr 2020 · 7 mos",
+          "location": "EschbornEschborn"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "c0c0",
+      "name": "Neelachari N H",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQFzH6nw9F6tyg/profile-framedphoto-shrink_200_200/0/1705212880923?e=1709553600&v=beta&t=kZ4x0Rqusx5W_WHzwgnQo-RfpYxz7S48_QCH0Tb9IFc",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Aspiring MERN Stack Developer | HTML | CSS | JavaScript | React | Chakra UI | Redux | TypeScript | MongoDB | Express | Node.js | @Masaischool",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "410",
+      "contactInfo": {
+        "Phone": "8792929161",
+        "Email": "neelachari34@gmail.com",
+        "Connected": "Jul 4, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQEa38LnCdm8Xg/company-logo_100_100/0/1631303999577?e=1717027200&v=beta&t=GpFzrl8WDuA8C9N1zqlN3qT7IACMN0zUiJ9PfiNhBC8",
+          "job_title": "Title SearcherTitle Searcher",
+          "company_name": "First Focus Business Solutions Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Feb 2021 - Jul 2022 · 1 yr 6 mos",
+          "location": "Hospet, Karnataka, IndiaHospet, Karnataka, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 43,
+          "degree": "Proudadevaraya Institute of Technology",
+          "institution": "HOSPETProudadevaraya Institute of Technology",
+          "dates": "HOSPET Bachelor of Engineering - BE"
+        },
+        {
+          "id": 44,
+          "degree": "T.M.A.E.S Polytechnic CollegeT.M.A.E.S Polytechnic College Diploma of Education",
+          "institution": "Mechanical EngineeringDiploma of Education",
+          "dates": "Mechanical Engineering 2013 - 20152013 - 2015"
+        }
+      ]
+    },
+    {
+      "id": "01b0",
+      "name": "Danish Ahmed",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQFBHGG9IhgMEQ/profile-framedphoto-shrink_200_200/0/1688485009393?e=1709553600&v=beta&t=RXZ_jRoqvaxL_rq_iKSTlx1ayI2OYRxfXc4iwpm8nrE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Development Engineer @Anarock | Frontend Developer | React.Js Developer | Redux | React Native |  Javascript | Typescript | SCSS | CSS | HTML | Web Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "8600156397",
+        "Email": "danish4eng@gmail.com",
+        "Birthday": "May 29",
+        "Connected": "Jul 28, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQFSBNilIwptFw/company-logo_100_100/0/1630595072931/anarock_property_consultants_logo?e=1717027200&v=beta&t=iita5bUyNErfLDmMQekcnm2zKpgN6Mk7d9ydbQi2RBc",
+          "job_title": "SDESDE",
+          "company_name": "ANAROCK",
+          "employment_type": "Full-time",
+          "duration": "Jun 2022 - Present · 1 yr 9 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Evergreen UI, Software Development and +9 skills"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "907e",
+      "name": "Vishal Mahanwar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C5603AQGvmkrWPJiilw/profile-displayphoto-shrink_200_200/0/1641657687526?e=1714608000&v=beta&t=wJcc5ebJpyNdMGnbf5in0bql3Zr0jJXR2LOzVnFaFMs",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Assistant manager at JSW steel Ltd.",
+      "location": "Satara Taluka, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9112292785",
+        "Email": "vishalmahanwar1998@gmail.com",
+        "Connected": "Feb 6, 2022"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQF2SqEmpYZ_iQ/company-logo_100_100/0/1630541947017?e=1717027200&v=beta&t=2lN7ctVqaNn7_QgygP6lBBj7e6csEwFha0Vmpcl8h9Y",
+          "job_title": "Intern at Attaquant enterprises Pvt Ltd, PuneIntern at Attaquant enterprises Pvt Ltd, Pune",
+          "company_name": "Attaquant Enterprises",
+          "employment_type": "Internship",
+          "duration": "Sep 2020 - Feb 2021 · 6 mos",
+          "location": "Pune/Pimpri-Chinchwad AreaPune/Pimpri-Chinchwad Area",
+          "skills": "Process Simulation, Project Management and +5 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQH0u7Rluqx0sw/company-logo_100_100/0/1630480070666/jubilantpharmova_logo?e=1717027200&v=beta&t=CfLqmt28IIHC1AQ9t5urr08c49J6KDlalkE5U83S-l4",
+          "job_title": "Project InternProject Intern",
+          "company_name": "Jubilant Life Sciences Limited",
+          "employment_type": "Internship",
+          "duration": "Apr 2019 - May 2019 · 2 mos",
+          "location": "Baramati, Maharashtra, IndiaBaramati, Maharashtra, India",
+          "skills": "Process Simulation, Project Management and +6 skills"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "ca9c",
+      "name": "Vishal Mahanwar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C5603AQGvmkrWPJiilw/profile-displayphoto-shrink_200_200/0/1641657687526?e=1714608000&v=beta&t=wJcc5ebJpyNdMGnbf5in0bql3Zr0jJXR2LOzVnFaFMs",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Assistant manager at JSW steel Ltd.",
+      "location": "Satara Taluka, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "9112292785",
+        "Email": "vishalmahanwar1998@gmail.com",
+        "Connected": "Feb 6, 2022"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQF2SqEmpYZ_iQ/company-logo_100_100/0/1630541947017?e=1717027200&v=beta&t=2lN7ctVqaNn7_QgygP6lBBj7e6csEwFha0Vmpcl8h9Y",
+          "job_title": "Intern at Attaquant enterprises Pvt Ltd, PuneIntern at Attaquant enterprises Pvt Ltd, Pune",
+          "company_name": "Attaquant Enterprises",
+          "employment_type": "Internship",
+          "duration": "Sep 2020 - Feb 2021 · 6 mos",
+          "location": "Pune/Pimpri-Chinchwad AreaPune/Pimpri-Chinchwad Area",
+          "skills": "Process Simulation, Project Management and +5 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQH0u7Rluqx0sw/company-logo_100_100/0/1630480070666/jubilantpharmova_logo?e=1717027200&v=beta&t=CfLqmt28IIHC1AQ9t5urr08c49J6KDlalkE5U83S-l4",
+          "job_title": "Project InternProject Intern",
+          "company_name": "Jubilant Life Sciences Limited",
+          "employment_type": "Internship",
+          "duration": "Apr 2019 - May 2019 · 2 mos",
+          "location": "Baramati, Maharashtra, IndiaBaramati, Maharashtra, India",
+          "skills": "Process Simulation, Project Management and +6 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 62,
+          "degree": "S.G.M College",
+          "institution": "KaradS.G.M College",
+          "dates": "Karad 12 th"
+        },
+        {
+          "id": 96,
+          "degree": "Bill GatesBill Gates Co-chair",
+          "institution": "Bill & Melinda Gates FoundationCo-chair",
+          "dates": "Bill & Melinda Gates Foundation 35"
+        }
+      ]
+    },
+    {
+      "id": "347d",
+      "name": "Atul Katoch",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFXsRPCoQ86_w/profile-framedphoto-shrink_200_200/0/1696255136459?e=1709553600&v=beta&t=Ug1EoiD1cnWQ4dh20wcJCyKAwycX2eu1VIm08fuaads",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Data Analyst @ SkillCircle™ | BCom in Accounting\n\nEnthusiastic and highly motivated data\nanalyst. Proficient in Python with hands-\non experience in utilizing popular data\nanalytics libraries and tools.",
+      "location": "Faridabad, Haryana, India",
+      "connections": "695",
+      "contactInfo": {
+        "Phone": "7827224697",
+        "Email": "atulkatoch563@gmail.com",
+        "Birthday": "April 25",
+        "Connected": "Sep 3, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGleJf5iUUP7g/company-logo_100_100/0/1674127190501?e=1717027200&v=beta&t=AdfavW2ofp8_UoL43GJKLXni1nQEpFAk10vy82Ve2DQ",
+          "job_title": "Data AnalystData Analyst",
+          "company_name": "SkillCircle™",
+          "employment_type": "Internship",
+          "duration": "Jul 2023 - Present · 8 mos",
+          "location": "Delhi, India · HybridDelhi, India · Hybrid"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 36,
+          "degree": "Dav Centenary College - IndiaDav Centenary College - India Master's degree",
+          "institution": "AccountingMaster's degree",
+          "dates": "Accounting Nov 2022 - Jul 2024Nov 2022 - Jul 2024"
+        },
+        {
+          "id": 37,
+          "degree": "Dav Centenary College - IndiaDav Centenary College - India Bachelor of Commerce - BCom",
+          "institution": "AccountingBachelor of Commerce - BCom",
+          "dates": "Accounting Aug 2019 - Aug 2022Aug 2019 - Aug 2022 Grade: AGrade: A"
+        },
+        {
+          "id": 53,
+          "degree": "Generative AI- Python/Data Scientist-Analyst / Java Developer / J2EE / Core Java / Software EngineerGenerative AI- Python/Data Scientist-Analyst / Java Developer / J2EE / Core Java / Software Engineer 129",
+          "institution": "504 members129",
+          "dates": "504 members Join"
+        }
+      ]
+    },
+    {
+      "id": "6b66",
+      "name": "Shubham Bhamare",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGcqhVOynbJHA/profile-displayphoto-shrink_200_200/0/1693678839652?e=1714608000&v=beta&t=0kO6OsjDNmxgVF6b6smOgaqVpgRKhq3twNBmstTyYTg",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Assosiate Full Stack Web Developer - Clodura.ai",
+      "location": "India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "shubhambhamre632@gmail.com",
+        "Connected": "Feb 7, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Full-stack DeveloperFull-stack Developer",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Mar 2022 - Present · 2 yrs",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India",
+          "skills": "JavaScript, Linux and +10 skills"
+        },
+        {
+          "job_title": "Design EngineerDesign Engineer",
+          "company_name": "SCS Technology",
+          "employment_type": "Full-time",
+          "duration": "Nov 2020 - Dec 2021 · 1 yr 2 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "Savitribai Phule Pune UniversitySavitribai Phule Pune University Bachelor of Engineering - BE",
+          "institution": "Mechanical EngineeringBachelor of Engineering - BE",
+          "dates": "Mechanical Engineering 2017 - 20202017 - 2020 Grade: AGrade: A"
+        },
+        {
+          "id": 48,
+          "degree": "MSBTEMSBTE Diploma in Engineering",
+          "institution": "Mechanical EngineeringDiploma in Engineering",
+          "dates": "Mechanical Engineering Aug 2014 - Aug 2017Aug 2014 - Aug 2017 Grade: AGrade: A"
+        }
+      ]
+    },
+    {
+      "id": "455e",
+      "name": "Pravin Mohite",
+      "profilePicSrc": "unable to get the url",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Developer at Clodura.ai - HTML,CSS,JavaScript,React.js,Node.js,MongoDB,Express.js",
+      "location": "Nashik, Maharashtra, India",
+      "connections": "259",
+      "contactInfo": {
+        "Phone": "8766535472",
+        "Email": "mohite461998@gmail.com"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Associate Software DeveloperAssociate Software Developer",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Feb 2024 - Present · 1 mo",
+          "location": "Pune/Baner · On-sitePune/Baner · On-site",
+          "skills": "AngularJS and Chrome Extensions"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQGgXUdfEd9tgw/company-logo_100_100/0/1631357771170?e=1717027200&v=beta&t=M1BX6IbaFSXDxUHt1bv5vhkJPisNymVsgk9B7Fdt9ts",
+          "job_title": "Front End Software DeveloperFront End Software Developer",
+          "company_name": "Tratoli TMC - Travel Management Company",
+          "employment_type": "Full-time",
+          "duration": "Mar 2023 - Oct 2023 · 8 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India",
+          "skills": "Front-End Development, CSS Grid Layout and +8 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full-stack web Developer traineeFull-stack web Developer trainee",
+          "company_name": "Masai",
+          "employment_type": "Full-time",
+          "duration": "Feb 2022 - Feb 2023 · 1 yr 1 mo",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Node.js, Cascading Style Sheets (CSS) and +9 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 53,
+          "degree": "MasaiMasai FULL STACK WEB DEVELOPERFULL STACK WEB DEVELOPER Mar 2022 - Dec 2022Mar 2022 - Dec 2022 Activities and societies: codingActivities and societies: coding This is the full-stack web development course",
+          "institution": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skillThis is the full-stack web development course",
+          "dates": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skill JSON"
+        },
+        {
+          "id": 55,
+          "degree": "This is the full-stack web development course",
+          "institution": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skillThis is the full-stack web development course",
+          "dates": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skill"
+        },
+        {
+          "id": 56,
+          "degree": "This is the full-stack web development course",
+          "institution": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skillThis is the full-stack web development course",
+          "dates": "where I have done about 1200 hours of coding and 500 hours of DSA practice. to improve my web development skill"
+        },
+        {
+          "id": 62,
+          "degree": "SND COLLAGE OF ENGINEERING AND RESEARCH CENTERSND COLLAGE OF ENGINEERING AND RESEARCH CENTER Bachelors of engineering",
+          "institution": "Electrical EngineeringBachelors of engineering",
+          "dates": "Electrical Engineering Apr 2017 - Nov 2020Apr 2017 - Nov 2020 Grade: 7.46 CGPAGrade: 7.46 CGPA I completed my graduation in the year 2020I completed my graduation in the year 2020"
+        }
+      ]
+    },
+    {
+      "id": "ee63",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "1447",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "bc6e",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "82ca",
+      "name": "Prasad More",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQGiPuCeOEARyw/profile-framedphoto-shrink_200_200/0/1667061755891?e=1709557200&v=beta&t=OshbRt4S0g9FMKETgUA62dw_CzhVkPvsaLfsQV91Ems",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Sales Development Representative at Clodura.AI",
+      "location": "Satara, Maharashtra, India",
+      "connections": "131",
+      "contactInfo": {
+        "Phone": "+917507552220",
+        "Email": "prasadmore81@gmail.com",
+        "Birthday": "June 1",
+        "Connected": "Feb 22, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEPcczqHmR79A/company-logo_100_100/0/1649316690152/clodura_systems_logo?e=1717027200&v=beta&t=_ibSQr8f6lcrRDmdpzT8n_ny5eVHmfV6eUVykvoEYy4",
+          "job_title": "Sales Development Representative at Clodura.aiSales Development Representative at Clodura.ai",
+          "company_name": "Clodura.AI",
+          "employment_type": "Full-time",
+          "duration": "Apr 2023 - Present · 11 mos",
+          "location": "Pune, Maharashtra, India · RemotePune, Maharashtra, India · Remote"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQHuWXVF_S1LXw/company-logo_100_100/0/1686142570082/cloud_technologiess_logo?e=1717027200&v=beta&t=N-5BLDc483XUcoHGGeT6cv83uLGRDmyiZkjY4UGi7hA",
+          "job_title": "Online Content ProducerOnline Content Producer",
+          "company_name": "Cloud Technologies",
+          "employment_type": "Freelance",
+          "duration": "Nov 2018 - Present · 5 yrs 4 mos",
+          "location": "Maharashtra, IndiaMaharashtra, India",
+          "skills": "Information Technology"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQHp_VaAhmufog/company-logo_100_100/0/1631338091964?e=1717027200&v=beta&t=QyZD9ihBoSZyLBGniliq2bSpMKx6hamWT0kKiL8ta6k",
+          "job_title": "Team Lead - IT SupportTeam Lead - IT Support",
+          "company_name": "John Deere India Pvt. Ltd. (JDTCI)",
+          "employment_type": "Full-time",
+          "duration": "Jun 2018 - Sep 2018 · 4 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India",
+          "skills": "Information Technology and Problem Solving"
+        },
+        {
+          "job_title": "IT Team Lead - Desktop/Network SupportIT Team Lead - Desktop/Network Support",
+          "company_name": "Suzulok Techworld",
+          "employment_type": "Full-time",
+          "duration": "Nov 2013 - Feb 2018 · 4 yrs 4 mos",
+          "location": "Satara, Maharashtra, IndiaSatara, Maharashtra, India",
+          "skills": "Information Technology and Problem Solving"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_100_100/0/1688684715866/ibm_logo?e=1717027200&v=beta&t=D0A8Powojq_IyJ8wWkN06plZ1rSYwawcOdGhx8fI-wQ",
+          "job_title": "Master Data Analyst - SAP Supply Chain ManagementMaster Data Analyst - SAP Supply Chain Management",
+          "company_name": "IBM",
+          "employment_type": "Full-time",
+          "duration": "Nov 2009 - Oct 2013 · 4 yrs",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India",
+          "skills": "Information Technology and Supply Chain Management"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 33,
+          "degree": "Sales Development Representative at Clodura.aiSales Development Representative at Clodura.ai Clodura.AI · Full-timeClodura.AI · Full-time Apr 2023 - Present · 11 mosApr 2023 - Present · 11 mos Pune",
+          "institution": "Maharashtra",
+          "dates": "India · RemotePune"
+        },
+        {
+          "id": 34,
+          "degree": "🚀 As a Sales Development Representative at Clodura.Ai",
+          "institution": "I'm passionate about driving growth and empowering businesses with our cutting-edge Lead Generation Platform. Here's how I make a difference:📞 Discovery and Demo Calls: I excel in identifying prospects' pain points and needs",
+          "dates": "engaging in meaningful conversations"
+        },
+        {
+          "id": 35,
+          "degree": "🚀 As a Sales Development Representative at Clodura.Ai",
+          "institution": "I'm passionate about driving growth and empowering businesses with our cutting-edge Lead Generation Platform. Here's how I make a difference:📞 Discovery and Demo Calls: I excel in identifying prospects' pain points and needs",
+          "dates": "engaging in meaningful conversations"
+        },
+        {
+          "id": 54,
+          "degree": "Master Data Analyst - SAP Supply Chain ManagementMaster Data Analyst - SAP Supply Chain Management IBM · Full-timeIBM · Full-time Nov 2009 - Oct 2013 · 4 yrsNov 2009 - Oct 2013 · 4 yrs Pune",
+          "institution": "Maharashtra",
+          "dates": "IndiaPune"
+        },
+        {
+          "id": 55,
+          "degree": "1)Worked as a Master Data Analyst on a Supply Chain Management Project for a US-based Client - Panasonic Corp. of North America using SAP MECA ECC 6.0 Application.•Worked as a Master Data/Reporting Analyst for processing POS",
+          "institution": "VMI & EDI Reports.•Maintained Sales Rep Matrix Table & Material Master Table.•Partnered with Product",
+          "dates": "Sales"
+        },
+        {
+          "id": 56,
+          "degree": "1)Worked as a Master Data Analyst on a Supply Chain Management Project for a US-based Client - Panasonic Corp. of North America using SAP MECA ECC 6.0 Application.•Worked as a Master Data/Reporting Analyst for processing POS",
+          "institution": "VMI & EDI Reports.•Maintained Sales Rep Matrix Table & Material Master Table.•Partnered with Product",
+          "dates": "Sales"
+        },
+        {
+          "id": 60,
+          "degree": "Aptech Computer Education",
+          "institution": "Satara",
+          "dates": "Maharashtra"
+        },
+        {
+          "id": 61,
+          "degree": "Dhananjayrao Gadgil College of Commerce",
+          "institution": "Satara",
+          "dates": "Maharashtra"
+        }
+      ]
+    },
+    {
+      "id": "9de6",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 76,
+          "degree": "MasaiMasai 65",
+          "institution": "612 followers65",
+          "dates": "612 followers Following"
+        }
+      ]
+    },
+    {
+      "id": "ec24",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "f656",
+      "name": "Anand Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHnQT1qZUDUQA/profile-displayphoto-shrink_200_200/0/1705426098397?e=1714608000&v=beta&t=6fNqrIsKq3llH8pr1MICGcnue1_ALRI8kWmNO6WSUZ0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SME - IBM  |  Full-Stack Developer | Node.JS | Express.JS | MongoDB | React.JS | SQL | JavaScript | Redis | Socket.io |  System Design | AWS | HTML5 | CSS3 | Data Structure and Algorithm | Immediate Joining",
+      "location": "Noida, Uttar Pradesh, India",
+      "connections": "643",
+      "contactInfo": {
+        "Email": "anandkumargupta.akg15@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "d485",
+      "name": "Mranalini Paroche",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQFZrlLj5pa6hQ/profile-displayphoto-shrink_200_200/0/1692164142833?e=1714608000&v=beta&t=NN052juR6drz-alg5E5F8EVxag8mbL3j2ZHHrSnOd9g",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "100k followers|| HR Generalist Specializing in IT Talent Acquisition, Employee Relations, IT Recruitment and Employee Engagement, Policy Development",
+      "location": "Madhya Pradesh, India",
+      "connections": "103,529",
+      "contactInfo": {
+        "Email": "mranaliniparoche20@gmail.com",
+        "Connected": "Aug 16, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQH7n_wXiyHgyg/company-logo_100_100/0/1630615972024/vigility_technologies_private_limited_logo?e=1717027200&v=beta&t=p1DNP3eykrlDO37Aw_SVFgoz5LV2L4IkqlIqo3NUx9Y",
+          "job_title": "Human Resources AnalystHuman Resources Analyst",
+          "company_name": "Vigility Technologies Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Aug 2023 - Present · 7 mos",
+          "location": "Indore · On-siteIndore · On-site"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQFwtWae8h-zdQ/company-logo_100_100/0/1630537231862/ewebworld1_logo?e=1717027200&v=beta&t=eELrAuBl0PYoSpbmMn06UK-Vb774hykOXVFVHCWfqlo",
+          "job_title": "Human Resources GeneralistHuman Resources Generalist",
+          "company_name": "EWebWorld",
+          "employment_type": "Full-time",
+          "duration": "Dec 2022 - Apr 2023 · 5 mos",
+          "location": "Indore, Madhya Pradesh, India · On-siteIndore, Madhya Pradesh, India · On-site",
+          "skills": "Screening, Communication and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQFl3xwtEW7ERw/company-logo_100_100/0/1666245170516/worthply_technologies_logo?e=1717027200&v=beta&t=GYCd0X02xR-ldRa0_e6LLklJGgpkKAH_eH2UMGPrfE0",
+          "job_title": "Human Resources GeneralistHuman Resources Generalist",
+          "company_name": "Worthply Technologies Pvt. Ltd.",
+          "employment_type": "Full-time",
+          "duration": "Mar 2022 - Dec 2022 · 10 mos",
+          "location": "Indore, Madhya Pradesh, IndiaIndore, Madhya Pradesh, India",
+          "skills": "Screening, HR Policies and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHcoXfH_eQA4w/company-logo_100_100/0/1631343195146?e=1717027200&v=beta&t=i6QAh4Pp07vp5D-2JC14mMYYYoPyfaNQ4INnJz125hw",
+          "job_title": "Human Resources GeneralistHuman Resources Generalist",
+          "company_name": "BridgeLogic Software Pvt Ltd",
+          "employment_type": "Full-time",
+          "duration": "Oct 2021 - Mar 2022 · 6 mos",
+          "location": "Indore, Madhya Pradesh, IndiaIndore, Madhya Pradesh, India",
+          "skills": "Screening, HR Policies and +2 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 34,
+          "degree": "Mranalini Paroche posted this • 3d3d Job Title: Technical ConsultantExperience: 1-4 yearsLocation: MumbaiResponsibilities:Implement",
+          "institution": "customize",
+          "dates": "and support CA SDM"
+        },
+        {
+          "id": 36,
+          "degree": "Mranalini Paroche posted this • 5d5d Job Title: Technical ConsultantExperience: 1-4 yearsLocation: MumbaiResponsibilities:Implement",
+          "institution": "customize",
+          "dates": "and support CA SDM"
+        },
+        {
+          "id": 39,
+          "degree": "Mranalini Paroche posted this • 1w1w Job Title: Technical ConsultantExperience: 1-4 yearsLocation: MumbaiResponsibilities:Implement",
+          "institution": "customize",
+          "dates": "and support CA SDM"
+        },
+        {
+          "id": 57,
+          "degree": "Chameli Devi Institute of Professional Studies",
+          "institution": "IndoreChameli Devi Institute of Professional Studies",
+          "dates": "Indore Master of Business Administration - MBA"
+        },
+        {
+          "id": 58,
+          "degree": "Govt. Maharani Laxmi Bai Nutan Girls College",
+          "institution": "Kila Maidan",
+          "dates": "Indore logo Govt. Maharani Laxmi Bai Nutan Girls College"
+        },
+        {
+          "id": 81,
+          "degree": "InfosysInfosys 8",
+          "institution": "383",
+          "dates": "125 followers8"
+        },
+        {
+          "id": 85,
+          "degree": "India HR GroupIndia HR Group 217",
+          "institution": "312 members217",
+          "dates": "312 members Join"
+        }
+      ]
+    },
+    {
+      "id": "a49b",
+      "name": "SACHIN KUMAR SAHOO",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQFwxDCKuymX7g/profile-displayphoto-shrink_200_200/0/1687480187504?e=1714608000&v=beta&t=JmuM4pIPUvcc_O7skvxw4JwfZaw6mc79C9Y-MiX4i4A",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Developer",
+      "location": "Bhubaneswar, Odisha, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "7978803306",
+        "Email": "sachinsahoo341@gmail.com",
+        "Birthday": "March 28",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHPgplXD7VrXw/company-logo_100_100/0/1660583656590?e=1717027200&v=beta&t=50IBMHK75JFQVbgy3q5pz19lIWgV0zY9mZ3LZQqoS8g",
+          "job_title": "Full-stack DeveloperFull-stack Developer",
+          "company_name": "The 10x Academy",
+          "employment_type": "Apprenticeship",
+          "duration": "Aug 2022 - Present · 1 yr 7 mos",
+          "location": "Hyderabad, Telangana, India · RemoteHyderabad, Telangana, India · Remote",
+          "skills": "Full-Stack Development, Problem Solving and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGLvlWRpHZ1BA/company-logo_100_100-alternative/0/1630542110641/deepthoughtedutech_logo?e=1717027200&v=beta&t=aUotWdSNOXBkkquF6Knx4IhW4qX-3peqBN65O0Gny7c",
+          "job_title": "Web DeveloperWeb Developer",
+          "company_name": "DeepThought Growth Management System",
+          "employment_type": "Internship",
+          "duration": "Aug 2023 - Dec 2023 · 5 mos",
+          "location": "Hyderabad, Telangana, IndiaHyderabad, Telangana, India",
+          "skills": "Javascript , HTML and +6 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQFGN_-k_ECYzw/company-logo_100_100/0/1676559966105/simplbyte_logo?e=1717027200&v=beta&t=3J4i8IOP-lLczQsVsUV_sfm7i3i4_zN-ODkul4qDj6Y",
+          "job_title": "Web DeveloperWeb Developer",
+          "company_name": "Simplbyte",
+          "employment_type": "Internship",
+          "duration": "Jun 2023 - Jul 2023 · 2 mos",
+          "location": "RemoteRemote",
+          "skills": "Web Development"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 59,
+          "degree": "North Orissa UniversityNorth Orissa University Bachelor's degree",
+          "institution": "Computer ScienceBachelor's degree",
+          "dates": "Computer Science Jun 2015 - Jun 2018Jun 2015 - Jun 2018 Grade: BGrade: B Activities and societies: cricketActivities and societies: cricket"
+        }
+      ]
+    },
+    {
+      "id": "6de3",
+      "name": "Shrikant Jawla",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHe6ON5tmYNqQ/profile-displayphoto-shrink_200_200/0/1708699728863?e=1714608000&v=beta&t=n9FdTQYNIi88lwdpYvAHOFMMZN3_OP8eX7E7_ItVPEA",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Full Stack Web Developer | MERN Stack Developer | HTML | CSS | JavaScript | React.js | Next.js | Typescript | Tailwindcss | Chakra-UI | Styled-Components | Figma | Rest API | Node.js | Express.js | Mongo DB | DSA",
+      "location": "Muzaffarnagar, Uttar Pradesh, India",
+      "connections": "989",
+      "contactInfo": {
+        "Phone": "9069006661",
+        "Email": "shrikantjawla@gmail.com",
+        "Birthday": "December 23",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHUifk1ynAemw/company-logo_100_100/0/1631383373841?e=1717027200&v=beta&t=lzYmvSwL98KtTDr9WujJ6_fPUogS6sO2cKvkeFrEnEo",
+          "job_title": "Full-stack web DeveloperFull-stack web Developer",
+          "company_name": "AM Tech Networks",
+          "employment_type": "Full-time",
+          "duration": "Feb 2023 - Present · 1 yr 1 mo",
+          "location": "Panchkula, Haryana, India · On-sitePanchkula, Haryana, India · On-site",
+          "skills": "NestJS, MongoDB and +9 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack web developerFull Stack web developer",
+          "company_name": "Masai",
+          "employment_type": "Internship",
+          "duration": "May 2022 - Feb 2023 · 10 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "MongoDB, Nodej and +7 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 43,
+          "degree": "Shrikant Jawla posted this • 3mo3mo 🚀 I am thrilled to share a dynamic website that I've had the privilege of building for Card Insider! 🌐💳 https://finpaisa.in🔧 Tech Stack Used:HTMLEJSTailwindCSSJavaScriptjQueryNode.jsExpress.jsPostgreSQL DatabaseFrom integrating click tracking links API to crafting a seamless wallet system with affiliate links of credit cards",
+          "institution": "Finpaisa is designed to redefine user experiences in the world of financial insights. 💼💻🎉 What's Under the Hood:Click Tracking API for accurate analyticsPayout system for usersAffiliate links for credit cardsResponsive and intuitive design✨ About Me:With a solid two years of experience in the realm of web development",
+          "dates": "I am a passionate full-stack developer who thrives on transforming ideas into interactive"
+        }
+      ]
+    },
+    {
+      "id": "68ac",
+      "name": "Ankit Godara",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQGkXkhFrbq3yg/profile-displayphoto-shrink_200_200/0/1690382072588?e=1714608000&v=beta&t=QgCuW9ThX6CzxgufDyrhDDWlkWh77hGdxIj-7LP1S18",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Btech Artificial Intelligence Data Science",
+      "location": "Jaipur, Rajasthan, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "ankitgodara514@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 31,
+          "degree": "Ankit Godara posted this • 2mo2mo Absolutely ecstatic to clinch the 4th prize in the challenging C Programming Coding Competition hosted by Marvel Carts Club at JECRC Foundation College! 🚀 Huge thanks to the visionary organizers",
+          "institution": "Arpit Agrawal and VK Chandana Sir",
+          "dates": "for orchestrating this incredible platform that not only allows us to showcase our coding prowess but also fosters an environment of collaborative learning and healthy competition. Grateful for the opportunity to push boundaries and elevate my skills! 🏆💻 hashtag#CodingTriumph hashtag#JECRCMarvels hashtag#Gratitude Arpit Agrawal …show more 12 2 comments"
+        },
+        {
+          "id": 36,
+          "degree": "Ankit Godara posted this • 5mo5mo 🎉 Happy to share my debut in the world of web design",
+          "institution": "pouring creativity into a tantalizing frontend for a food and cuisines platform! 🍽️💻🌟 Imagine a digital realm where every click leads to a culinary adventure",
+          "dates": "a visual feast for food enthusiasts. Vibrant visuals and smooth navigation aim to make every interaction delightful"
+        },
+        {
+          "id": 38,
+          "degree": "Jaipur Engineering College and Research Centre (JECRC)Jaipur Engineering College and Research Centre (JECRC) Bachelor of Technology - BTech",
+          "institution": "Artificial Intelligence and Data Science Bachelor of Technology - BTech",
+          "dates": "Artificial Intelligence and Data Science Jul 2023 - May 2027Jul 2023 - May 2027"
+        },
+        {
+          "id": 44,
+          "degree": "Tanya KatiyarTanya Katiyar · 2ndSecond degree connection LinkedIn’s Top Voice || Talent Sourcer || Career Coach || DM for collaborationLinkedIn’s Top Voice || Talent Sourcer || Career Coach || DM for collaboration 403",
+          "institution": "125 followers403",
+          "dates": "125 followers Follow"
+        }
+      ]
+    },
+    {
+      "id": "5531",
+      "name": "Darshan Lama",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQHNUQcRQiP16g/profile-displayphoto-shrink_200_200/0/1617704981897?e=1714608000&v=beta&t=GmYoFwjyQM68ytzPu_r-QIAmk2kMXyq_TvSPMruKang",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Customer-Centric Technology Leader | Product Management & Support | Program Development | Tech-Ops & SRE | Solution Consulting | Data Science | Innovation and Emerging Tech | Investor and F&O Trader",
+      "location": "Bangalore Urban, Karnataka, India",
+      "connections": "2,415",
+      "contactInfo": {
+        "Email": "darshanlama@gmail.com",
+        "Birthday": "January 31",
+        "Connected": "Oct 21, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE17HhB0rGpYQ/company-logo_100_100/0/1654720362299/twilio_inc__logo?e=1717027200&v=beta&t=QyovduxXYnqIRHrYN-mF5V8Rpu01MXcXm8y1_UyK22o",
+          "job_title": "TwilioTwilio",
+          "company_name": "Full-time",
+          "employment_type": "1 yr 11 mos",
+          "duration": "Bengaluru, Karnataka, India",
+          "location": "Feb 2023 - Present · 1 yr 1 moFeb 2023 - Present · 1 yr 1 mo",
+          "skills": "TwilioTwilio"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQGCJ4PG0WVumA/company-logo_100_100/0/1630646301487/expedia_logo?e=1717027200&v=beta&t=tR5_1NE88coXFr7D7g64poy36mDsyQTjgBQTVXzMjx8",
+          "job_title": "Expedia GroupExpedia Group",
+          "company_name": "Full-time",
+          "employment_type": "5 yrs 4 mos",
+          "duration": "Gurgaon, India",
+          "location": "Mar 2017 - Jul 2020 · 3 yrs 5 mosMar 2017 - Jul 2020 · 3 yrs 5 mos",
+          "skills": "Expedia GroupExpedia Group"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQEf1kY81Y-qvA/company-logo_100_100/0/1692161733156/tech_mahindra_logo?e=1717027200&v=beta&t=Fg4AmvW-gKUPguccwy204pjO3AJ8znTCrSSxfL8mgBw",
+          "job_title": "Performance Audit & Advise Specialist, Web Operations (for Nestlé)Performance Audit & Advise Specialist, Web Operations (for Nestlé)",
+          "company_name": "Tech Mahindra",
+          "employment_type": "Full-time",
+          "duration": "Oct 2013 - Apr 2015 · 1 yr 7 mos",
+          "location": "BangaloreBangalore",
+          "skills": "Leadership, Service Operations and +1 skill"
+        },
+        {
+          "job_title": "Horizon AwardHorizon Award",
+          "company_name": "Issued by Sr. Director",
+          "employment_type": "Mar 2016"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQFlDlVfaS5QYg/company-logo_100_100/0/1631368241108?e=1717027200&v=beta&t=Ny1Pcw42yvUtiUDHn1Bn77Y280SQ6NnHAa7p5tb8Ghs",
+          "job_title": "Keynote Value AwardKeynote Value Award",
+          "company_name": "Issued by Sales Director, New Business Team",
+          "employment_type": "Jun 2013"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "PostPost Never Stop Learning Because Life Never Stops Teaching!The last 2 years have made us all introspect and challenge ourselves to grow beyond our limits",
+          "institution": "learn something new and embark on new journeys. With that spirit",
+          "dates": "I'm elated to share with you all that I have achieved one such milestone (among many more to come) by successfully completing the PG Diploma in Data Science with specialization in Business Intelligence and Data Analytics from International Institute of Information Technology Bangalore and upGrad (CGPA - 3.6/4). Special thanks to upGrad for building one of the best eLearning platforms and the amazing faculty from both upGrad and IIITB who have put together a great course content in a very time bound structured format. Honestly"
+        },
+        {
+          "id": 43,
+          "degree": "PostPost Inviting all XR (VR/MR/AR) enthusiasts to attend the live webinar on Nov 13",
+          "institution": "12 PM EST",
+          "dates": "and join the conversation on how this emerging tech is making inroads in the travel and tourism industry and its role in the traveler journey. Excited to be part of this esteemed panelists and my co-chairs from VRARA. Please sign up here - https://lnkd.in/dYhCbZzhashtag#vr hashtag#ar hashtag#emergingtech hashtag#travelandtourism hashtag#expediagroup hashtag#vrara 7"
+        },
+        {
+          "id": 89,
+          "degree": "International Institute of Information Technology BangaloreInternational Institute of Information Technology Bangalore Post Graduate Diploma",
+          "institution": "Data Science & Machine LearningPost Graduate Diploma",
+          "dates": "Data Science & Machine Learning 2020 - 20212020 - 2021"
+        },
+        {
+          "id": 90,
+          "degree": "NMIMS GlobalNMIMS Global Post Graduate Diploma in Business Management",
+          "institution": "IT & Systems ManagementPost Graduate Diploma in Business Management",
+          "dates": "IT & Systems Management 2020 - 20222020 - 2022"
+        }
+      ]
+    },
+    {
+      "id": "ed10",
+      "name": "Ankit Singh",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQGZhmzMrwT16A/profile-framedphoto-shrink_200_200/0/1708787310367?e=1709557200&v=beta&t=NSU1DkW-pSoW3jZlAJreXR3WqkvNUgUCWtJNZUa5DW8",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Engineer @ ZineIQ | Full Stack Web Developer | NodeJS | ReactJS | Next JS | Express JS | MongoDB | SQL | Typescript | Redis | AWS | MERN && PERN Stack",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "connections": "2,217",
+      "contactInfo": {
+        "Phone": "9839531208",
+        "Birthday": "July 23"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQEAStE1yQOzYw/company-logo_100_100/0/1688009229640?e=1717027200&v=beta&t=sWf6Ke2q1GwMJ9k3JZ4Wp2eiVU-w_rZ8fS4S6MCiDlU",
+          "job_title": "Associate Software EngineerAssociate Software Engineer",
+          "company_name": "ZineIQ Technologies Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Jun 2023 - Present · 9 mos",
+          "location": "Coimbatore, Tamil Nadu, India · RemoteCoimbatore, Tamil Nadu, India · Remote",
+          "skills": "REST APIs, Front-End Development and +16 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack Web DeveloperFull Stack Web Developer",
+          "company_name": "Masai",
+          "employment_type": "Full-time",
+          "duration": "Aug 2022 - Apr 2023 · 9 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "ReactJS, NodeJS and +9 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHIXUJjedkclA/company-logo_100_100/0/1645442188611/edureka_logo?e=1717027200&v=beta&t=7KUaI4RcTWjmlhW9VHEohELMmk_YRYh1dyNgYVjsoa0",
+          "job_title": "Full Stack Developer Internship Full Stack Developer Internship",
+          "company_name": "Edureka",
+          "employment_type": "Full-time",
+          "duration": "Jan 2022 - Jul 2022 · 7 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "REST APIs, JavaScript and +13 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHIXUJjedkclA/company-logo_100_100/0/1645442188611/edureka_logo?e=1717027200&v=beta&t=7KUaI4RcTWjmlhW9VHEohELMmk_YRYh1dyNgYVjsoa0",
+          "job_title": "Super InternSuper Intern",
+          "company_name": "Issued by edureka",
+          "employment_type": "Jul 2022"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "Ankit Singh posted this • 1w1w Attention LinkedIn community! I am on the hunt for a new opportunity! Let's band together and lend our support however we can. Please share any connections",
+          "institution": "advice",
+          "dates": "or opportunities that come to mind. Together"
+        },
+        {
+          "id": 72,
+          "degree": "Indira Gandhi National Open UniversityIndira Gandhi National Open University Master of Computer Applications - MCA",
+          "institution": "Computer ScienceMaster of Computer Applications - MCA",
+          "dates": "Computer Science Jul 2023 - Jul 2025Jul 2023 - Jul 2025 Pursuing Masters of Computer Applications ( MCA ) from IGNOU. Upskilling myself and enhancing my knowledge.Pursuing Masters of Computer Applications ( MCA ) from IGNOU. Upskilling myself and enhancing my knowledge. IGNOU - The People's UniversityIGNOU - The People's University"
+        },
+        {
+          "id": 77,
+          "degree": "Edureka AlumniEdureka Alumni Full Stack Web Development Internship",
+          "institution": "Computer ScienceFull Stack Web Development Internship",
+          "dates": "Computer Science Jan 2022 - Jun 2022Jan 2022 - Jun 2022 Grade: Super InternGrade: Super Intern Activities and societies: I have done internship with Edureka to learn Full Stack Web Development. During the internship I have learned team work and clone 2 industry level projects using MERN stack development.Activities and societies: I have done internship with Edureka to learn Full Stack Web Development. During the internship I have learned team work and clone 2 industry level projects using MERN stack development. This was a 6 months of Full Stack Web Development internship where I build 2 projects during the internship and learned soft skills like collaboration and problem solving.This was a 6 months of Full Stack Web Development internship where I build 2 projects during the internship and learned soft skills like collaboration and problem solving. Application Programming Interfaces (API)"
+        },
+        {
+          "id": 129,
+          "degree": "Jeff WeinerJeff Weiner · 3rdThird degree connection Executive Chairman at LinkedIn / Founding Partner Next Play VenturesExecutive Chairman at LinkedIn / Founding Partner Next Play Ventures 10",
+          "institution": "439",
+          "dates": "122 followers10"
+        },
+        {
+          "id": 131,
+          "degree": "Deeksha PandeyDeeksha Pandey · 2ndSecond degree connection SWE at Google | LinkedIn Top Voice’2024 | 120k+ followers| Open to collaboration | Microsoft Fixathon 2.0 | SIH'20 | Adobe WIT'20SWE at Google | LinkedIn Top Voice’2024 | 120k+ followers| Open to collaboration | Microsoft Fixathon 2.0 | SIH'20 | Adobe WIT'20 134",
+          "institution": "050 followers134",
+          "dates": "050 followers Follow"
+        }
+      ]
+    },
+    {
+      "id": "11b4",
+      "name": "Dipak Tange",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEoTOSw6A-LSg/profile-framedphoto-shrink_400_400/0/1706521429375?e=1709557200&v=beta&t=_SEy3rtFySGldxQ_7GTY4dVg-oAImTb7mPn3OJlCK70",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SDE & Instructional Associate at Masai School | MERN Stack Developer | Web Developer",
+      "location": "Aurangabad, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Birthday": "December 12"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Software Developer & Instructional AssociateSoftware Developer & Instructional Associate",
+          "company_name": "Masai School",
+          "employment_type": "Full-time",
+          "duration": "May 2022 - Jan 2024 · 1 yr 9 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "REST APIs, MongoDB and +17 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 47,
+          "degree": "SINHGAD INSTITUTE OF TECHNOLOGY",
+          "institution": "LONAVLASINHGAD INSTITUTE OF TECHNOLOGY",
+          "dates": "LONAVLA Bachelor of Engineering - BE"
+        }
+      ]
+    },
+    {
+      "id": "0d4f",
+      "name": "Dipak Tange",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEoTOSw6A-LSg/profile-framedphoto-shrink_400_400/0/1706521429375?e=1709557200&v=beta&t=_SEy3rtFySGldxQ_7GTY4dVg-oAImTb7mPn3OJlCK70",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SDE & Instructional Associate at Masai School | MERN Stack Developer | Web Developer",
+      "location": "Aurangabad, Maharashtra, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Birthday": "December 12"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Software Developer & Instructional AssociateSoftware Developer & Instructional Associate",
+          "company_name": "Masai School",
+          "employment_type": "Full-time",
+          "duration": "May 2022 - Jan 2024 · 1 yr 9 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "REST APIs, MongoDB and +17 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 47,
+          "degree": "SINHGAD INSTITUTE OF TECHNOLOGY",
+          "institution": "LONAVLASINHGAD INSTITUTE OF TECHNOLOGY",
+          "dates": "LONAVLA Bachelor of Engineering - BE"
+        }
+      ]
+    },
+    {
+      "id": "9e6a",
+      "name": "Ranjan Yadav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQFSFyUNr_ZZ3Q/profile-displayphoto-shrink_200_200/0/1707660618476?e=1714608000&v=beta&t=DbpP_b9yawRhuKvfXnRSzZdh15mVdloEyzgnIQ3ZQcA",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SDE Intern @ Masai |  Full stack web developer (MERN)",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Birthday": "September 8"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Software DeveloperSoftware Developer",
+          "company_name": "Masai",
+          "employment_type": "Full-time",
+          "duration": "Nov 2023 - Present · 4 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Redux.js, GitHub and +8 skills"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "c105",
+      "name": "Archy Gupta",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHjHadGix0ecQ/profile-displayphoto-shrink_200_200/0/1687882914058?e=1714608000&v=beta&t=gtiA-zkh9tNOgIsfrxcxQdgAyG0DpOp60O5b3reVZpE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Engineer at Google | 400k @LinkedIn | #MotivationForTheDay",
+      "location": "Hyderabad, Telangana, India",
+      "connections": "449,323",
+      "contactInfo": {
+        "Birthday": "July 4"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1631311446380?e=1717027200&v=beta&t=31eYf2KVRR-akJWh_FPhkxvR31fQjx_krbtjpEMI6dg",
+          "job_title": "Software EngineerSoftware Engineer",
+          "company_name": "Google",
+          "employment_type": "Full-time",
+          "duration": "Jan 2023 - Present · 1 yr 2 mos",
+          "location": "Hyderabad, Telangana, IndiaHyderabad, Telangana, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEuzVBzTq8wqA/company-logo_100_100/0/1642492124118/servicenow_logo?e=1717027200&v=beta&t=7D4eUiQW36OICTQXyaFgQ0pkvmYUOsOTCHfYvStw7gg",
+          "job_title": "Software EngineerSoftware Engineer",
+          "company_name": "ServiceNow",
+          "employment_type": "Full-time",
+          "duration": "Jul 2020 - Dec 2022 · 2 yrs 6 mos",
+          "location": "Hyderabad, Telangana, IndiaHyderabad, Telangana, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 56,
+          "degree": "Rajiv Gandhi Prodyogiki VishwavidyalayaRajiv Gandhi Prodyogiki Vishwavidyalaya Bachelor's degree",
+          "institution": "Computer ScienceBachelor's degree",
+          "dates": "Computer Science 2013 - 20172013 - 2017"
+        },
+        {
+          "id": 75,
+          "degree": "Sumit MittalSumit Mittal · 2ndSecond degree connection Founder & CEO of Trendytech | Big Data Trainer | Ex-Cisco | Ex-VMware | MCA @ NIT Trichy | #SumitTeaches | New Batch for Ultimate Big Data Master's Program (Cloud Focused) starting March 2nd",
+          "institution": "2024Founder & CEO of Trendytech | Big Data Trainer | Ex-Cisco | Ex-VMware | MCA @ NIT Trichy | #SumitTeaches | New Batch for Ultimate Big Data Master's Program (Cloud Focused) starting March 2nd",
+          "dates": "2024 August 28"
+        }
+      ]
+    },
+    {
+      "id": "4e72",
+      "name": "Manoj Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEuShUk4EW0gA/profile-framedphoto-shrink_200_200/0/1682696127394?e=1709557200&v=beta&t=3suXk7M7F-2NbeNUb_sjrU36pDF8Ig7uK4CNV60fa0c",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "NodeJS Backend Developer ||Linux || DSA || JavaScript ||Node.js || Express.js || Socket.io || MongoDB || SQL || React.js || HTML5 || CSS",
+      "location": "Bihar, India",
+      "connections": "805",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGKhzMszekU2A/company-logo_100_100/0/1631351407809?e=1717027200&v=beta&t=6MbupOcj7CVhazF0gUuZwM5qWlYDNLozfz2beE5KdgI",
+          "job_title": "Associate Backend Developer Associate Backend Developer",
+          "company_name": "ADDA",
+          "employment_type": "Internship",
+          "duration": "Sep 2023 - Feb 2024 · 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "Magadh University",
+          "institution": "Bodh GayaMagadh University",
+          "dates": "Bodh Gaya Bachelor of Computer ApplicationBachelor of Computer Application Aug 2017 - Dec 2020Aug 2017 - Dec 2020 Grade: 73.87%Grade: 73.87%"
+        }
+      ]
+    },
+    {
+      "id": "d93d",
+      "name": "Manoj Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEuShUk4EW0gA/profile-framedphoto-shrink_200_200/0/1682696127394?e=1709557200&v=beta&t=3suXk7M7F-2NbeNUb_sjrU36pDF8Ig7uK4CNV60fa0c",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "NodeJS Backend Developer ||Linux || DSA || JavaScript ||Node.js || Express.js || Socket.io || MongoDB || SQL || React.js || HTML5 || CSS",
+      "location": "Bihar, India",
+      "connections": "805",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGKhzMszekU2A/company-logo_100_100/0/1631351407809?e=1717027200&v=beta&t=6MbupOcj7CVhazF0gUuZwM5qWlYDNLozfz2beE5KdgI",
+          "job_title": "Associate Backend Developer Associate Backend Developer",
+          "company_name": "ADDA",
+          "employment_type": "Internship",
+          "duration": "Sep 2023 - Feb 2024 · 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "Magadh University",
+          "institution": "Bodh GayaMagadh University",
+          "dates": "Bodh Gaya Bachelor of Computer ApplicationBachelor of Computer Application Aug 2017 - Dec 2020Aug 2017 - Dec 2020 Grade: 73.87%Grade: 73.87%"
+        }
+      ]
+    },
+    {
+      "id": "18e8",
+      "name": "Manoj Kumar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQEuShUk4EW0gA/profile-framedphoto-shrink_200_200/0/1682696127394?e=1709557200&v=beta&t=3suXk7M7F-2NbeNUb_sjrU36pDF8Ig7uK4CNV60fa0c",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "NodeJS Backend Developer ||Linux || DSA || JavaScript ||Node.js || Express.js || Socket.io || MongoDB || SQL || React.js || HTML5 || CSS",
+      "location": "Bihar, India",
+      "connections": "805",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGKhzMszekU2A/company-logo_100_100/0/1631351407809?e=1717027200&v=beta&t=6MbupOcj7CVhazF0gUuZwM5qWlYDNLozfz2beE5KdgI",
+          "job_title": "Associate Backend Developer Associate Backend Developer",
+          "company_name": "ADDA",
+          "employment_type": "Internship",
+          "duration": "Sep 2023 - Feb 2024 · 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "Magadh University",
+          "institution": "Bodh GayaMagadh University",
+          "dates": "Bodh Gaya Bachelor of Computer ApplicationBachelor of Computer Application Aug 2017 - Dec 2020Aug 2017 - Dec 2020 Grade: 73.87%Grade: 73.87%"
+        }
+      ]
+    },
+    {
+      "id": "80c1",
+      "name": "Himanshu Choudhary",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQEmJNoboJN0UQ/profile-displayphoto-shrink_200_200/0/1683636821670?e=1714608000&v=beta&t=lyDrfeN1-efijElWQNZPv5Q8NG-p_hyWZWStPGvQOF0",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Node.js |Express.js | MongoDB | MySQL | HTML | CSS | JavaScript | Socket.io |  DSA",
+      "location": "Muzaffarnagar, Uttar Pradesh, India",
+      "connections": "1,485",
+      "contactInfo": {
+        "Phone": "8433250941",
+        "Email": "baliyanh10@gmail.com",
+        "Birthday": "December 25",
+        "Connected": "Feb 21, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQGxwZmLw9FUuQ/company-logo_100_100/0/1678172070268/zongovita_logo?e=1717027200&v=beta&t=aOoXrabFx-Y8KtIZu3g2zKs6VponmuvhzQ7_9YSv_u8",
+          "job_title": "Graduate Engineering TraineeGraduate Engineering Trainee",
+          "company_name": "ZongoVita",
+          "employment_type": "Full-time",
+          "duration": "Oct 2023 - Present · 5 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Full-Stack Development, Node.js and +3 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "KIET Group of InstitutionsKIET Group of Institutions Master of Computer Applications - MCA",
+          "institution": "Computer Software EngineeringMaster of Computer Applications - MCA",
+          "dates": "Computer Software Engineering 2019 - 20212019 - 2021 Server Side"
+        },
+        {
+          "id": 68,
+          "degree": "Data Structures and AlgorithmsData Structures and Algorithms 124",
+          "institution": "522 members124",
+          "dates": "522 members Join"
+        },
+        {
+          "id": 70,
+          "degree": "Artificial Intelligence Investors Group: Robotics",
+          "institution": "AI & IoT",
+          "dates": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "id": "04eb",
+      "name": "Anshuman Dwivedi",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQGb7NS0TCuPgw/profile-framedphoto-shrink_200_200/0/1680587081011?e=1709557200&v=beta&t=w4cKG_PtIvkgbJsDIbKux50Lu1Kip8uClkJ9pidWx-g",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Problem Solver | Data Structures and Algorithms | 300+ questions on gfg |300+ questions on leetcode | Web Developer | HTML,CSS,JS | React js | Node js | Express js | Mongodb | Spark Ar",
+      "location": "Ghaziabad, Uttar Pradesh, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Birthday": "December 29"
+      },
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 33,
+          "degree": "KIET Group of InstitutionsKIET Group of Institutions Bachelor of Technology - BTech",
+          "institution": "Computer ScienceBachelor of Technology - BTech",
+          "dates": "Computer Science Jan 2020 - Sep 2024Jan 2020 - Sep 2024 Full-Stack Development"
+        },
+        {
+          "id": 50,
+          "degree": "Deeksha PandeyDeeksha Pandey · 2ndSecond degree connection SWE at Google | LinkedIn Top Voice’2024 | 120k+ followers| Open to collaboration | Microsoft Fixathon 2.0 | SIH'20 | Adobe WIT'20SWE at Google | LinkedIn Top Voice’2024 | 120k+ followers| Open to collaboration | Microsoft Fixathon 2.0 | SIH'20 | Adobe WIT'20 134",
+          "institution": "060 followers134",
+          "dates": "060 followers Follow"
+        }
+      ]
+    },
+    {
+      "id": "13bc",
+      "name": "Ayush Dwivedi 💻",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQH547NDw3h0aA/profile-displayphoto-shrink_200_200/0/1698323791615?e=1714608000&v=beta&t=l-1UCM1ppraYEpM647JnkOlg_K8vR6zksGKo2t0yCXg",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Aspiring Full Stack Web Developer with HTML, CSS, and JavaScript | Stock Market Investor | YouTuber",
+      "location": "Maudaha, Uttar Pradesh, India",
+      "connections": "1,450",
+      "contactInfo": {
+        "Email": "ayushbhartiya1494927@gmail.com",
+        "Birthday": "October 11",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGdHCOtwBxG5A/company-logo_100_100/0/1684411579842/prepleaf_logo?e=1717027200&v=beta&t=T-4nJK_dlr6ICdwbxMedeWRGMa7xICwrl_gG5Hc8FWc",
+          "job_title": "Aspiring Web DeveloperAspiring Web Developer",
+          "company_name": "Prepleaf by Masai",
+          "employment_type": "Full-time",
+          "duration": "Apr 2023 - Present · 11 mos",
+          "location": "Maudaha, Uttar Pradesh, India · On-siteMaudaha, Uttar Pradesh, India · On-site",
+          "skills": "HTML5, Python (Programming Language) and +5 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Software DeveloperSoftware Developer",
+          "company_name": "Masai ",
+          "employment_type": "Apprenticeship",
+          "duration": "Jul 2022 - Present · 1 yr 8 mos",
+          "location": "IndiaIndia",
+          "skills": "HTML5, Data Structures and +3 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGdMPXIcohI3g/company-logo_100_100/0/1674464331131/community_marketing_agency_logo?e=1717027200&v=beta&t=ehAcn2FqbaWryTn3V7ZVy5s7603PentALPlladm0puo",
+          "job_title": "BizGurukul [learn and Earn]BizGurukul [learn and Earn]",
+          "company_name": "Part-time",
+          "employment_type": "3 yrs 9 mos",
+          "duration": "Jun 2020 - Present · 3 yrs 9 mos",
+          "location": "Oct 2020 - Jul 2021 · 10 mosOct 2020 - Jul 2021 · 10 mos",
+          "skills": "BizGurukul [learn and Earn]BizGurukul [learn and Earn]"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_100_100/0/1631053379845/youtube_logo?e=1717027200&v=beta&t=Qnpl7IIGKCqWiBv8lXegbHVy9NrLrnzM3DX4L2MK6uM",
+          "job_title": "Video StreamerVideo Streamer",
+          "company_name": "YouTube",
+          "employment_type": "Full-time",
+          "duration": "May 2016 - Dec 2020 · 4 yrs 8 mos"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "a61f",
+      "name": "Prashant Chaudhary",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQF961JYRLF_EQ/profile-framedphoto-shrink_200_200/0/1698854456117?e=1709557200&v=beta&t=Gge0kZxDmjVTmDoeLTWN959bocvZs-GCLdD6NU0GGWo",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Web Developer | Blockchain, Business Analytics",
+      "location": "Delhi, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "iamprashantch@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQGcqniAVzuGBw/company-logo_100_100/0/1677924632733?e=1717027200&v=beta&t=EQ8O0CegbuY4IlVqLC6aGDB9sC5O5L5fr8iYpEAN5Ug",
+          "job_title": "Full Stack DeveloperFull Stack Developer",
+          "company_name": "DreamViewer Infotech",
+          "employment_type": "Full-time",
+          "duration": "Oct 2023 - Present · 5 mos",
+          "location": "Noida, Uttar Pradesh, India · On-siteNoida, Uttar Pradesh, India · On-site"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "StudentStudent",
+          "company_name": "Masai School",
+          "employment_type": "Apprenticeship",
+          "duration": "2021 - Oct 2023 · 2 yrs 10 mos",
+          "location": "BangaloreBangalore",
+          "skills": "Spring Boot, HTML5 and +11 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 55,
+          "degree": "CHANDIGARH UNIVERSITYCHANDIGARH UNIVERSITY Master of Computer Applications - MCA",
+          "institution": "Computer ScienceMaster of Computer Applications - MCA",
+          "dates": "Computer Science Jun 2022 - Jun 2024Jun 2022 - Jun 2024 Grade: 7.0Grade: 7.0 Git"
+        },
+        {
+          "id": 90,
+          "degree": "Tanya KatiyarTanya Katiyar · 2ndSecond degree connection LinkedIn’s Top Voice || Talent Sourcer || Career Coach || DM for collaborationLinkedIn’s Top Voice || Talent Sourcer || Career Coach || DM for collaboration 403",
+          "institution": "123 followers403",
+          "dates": "123 followers Follow"
+        }
+      ]
+    },
+    {
+      "id": "41f3",
+      "name": "Elizabeth Ann Paul",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQE3LM6T1E935g/profile-displayphoto-shrink_400_400/0/1641645928947?e=1714608000&v=beta&t=wBPMiKcBFE_LRJm6br67ZQ8PCtjcfc1rnzmzwLKoVRM",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "MBA. BAJAJ. WADHWANI. SOLYTICS PARTNERS",
+      "location": "Gurugram, Haryana, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "elizabeth.paul3005@gmail.com",
+        "Birthday": "May 30",
+        "Connected": "Jan 9, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQEId7o5kiEw_w/company-logo_100_100/0/1707208630321/wadhwanifoundation_logo?e=1717027200&v=beta&t=aJXKgj_5IL0m81HvHWe07iC9ICniFp0btfCoKK1pHgs",
+          "job_title": "Associate Transformation and Relationship ManagementAssociate Transformation and Relationship Management",
+          "company_name": "Wadhwani Foundation",
+          "employment_type": "Full-time",
+          "duration": "Jul 2020 - Feb 2022 · 1 yr 8 mos",
+          "location": "Delhi, IndiaDelhi, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C510BAQEDR0KehvPORg/company-logo_100_100/0/1630579076529/britannia_industries_limited_logo?e=1717027200&v=beta&t=AEwN0vlt4r2TSk2Py2KkrqJ7vK81RoWGGUg8zaivvfs",
+          "job_title": "Internship TraineeInternship Trainee",
+          "company_name": "Britannia Industries Limited",
+          "employment_type": "Full-time",
+          "duration": "Jun 2017 - Sep 2017 · 4 mos",
+          "location": "Kochi, Kerala, IndiaKochi, Kerala, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 41,
+          "degree": "Associate Transformation and Relationship ManagementAssociate Transformation and Relationship Management Wadhwani Foundation · Full-timeWadhwani Foundation · Full-time Jul 2020 - Feb 2022 · 1 yr 8 mosJul 2020 - Feb 2022 · 1 yr 8 mos Delhi",
+          "institution": "IndiaDelhi",
+          "dates": "India - Working with a team of 6 -8 senior consultants to maintain cadence with over 40 SME clients"
+        },
+        {
+          "id": 42,
+          "degree": "- Working with a team of 6 -8 senior consultants to maintain cadence with over 40 SME clients",
+          "institution": "achieving an NPS (Net Promoter Score) of 73 in Calendar Year 2020-21.- Program evangelization with Industry bodies and associations generating over 120 warm leads with the conversion of over 30%.- Researching & publishing quarterly Industry trends for Manufacturing",
+          "dates": "Food Processing"
+        },
+        {
+          "id": 43,
+          "degree": "- Working with a team of 6 -8 senior consultants to maintain cadence with over 40 SME clients",
+          "institution": "achieving an NPS (Net Promoter Score) of 73 in Calendar Year 2020-21.- Program evangelization with Industry bodies and associations generating over 120 warm leads with the conversion of over 30%.- Researching & publishing quarterly Industry trends for Manufacturing",
+          "dates": "Food Processing"
+        },
+        {
+          "id": 50,
+          "degree": "Army Institute of Management",
+          "institution": "KolkataArmy Institute of Management",
+          "dates": "Kolkata Master of Business Administration"
+        },
+        {
+          "id": 52,
+          "degree": "University of CalcuttaUniversity of Calcutta Bachelor of Commerce - BCom",
+          "institution": "Business/Commerce",
+          "dates": "GeneralBachelor of Commerce - BCom"
+        }
+      ]
+    },
+    {
+      "id": "2720",
+      "name": "Abhijit Deshmukh",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQH3s0SmY6PI8A/profile-framedphoto-shrink_200_200/0/1704965535046?e=1709560800&v=beta&t=xSpWU1yH-b3Lc1nh4XoYjyobU-n68Es7Pqb8bMibuQY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Head - Products and Research @ Metta Social | Product Management",
+      "location": "Pune, Maharashtra, India",
+      "connections": "6,613",
+      "contactInfo": {
+        "Phone": "8308812531",
+        "Email": "abhijitdeshmukh1987@gmail.com",
+        "IM": "abhijitdeshmukh1987@gmail.com",
+        "Birthday": "March 6",
+        "Connected": "Nov 8, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHTQ8p27MJvdQ/company-logo_100_100/0/1668599205546/metta_social_logo?e=1717027200&v=beta&t=PiF8uInVVC7KLyU-uECFd8W2a_Fg1Pv4GKPxjZU5LTA",
+          "job_title": "Head - Products and ResearchHead - Products and Research",
+          "company_name": "Metta Social",
+          "employment_type": "Full-time",
+          "duration": "Jul 2020 - Present · 3 yrs 8 mos",
+          "location": "Pune, Maharashtra, IndiaPune, Maharashtra, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQH3aIS-G5l18Q/company-logo_100_100/0/1630653790254?e=1717027200&v=beta&t=ZAt93vspDLyR_jgdV3uz-oh2uJNRXrIs08U1iZ2dZkw",
+          "job_title": "Manager, Customer SuccessManager, Customer Success",
+          "company_name": "Noustek Labs",
+          "employment_type": "Full-time",
+          "duration": "Nov 2019 - Present · 4 yrs 4 mos",
+          "location": "Pune, Maharashtra, India · On-sitePune, Maharashtra, India · On-site"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQHl00ZjxIp_kw/company-logo_100_100/0/1688279976770/amdocs_logo?e=1717027200&v=beta&t=4LGZ1VFpnZ6cuUk4urKZD_ppYCGpoUHfl8eyWYTJsLg",
+          "job_title": "Employee of the QuarterEmployee of the Quarter",
+          "company_name": "Issued by Amdocs IT India Management",
+          "employment_type": "Aug 2016"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 64,
+          "degree": "Manufacturing Execution Systems -Functional Consultant/ Business AnalystManufacturing Execution Systems -Functional Consultant/ Business Analyst KPIT Cummins Infosystems LimitedKPIT Cummins Infosystems Limited Mar 2011 - Nov 2013 · 2 yrs 9 mosMar 2011 - Nov 2013 · 2 yrs 9 mos PunePune • Led the Requirements discovery workshops for MES (Manufacturing execution systems) implementation at Ball Packaging Europe (BPE)- Global leader in manufacturing of cans for beverages.• The implementation included integration with shop floor PLC’s and SAP systems• Software/Tools: APRISO FlexNet 9.5 / SQL Server 2008 • Complete ownership for 3 modules including Requirements discovery",
+          "institution": "functional process design",
+          "dates": "master data setup"
+        },
+        {
+          "id": 65,
+          "degree": "• Led the Requirements discovery workshops for MES (Manufacturing execution systems) implementation at Ball Packaging Europe (BPE)- Global leader in manufacturing of cans for beverages.• The implementation included integration with shop floor PLC’s and SAP systems• Software/Tools: APRISO FlexNet 9.5 / SQL Server 2008 • Complete ownership for 3 modules including Requirements discovery",
+          "institution": "functional process design",
+          "dates": "master data setup"
+        },
+        {
+          "id": 66,
+          "degree": "• Led the Requirements discovery workshops for MES (Manufacturing execution systems) implementation at Ball Packaging Europe (BPE)- Global leader in manufacturing of cans for beverages.• The implementation included integration with shop floor PLC’s and SAP systems• Software/Tools: APRISO FlexNet 9.5 / SQL Server 2008 • Complete ownership for 3 modules including Requirements discovery",
+          "institution": "functional process design",
+          "dates": "master data setup"
+        },
+        {
+          "id": 67,
+          "degree": "Shivaji UniversityShivaji University Bachelor's Degree",
+          "institution": "Mechanical EngineeringBachelor's Degree",
+          "dates": "Mechanical Engineering 2004 - 20092004 - 2009 Activities and societies: Sports Activity:Table tennis and Cricket"
+        },
+        {
+          "id": 71,
+          "degree": "Savitribai Phule Pune UniversitySavitribai Phule Pune University HSC(Higher Secondary Certificate)",
+          "institution": "Physics",
+          "dates": "Chemistry"
+        }
+      ]
+    },
+    {
+      "id": "fdff",
+      "name": "Kanak Soni",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFyvZdYQdrs_A/profile-framedphoto-shrink_200_200/0/1704784836835?e=1709560800&v=beta&t=_jEosoxI8iKlCofocdIwtikM9zDgFnue4zl3p8GMpts",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Sr. HR Executive | Hiring for SEO Manager, Graphic Designer, BDE, Power BI",
+      "location": "India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "kanak.soni.1704@gmail.com",
+        "Birthday": "April 17",
+        "Connected": "Nov 13, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQHGqRYNeP67Hg/company-logo_100_100/0/1686151380525/imenso_software_logo?e=1717027200&v=beta&t=3r1oqdc-UMmUG0NjHnsU9DFugzcKKcUxsMIevP1Y2Xo",
+          "job_title": "Senior Executive Human ResourcesSenior Executive Human Resources",
+          "company_name": "Imenso Software",
+          "employment_type": "Full-time",
+          "duration": "Mar 2022 - Present · 2 yrs",
+          "location": "IndiaIndia"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHljs_xP3cs6g/company-logo_100_100/0/1631338375312?e=1717027200&v=beta&t=o3HGS6dyfHwco938LDsk7d4GSBZfLMurbERfuR3nKUA",
+          "job_title": "HR and Administration ExecutiveHR and Administration Executive",
+          "company_name": "Dynamsoft",
+          "employment_type": "Full-time",
+          "duration": "Dec 2020 - Apr 2022 · 1 yr 5 mos",
+          "location": "Noida, Uttar Pradesh, IndiaNoida, Uttar Pradesh, India"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "35a7",
+      "name": "Jairaj Shetty",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQFNYdWMmH-wVg/profile-displayphoto-shrink_200_200/0/1654437388786?e=1714608000&v=beta&t=tV1aDHvMZWFwkguCZ2f5bpVitW-Uw2B6QmMkTUi0pdY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Engineer | Frontend | MERN stack",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Phone": "7019463250",
+        "Email": "jairajs1729@gmail.com",
+        "Connected": "Oct 16, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE17HhB0rGpYQ/company-logo_100_100/0/1654720362299/twilio_inc__logo?e=1717027200&v=beta&t=QyovduxXYnqIRHrYN-mF5V8Rpu01MXcXm8y1_UyK22o",
+          "job_title": "Software Engineer (L2)Software Engineer (L2)",
+          "company_name": "Twilio",
+          "employment_type": "Full-time",
+          "duration": "Jul 2022 - Present · 1 yr 8 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "NokiaNokia",
+          "company_name": "Full-time",
+          "employment_type": "3 yrs",
+          "duration": "Oct 2021 - Jul 2022 · 10 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "NokiaNokia"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "Student InternStudent Intern",
+          "company_name": "Nokia",
+          "employment_type": "Internship",
+          "duration": "Jan 2019 - Jun 2019 · 6 mos",
+          "location": "BangaloreBangalore"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_100_100/0/1677420439270/nokia_logo?e=1717027200&v=beta&t=lqA9-1z8JZNTDpIqLaJqQBt2IlD-vGaS5OSMojv2l5U",
+          "job_title": "Full Stack Award 2021Full Stack Award 2021",
+          "company_name": "Issued by Nokia",
+          "employment_type": "Nov 2021"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 46,
+          "degree": "B. M. S. College of EngineeringB. M. S. College of Engineering Bachelor's degree",
+          "institution": "Electrical",
+          "dates": "Electronics and Communications EngineeringBachelor's degree"
+        },
+        {
+          "id": 88,
+          "degree": "React Developers - ReactJS & React Native Professional Development MastermindReact Developers - ReactJS & React Native Professional Development Mastermind 465",
+          "institution": "453 members465",
+          "dates": "453 members Join"
+        }
+      ]
+    },
+    {
+      "id": "0cdd",
+      "name": "Aditya Sandeep Nandula",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHFTavfXKUUbQ/profile-displayphoto-shrink_200_200/0/1708273526666?e=1714608000&v=beta&t=d-VpNdpyHERbKXI_UR5nbmeIVX0IfNi4pEYEkaqZ6EQ",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Engineer II at Twilio | full stack dev | ex-Full-creative employee",
+      "location": "Chennai, Tamil Nadu, India",
+      "connections": "1,054",
+      "contactInfo": {
+        "Birthday": "February 8"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE17HhB0rGpYQ/company-logo_100_100/0/1654720362299/twilio_inc__logo?e=1717027200&v=beta&t=QyovduxXYnqIRHrYN-mF5V8Rpu01MXcXm8y1_UyK22o",
+          "job_title": "Software Engineer L2Software Engineer L2",
+          "company_name": "Twilio",
+          "employment_type": "Full-time",
+          "duration": "Jul 2021 - Present · 2 yrs 8 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Amazon Aurora, SQL and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFmrbOk2U7ZmA/company-logo_100_100/0/1630624625427/full_creative_logo?e=1717027200&v=beta&t=6-0ZICwKDHadYRJ2iTZlS2M1hNVXq9Ze0oQ3yzXj5Ig",
+          "job_title": "FULL CreativeFULL Creative",
+          "company_name": "Full-time",
+          "employment_type": "4 yrs 8 mos",
+          "duration": "May 2019 - May 2021 · 2 yrs 1 mo",
+          "location": "Jan 2017 - May 2019 · 2 yrs 5 mosJan 2017 - May 2019 · 2 yrs 5 mos",
+          "skills": "FULL CreativeFULL Creative"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 63,
+          "degree": "GIET ENGINEERING COLLEGEGIET ENGINEERING COLLEGE B. tech",
+          "institution": "Electronics & Communication EngineeringB. tech",
+          "dates": "Electronics & Communication Engineering 2012 - 20162012 - 2016"
+        },
+        {
+          "id": 102,
+          "degree": "Rupali KavaleRupali Kavale · 3rdThird degree connection Actively looking for Summer 24 internship",
+          "institution": "#GHC23",
+          "dates": "Masters @CMU"
+        }
+      ]
+    },
+    {
+      "id": "1e1a",
+      "name": "Aditya Sandeep Nandula",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHFTavfXKUUbQ/profile-displayphoto-shrink_200_200/0/1708273526666?e=1714608000&v=beta&t=d-VpNdpyHERbKXI_UR5nbmeIVX0IfNi4pEYEkaqZ6EQ",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Software Engineer II at Twilio | full stack dev | ex-Full-creative employee",
+      "location": "Chennai, Tamil Nadu, India",
+      "connections": "1,054",
+      "contactInfo": {
+        "Birthday": "February 8"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQE17HhB0rGpYQ/company-logo_100_100/0/1654720362299/twilio_inc__logo?e=1717027200&v=beta&t=QyovduxXYnqIRHrYN-mF5V8Rpu01MXcXm8y1_UyK22o",
+          "job_title": "Software Engineer L2Software Engineer L2",
+          "company_name": "Twilio",
+          "employment_type": "Full-time",
+          "duration": "Jul 2021 - Present · 2 yrs 8 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Amazon Aurora, SQL and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFmrbOk2U7ZmA/company-logo_100_100/0/1630624625427/full_creative_logo?e=1717027200&v=beta&t=6-0ZICwKDHadYRJ2iTZlS2M1hNVXq9Ze0oQ3yzXj5Ig",
+          "job_title": "FULL CreativeFULL Creative",
+          "company_name": "Full-time",
+          "employment_type": "4 yrs 8 mos",
+          "duration": "May 2019 - May 2021 · 2 yrs 1 mo",
+          "location": "Jan 2017 - May 2019 · 2 yrs 5 mosJan 2017 - May 2019 · 2 yrs 5 mos",
+          "skills": "FULL CreativeFULL Creative"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 63,
+          "degree": "GIET ENGINEERING COLLEGEGIET ENGINEERING COLLEGE B. tech",
+          "institution": "Electronics & Communication EngineeringB. tech",
+          "dates": "Electronics & Communication Engineering 2012 - 20162012 - 2016"
+        },
+        {
+          "id": 102,
+          "degree": "Rupali KavaleRupali Kavale · 3rdThird degree connection Actively looking for Summer 24 internship",
+          "institution": "#GHC23",
+          "dates": "Masters @CMU"
+        }
+      ]
+    },
+    {
+      "id": "8f29",
+      "name": "Kartik Jain",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHpMotEPLWw1g/profile-displayphoto-shrink_200_200/0/1685948705347?e=1714608000&v=beta&t=F0rY3sv1SncST5AePSWGd7jVXUHHh3IzF-fS6gi7540",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Tech Evolution Awaits - Join, Learn, Succeed. \nWe are hiring MEAN stack, , Node JS, PHP developers and SEO, Senior Digital Marketing Executives",
+      "location": "Ahmedabad, Gujarat, India",
+      "connections": "7,789",
+      "contactInfo": {
+        "Phone": "7226014962",
+        "IM": "live:.cid.167c257adb95ebfd",
+        "Birthday": "August 23",
+        "Connected": "Nov 20, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQG48rDfGDiXVQ/company-logo_100_100/0/1641808156826/one_click_it_consultancy_logo?e=1717027200&v=beta&t=Q6WUvKPp2fzhXu3LCVQRGqsJXxBHXI10tzBUDP9na3k",
+          "job_title": "OneClick IT Consultancy Pvt LtdOneClick IT Consultancy Pvt Ltd",
+          "company_name": "Full-time",
+          "employment_type": "1 yr 11 mos",
+          "duration": "Ahmedabad, Gujarat, India",
+          "location": "Oct 2022 - Present · 1 yr 5 mosOct 2022 - Present · 1 yr 5 mos",
+          "skills": "OneClick IT Consultancy Pvt LtdOneClick IT Consultancy Pvt Ltd"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFz4MnSQtw26Q/company-logo_100_100/0/1630635150582/rpoarena_logo?e=1717027200&v=beta&t=p6fYjiexwT396-wxUxguJg0GonjNUE22Hmwb6GwhyZ8",
+          "job_title": "Senior Compliance OfficerSenior Compliance Officer",
+          "company_name": "RPO Arena",
+          "employment_type": "Full-time",
+          "duration": "Jul 2021 - Oct 2022 · 1 yr 4 mos",
+          "location": "Ahmedabad, Gujarat, IndiaAhmedabad, Gujarat, India",
+          "skills": "Communication, Document Management and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4E0BAQEBJCLcNDKytQ/company-logo_100_100/0/1708011886053/jensen_kobain_solutions_logo?e=1717027200&v=beta&t=Oy-jLaErasgpZhDmbvHS3uIfUf6hh3glwvoAW6oNJGk",
+          "job_title": "Senior Compliance OfficerSenior Compliance Officer",
+          "company_name": "JKS Outsourcing",
+          "employment_type": "Full-time",
+          "duration": "Apr 2020 - Jul 2021 · 1 yr 4 mos",
+          "location": "Ahmedabad, Gujarat, IndiaAhmedabad, Gujarat, India",
+          "skills": "Communication, Document Management and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHmEdImZCTuDQ/company-logo_100_100/0/1630650258441/eximiouspvtltd_logo?e=1717027200&v=beta&t=NEEmSmXWAAfjAMS1gJuX-0Ui5JapK19Akdj_1In81AA",
+          "job_title": "Talent Acquisition SpecialistTalent Acquisition Specialist",
+          "company_name": "Eximious",
+          "employment_type": "Full-time",
+          "duration": "Dec 2019 - Mar 2020 · 4 mos",
+          "location": "Ahmedabad, Gujarat, IndiaAhmedabad, Gujarat, India",
+          "skills": "Communication, Document Management and +2 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQGhXIdHt2Keiw/company-logo_100_100/0/1688564300817/qxglobalgroup_logo?e=1717027200&v=beta&t=BzoU-jSGfn4znta-5IvcDjCfq7HWgw4SH_AXqGxyulQ",
+          "job_title": "Recruitment ConsultantRecruitment Consultant",
+          "company_name": "QX Global Group",
+          "employment_type": "Full-time",
+          "duration": "Oct 2015 - Dec 2019 · 4 yrs 3 mos",
+          "location": "Ahmedabad, Gujarat, IndiaAhmedabad, Gujarat, India",
+          "skills": "Communication, Document Management and +2 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 75,
+          "degree": "Pandit Deendayal Energy UniversityPandit Deendayal Energy University Postgraduate Degree",
+          "institution": "Human Resources Management/Personnel Administration",
+          "dates": "GeneralPostgraduate Degree"
+        },
+        {
+          "id": 76,
+          "degree": "Rajasthan Technical University",
+          "institution": "KotaRajasthan Technical University",
+          "dates": "Kota Bachelor of Technology - BTech"
+        }
+      ]
+    },
+    {
+      "id": "6e95",
+      "name": "Soumya Sinha",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGhTILIcElR-A/profile-displayphoto-shrink_200_200/0/1704993107236?e=1714608000&v=beta&t=EM2iwYc2cqJYHJxocNySbxMm4VaaOFpzcc2xfkgevKo",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Algo Trading || Business Development || Marketing || Fintech",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "3,838",
+      "contactInfo": {
+        "Email": "sinhasoumya99@gmail.com",
+        "Birthday": "October 27",
+        "Connected": "Sep 23, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHC7BajbxIwCg/company-logo_100_100/0/1660918663649/keev_novotoc_logo?e=1717027200&v=beta&t=sA4wEjfE4Es_mo3FYD6KxvaQVpG2NZz20Iaw5PEoZgE",
+          "job_title": "KEEVKEEV",
+          "company_name": "Full-time",
+          "employment_type": "2 yrs 6 mos",
+          "duration": "Oct 2023 - Present · 5 mos",
+          "location": "Mumbai, Maharashtra, India · On-siteMumbai, Maharashtra, India · On-site",
+          "skills": "KEEVKEEV"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFr4FbP_a7shw/company-logo_100_100/0/1651000619726/ifortis_worldwide_logo?e=1717027200&v=beta&t=PIGHTFobf2OkFoboddmnLvKxHjo42IaJrrQp1sAw3do",
+          "job_title": "Human Resource TraineeHuman Resource Trainee",
+          "company_name": "IFORTIS WORLDWIDE™",
+          "employment_type": "Full-time",
+          "duration": "May 2021 - Aug 2021 · 4 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQFEMhVFYcBH_g/company-logo_100_100/0/1630636332809?e=1717027200&v=beta&t=qTf8MyK6La5l5RG0mNF5bSu7zRm9X__4uvQednnmB6U",
+          "job_title": "Assistant ProducerAssistant Producer",
+          "company_name": "Frames Production",
+          "employment_type": "Full-time",
+          "duration": "May 2018 - Mar 2020 · 1 yr 11 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        },
+        {
+          "job_title": "Reporting InternReporting Intern",
+          "company_name": "Samay 24 News Channel",
+          "employment_type": "Full-time",
+          "duration": "Mar 2017 - Sep 2017 · 7 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 55,
+          "degree": "Thadomal Shahani Centre For ManagementThadomal Shahani Centre For Management Diploma",
+          "institution": "Digital MarketingDiploma",
+          "dates": "Digital Marketing 2019 - 20192019 - 2019"
+        }
+      ]
+    },
+    {
+      "id": "e3de",
+      "name": "Rushikesh Jadhav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQGMqxCuMNCUcg/profile-displayphoto-shrink_200_200/0/1641491163279?e=1714608000&v=beta&t=uuY5ncsJPuS97sv_afUpfJnTtf0Fg5Ekhl0WVBC_iCw",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Quant Developer at Novotoc Infotech Pvt Ltd",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "1,152",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHC7BajbxIwCg/company-logo_100_100/0/1660918663649/keev_novotoc_logo?e=1717027200&v=beta&t=sA4wEjfE4Es_mo3FYD6KxvaQVpG2NZz20Iaw5PEoZgE",
+          "job_title": "Quantitative DeveloperQuantitative Developer",
+          "company_name": "KEEV",
+          "employment_type": "Full-time",
+          "duration": "Jun 2023 - Present · 9 mos",
+          "location": "Mumbai, Maharashtra, India · On-siteMumbai, Maharashtra, India · On-site",
+          "skills": "Afl, AFL and +2 skills"
+        },
+        {
+          "job_title": "Quant DeveloperQuant Developer",
+          "company_name": "Novotoc Infotech Pvt Ltd",
+          "employment_type": "Internship",
+          "duration": "Mar 2023 - Present · 1 yr",
+          "location": "CGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-siteCGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-site",
+          "skills": "SQL, AFL and +2 skills"
+        },
+        {
+          "job_title": "Software Developer (ALGO)Software Developer (ALGO)",
+          "company_name": "Suyotech Engineering Solution Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Oct 2021 - Mar 2023 · 1 yr 6 mos",
+          "location": "Kolhapur, Maharashtra, India · On-siteKolhapur, Maharashtra, India · On-site",
+          "skills": "Afl, PINE SCRIPT and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGzNg0rAnoVCg/company-logo_100_100/0/1631309653183?e=1717027200&v=beta&t=KSn6oOTTyZq7PUvTqY4zXjc3a6IUhTlhtD490d3hvac",
+          "job_title": "Software TraineeSoftware Trainee",
+          "company_name": "MPACER Solutions Pvt. Ltd.",
+          "employment_type": "Internship",
+          "duration": "Jan 2020 - Jan 2022 · 2 yrs 1 mo",
+          "location": "Kolhapur Area, IndiaKolhapur Area, India",
+          "skills": "PHP"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 45,
+          "degree": "Kolhapur Jobs logo Kolhapur JobsKolhapur Jobs Master's degree",
+          "institution": "Msc Compute ScienceMaster's degree",
+          "dates": "Msc Compute Science 2018 - 20202018 - 2020 Grade: 64Grade: 64"
+        }
+      ]
+    },
+    {
+      "id": "a574",
+      "name": "Rushikesh Jadhav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQGMqxCuMNCUcg/profile-displayphoto-shrink_200_200/0/1641491163279?e=1714608000&v=beta&t=uuY5ncsJPuS97sv_afUpfJnTtf0Fg5Ekhl0WVBC_iCw",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Quant Developer at Novotoc Infotech Pvt Ltd",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "1,152",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHC7BajbxIwCg/company-logo_100_100/0/1660918663649/keev_novotoc_logo?e=1717027200&v=beta&t=sA4wEjfE4Es_mo3FYD6KxvaQVpG2NZz20Iaw5PEoZgE",
+          "job_title": "Quantitative DeveloperQuantitative Developer",
+          "company_name": "KEEV",
+          "employment_type": "Full-time",
+          "duration": "Jun 2023 - Present · 9 mos",
+          "location": "Mumbai, Maharashtra, India · On-siteMumbai, Maharashtra, India · On-site",
+          "skills": "Afl, AFL and +2 skills"
+        },
+        {
+          "job_title": "Quant DeveloperQuant Developer",
+          "company_name": "Novotoc Infotech Pvt Ltd",
+          "employment_type": "Internship",
+          "duration": "Mar 2023 - Present · 1 yr",
+          "location": "CGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-siteCGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-site",
+          "skills": "SQL, AFL and +2 skills"
+        },
+        {
+          "job_title": "Software Developer (ALGO)Software Developer (ALGO)",
+          "company_name": "Suyotech Engineering Solution Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Oct 2021 - Mar 2023 · 1 yr 6 mos",
+          "location": "Kolhapur, Maharashtra, India · On-siteKolhapur, Maharashtra, India · On-site",
+          "skills": "Afl, PINE SCRIPT and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGzNg0rAnoVCg/company-logo_100_100/0/1631309653183?e=1717027200&v=beta&t=KSn6oOTTyZq7PUvTqY4zXjc3a6IUhTlhtD490d3hvac",
+          "job_title": "Software TraineeSoftware Trainee",
+          "company_name": "MPACER Solutions Pvt. Ltd.",
+          "employment_type": "Internship",
+          "duration": "Jan 2020 - Jan 2022 · 2 yrs 1 mo",
+          "location": "Kolhapur Area, IndiaKolhapur Area, India",
+          "skills": "PHP"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 45,
+          "degree": "Kolhapur Jobs logo Kolhapur JobsKolhapur Jobs Master's degree",
+          "institution": "Msc Compute ScienceMaster's degree",
+          "dates": "Msc Compute Science 2018 - 20202018 - 2020 Grade: 64Grade: 64"
+        }
+      ]
+    },
+    {
+      "id": "440f",
+      "name": "Rushikesh Jadhav",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4D03AQGMqxCuMNCUcg/profile-displayphoto-shrink_200_200/0/1641491163279?e=1714608000&v=beta&t=uuY5ncsJPuS97sv_afUpfJnTtf0Fg5Ekhl0WVBC_iCw",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Quant Developer at Novotoc Infotech Pvt Ltd",
+      "location": "Mumbai, Maharashtra, India",
+      "connections": "1,152",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4D0BAQHC7BajbxIwCg/company-logo_100_100/0/1660918663649/keev_novotoc_logo?e=1717027200&v=beta&t=sA4wEjfE4Es_mo3FYD6KxvaQVpG2NZz20Iaw5PEoZgE",
+          "job_title": "Quantitative DeveloperQuantitative Developer",
+          "company_name": "KEEV",
+          "employment_type": "Full-time",
+          "duration": "Jun 2023 - Present · 9 mos",
+          "location": "Mumbai, Maharashtra, India · On-siteMumbai, Maharashtra, India · On-site",
+          "skills": "Afl, AFL and +2 skills"
+        },
+        {
+          "job_title": "Quant DeveloperQuant Developer",
+          "company_name": "Novotoc Infotech Pvt Ltd",
+          "employment_type": "Internship",
+          "duration": "Mar 2023 - Present · 1 yr",
+          "location": "CGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-siteCGS Colony, Pant Nagar, Near Ghatkopar Metro Station, Ghatkopar West, Mumbai, Maharashtra 400086 · On-site",
+          "skills": "SQL, AFL and +2 skills"
+        },
+        {
+          "job_title": "Software Developer (ALGO)Software Developer (ALGO)",
+          "company_name": "Suyotech Engineering Solution Private Limited",
+          "employment_type": "Full-time",
+          "duration": "Oct 2021 - Mar 2023 · 1 yr 6 mos",
+          "location": "Kolhapur, Maharashtra, India · On-siteKolhapur, Maharashtra, India · On-site",
+          "skills": "Afl, PINE SCRIPT and +1 skill"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQGzNg0rAnoVCg/company-logo_100_100/0/1631309653183?e=1717027200&v=beta&t=KSn6oOTTyZq7PUvTqY4zXjc3a6IUhTlhtD490d3hvac",
+          "job_title": "Software TraineeSoftware Trainee",
+          "company_name": "MPACER Solutions Pvt. Ltd.",
+          "employment_type": "Internship",
+          "duration": "Jan 2020 - Jan 2022 · 2 yrs 1 mo",
+          "location": "Kolhapur Area, IndiaKolhapur Area, India",
+          "skills": "PHP"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 45,
+          "degree": "Kolhapur Jobs logo Kolhapur JobsKolhapur Jobs Master's degree",
+          "institution": "Msc Compute ScienceMaster's degree",
+          "dates": "Msc Compute Science 2018 - 20202018 - 2020 Grade: 64Grade: 64"
+        }
+      ]
+    },
+    {
+      "id": "3189",
+      "name": "Rahul Sinha",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGGxKrE_AZmEQ/profile-displayphoto-shrink_200_200/0/1666116170041?e=1714608000&v=beta&t=TEAXpNQ7hinEasN1AopxrtqGCP3qrDyQ3HWnRsbJKEI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Developer @ Narayana's The Learning App",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "1,885",
+      "contactInfo": {
+        "Phone": "9304657432",
+        "Email": "rahulsinha1996@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGWqsT7gNqyjQ/company-logo_100_100/0/1664780851609/narayana_s_learning_app_logo?e=1717027200&v=beta&t=HpI0Vz_bQhntX0wQqsl06iVeEuxk6Eds25V8ouWi0lI",
+          "job_title": "Associate Software DeveloperAssociate Software Developer",
+          "company_name": "Narayana's The Learning App",
+          "employment_type": "Full-time",
+          "duration": "Sep 2022 - Present · 1 yr 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site",
+          "skills": "TypeORM, Cascading Style Sheets (CSS) and +18 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack Web DeveloperFull Stack Web Developer",
+          "company_name": "Masai",
+          "employment_type": "Internship",
+          "duration": "Dec 2021 - Aug 2022 · 9 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Cascading Style Sheets (CSS), React.js and +10 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 52,
+          "degree": "Magadh UniversityMagadh University Bachelor's degree",
+          "institution": "Computer ScienceBachelor's degree",
+          "dates": "Computer Science Jul 2015 - Oct 2018Jul 2015 - Oct 2018 Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges.Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges. JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "20ac",
+      "name": "Rahul Sinha",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQGGxKrE_AZmEQ/profile-displayphoto-shrink_200_200/0/1666116170041?e=1714608000&v=beta&t=TEAXpNQ7hinEasN1AopxrtqGCP3qrDyQ3HWnRsbJKEI",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Developer @ Narayana's The Learning App",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "1,885",
+      "contactInfo": {
+        "Phone": "9304657432",
+        "Email": "rahulsinha1996@gmail.com",
+        "Connected": "Sep 10, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQGWqsT7gNqyjQ/company-logo_100_100/0/1664780851609/narayana_s_learning_app_logo?e=1717027200&v=beta&t=HpI0Vz_bQhntX0wQqsl06iVeEuxk6Eds25V8ouWi0lI",
+          "job_title": "Associate Software DeveloperAssociate Software Developer",
+          "company_name": "Narayana's The Learning App",
+          "employment_type": "Full-time",
+          "duration": "Sep 2022 - Present · 1 yr 6 mos",
+          "location": "Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site",
+          "skills": "TypeORM, Cascading Style Sheets (CSS) and +18 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "Full Stack Web DeveloperFull Stack Web Developer",
+          "company_name": "Masai",
+          "employment_type": "Internship",
+          "duration": "Dec 2021 - Aug 2022 · 9 mos",
+          "location": "Bengaluru, Karnataka, India · RemoteBengaluru, Karnataka, India · Remote",
+          "skills": "Cascading Style Sheets (CSS), React.js and +10 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 52,
+          "degree": "Magadh UniversityMagadh University Bachelor's degree",
+          "institution": "Computer ScienceBachelor's degree",
+          "dates": "Computer Science Jul 2015 - Oct 2018Jul 2015 - Oct 2018 Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges.Bachelor of Computer Applications (BCA) | Graduated with Distinction | Enthusiastic about Software Development and Programming | Eager to apply my technical skills to real-world challenges. JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "6a98",
+      "name": "mahesh talakokkula",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHfKZso1HVGPg/profile-displayphoto-shrink_200_200/0/1694523392314?e=1714608000&v=beta&t=IxBVoFn42uE_Rz1u7dq5tzK-jgSn73o1D_C-kBo7bfw",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Senior IT Recruiter Working at Optimhire & High5hire (Work from home). Any Candidates are interested for Job change or Looking for Job Change. Please share your resume : talakokkulamahesh@optimhire.com",
+      "location": "Hyderabad, Telangana, India",
+      "connections": "105",
+      "contactInfo": {
+        "Email": "maheshtalakokkula@gmail.com",
+        "Connected": "Nov 23, 2023"
+      },
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 29,
+          "degree": "mahesh talakokkula posted this • 3mo3mo Hello ConnectionsWe are hashtag#Hiring hashtag#Automationengineer hashtag#Coimbatore LoactionCompany Name: CookrWebsite: https://cookr.in/Required Skills: CI/CD Pipeline",
+          "institution": "Selenium",
+          "dates": "AppiumWe are looking for a highly skilled Test Automation Engineer with at least 2+ years of experience to join our team. As a Test Automation Engineer"
+        },
+        {
+          "id": 37,
+          "degree": "Nidhi Chauhan",
+          "institution": "CPRWNidhi Chauhan",
+          "dates": "CPRW · 3rdThird degree connection Helping you get PAID more 💰 and LAND jobs • World renowned job search coach • Certified Professional Resume Writer • Interview Coach • LinkedIn Strategist • Mentor @ Masters' Union • Accelerate your career growth 🚀Helping you get PAID more 💰 and LAND jobs • World renowned job search coach • Certified Professional Resume Writer • Interview Coach • LinkedIn Strategist • Mentor @ Masters' Union • Accelerate your career growth 🚀 499"
+        }
+      ]
+    },
+    {
+      "id": "2a6c",
+      "name": "DineshKarthik Diyyala",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQF-Hs27fNxjlg/profile-framedphoto-shrink_200_200/0/1707963702312?e=1709560800&v=beta&t=7dkSbkeyoz39Q0VPe9gmaZOYYmqjltSQxkJs-HFy160",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "International Sales Consultant | B2C | Post sales | Sales Consulting | The UK, South Asia, EMEA, Australia housing and real estate markets",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "diyyaladineshkarthik@gmail.com",
+        "Birthday": "March 20"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEHDixc5dKt1A/company-logo_100_100/0/1631389753848?e=1717027200&v=beta&t=I83cTuD1m2A1s4NqURggoQ5Pkz24oQIc4WRxRxeWZ3I",
+          "job_title": "Student.comStudent.com",
+          "company_name": "Full-time",
+          "employment_type": "3 yrs",
+          "duration": "May 2021 - Present · 2 yrs 10 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Student.comStudent.com"
+        },
+        {
+          "job_title": "Franchise ConsultantFranchise Consultant",
+          "company_name": "THEFORTHFORM GROUP",
+          "employment_type": "Self-employed",
+          "duration": "Sep 2019 - Mar 2021 · 1 yr 7 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India",
+          "skills": "Food and Beverage Operations, Sales Processes and +5 skills"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D4D0BAQEadahMX1Ny8A/company-logo_100_100/0/1689596711032/technoscience_talent_search_logo?e=1717027200&v=beta&t=Ly4r4Cm_Rbd_vtPVbnmkwH_7sv1GfUtknEUHgedGGsQ",
+          "job_title": "Talent Acquisition RecruiterTalent Acquisition Recruiter",
+          "company_name": "Domnic Lewis International ",
+          "employment_type": "Full-time",
+          "duration": "Jul 2018 - May 2019 · 11 mos",
+          "location": "Karnataka, India · On-siteKarnataka, India · On-site",
+          "skills": "IT Recruitment, Recruitment and +4 skills"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 55,
+          "degree": "Mohan Babu UniversityMohan Babu University Bachelor of Technology",
+          "institution": "Civil EngineeringBachelor of Technology",
+          "dates": "Civil Engineering 2014 - 20182014 - 2018 Grade: 7.75Grade: 7.75"
+        },
+        {
+          "id": 57,
+          "degree": "Sri Venkateswara UniversitySri Venkateswara University Diploma",
+          "institution": "Civil EngineeringDiploma",
+          "dates": "Civil Engineering 2012 - 20152012 - 2015 Grade: 8.8Grade: 8.8 Activities and societies: Attended pre-employment program conducted by SVGP and ULTRATECH CEMENT LIMITEDActivities and societies: Attended pre-employment program conducted by SVGP and ULTRATECH CEMENT LIMITED"
+        }
+      ]
+    },
+    {
+      "id": "1e5d",
+      "name": "Shristi Shah",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQGzbuMplmED7g/profile-framedphoto-shrink_200_200/0/1688644819329?e=1709560800&v=beta&t=tyiH5qIwteQ3r9USq8lH3o4FdB7yEw8fMrHKslPbEjY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Senior Sales Consultant at Student.com",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "963",
+      "contactInfo": {
+        "Birthday": "May 1"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEHDixc5dKt1A/company-logo_100_100/0/1631389753848?e=1717027200&v=beta&t=I83cTuD1m2A1s4NqURggoQ5Pkz24oQIc4WRxRxeWZ3I",
+          "job_title": "Student.comStudent.com",
+          "company_name": "Full-time",
+          "employment_type": "3 yrs 1 mo",
+          "duration": "Mar 2023 - Present · 1 yr",
+          "location": "Feb 2021 - Apr 2023 · 2 yrs 3 mosFeb 2021 - Apr 2023 · 2 yrs 3 mos",
+          "skills": "Student.comStudent.com"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQFL2Ue6647fRQ/company-logo_100_100/0/1630619907509/peppercontent_logo?e=1717027200&v=beta&t=SjajQPRMmhC8bTgghyCGsC9oQBMDZoyW4bHjM6Gv0Jg",
+          "job_title": "Content WriterContent Writer",
+          "company_name": "Pepper",
+          "employment_type": "Freelance",
+          "duration": "Aug 2020 - Dec 2021 · 1 yr 5 mos"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQFlzNoGF6uE5A/company-logo_100_100/0/1649405105899/scientist_technologies_logo?e=1717027200&v=beta&t=Y4PdVUktnbul_7tfQeK3H8XidFUbBj5gzfRS76Bs9L0",
+          "job_title": "Digital Marketing AssociateDigital Marketing Associate",
+          "company_name": "Scientist Technologies",
+          "employment_type": "Full-time",
+          "duration": "Dec 2020 - Feb 2021 · 3 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India"
+        },
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQEZOqhre6jcfQ/company-logo_100_100/0/1630641997322/impulsechitra_logo?e=1717027200&v=beta&t=eeYcdtg-YpNG5IlWsTlwcN2LGZQ6h5yqchPpCMWoRxE",
+          "job_title": "Content WriterContent Writer",
+          "company_name": "ImpulseChitra",
+          "employment_type": "Full-time",
+          "duration": "Oct 2020 - Nov 2020 · 2 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India"
+        },
+        {
+          "job_title": "Sales ManagerSales Manager",
+          "company_name": "Revamp24",
+          "employment_type": "Full-time",
+          "duration": "Jan 2020 - Aug 2020 · 8 mos",
+          "location": "Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 48,
+          "degree": "Center for Management Studies(CMS)Center for Management Studies(CMS) Bachelor of Business Administration",
+          "institution": "MarketingBachelor of Business Administration",
+          "dates": "Marketing 2016 - 20192016 - 2019"
+        },
+        {
+          "id": 79,
+          "degree": "Python Developers: Machine Learning",
+          "institution": "Artificial Intelligence",
+          "dates": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "id": "22eb",
+      "name": "sunil sampras",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4E03AQFVQPJ9ymLIiQ/profile-displayphoto-shrink_200_200/0/1584141971212?e=1714608000&v=beta&t=ZsBW2MZpepc_yz2dm65zthKiOJvIpbmZjLio8xZXheE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Sales Manager at Student.com",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "115",
+      "contactInfo": {},
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 37,
+          "degree": "New Horizon College",
+          "institution": "Kasturinagar",
+          "dates": "NGEF Layout"
+        }
+      ]
+    },
+    {
+      "id": "dad2",
+      "name": "sunil sampras",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C4E03AQFVQPJ9ymLIiQ/profile-displayphoto-shrink_200_200/0/1584141971212?e=1714608000&v=beta&t=ZsBW2MZpepc_yz2dm65zthKiOJvIpbmZjLio8xZXheE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Sales Manager at Student.com",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "115",
+      "contactInfo": {},
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 37,
+          "degree": "New Horizon College",
+          "institution": "Kasturinagar",
+          "dates": "NGEF Layout"
+        }
+      ]
+    },
+    {
+      "id": "fb20",
+      "name": "Sanjana Babar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D35AQFryzYi9WKNkA/profile-framedphoto-shrink_200_200/0/1696575731504?e=1709560800&v=beta&t=nypDo4XseeC8HNsb4BT4y6loh16mlJVEXSUtN_dIRrc",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Associate Software Engineer",
+      "location": "Pune, Maharashtra, India",
+      "connections": "787",
+      "contactInfo": {},
+      "experience": [],
+      "educationDetails": [
+        {
+          "id": 31,
+          "degree": "SND College Of EngineeringSND College Of Engineering Bachelor of Engineering - BE",
+          "institution": "Electrical EngineeringBachelor of Engineering - BE",
+          "dates": "Electrical Engineering 2014 - 20202014 - 2020"
+        },
+        {
+          "id": 38,
+          "degree": "Dr. Manpreet Singh Sandhu (PhD",
+          "institution": "CS)Dr. Manpreet Singh Sandhu (PhD",
+          "dates": "CS) · 3rdThird degree connection 9811218512-Training Corporates Globally (PostgreSQL DBA."
+        }
+      ]
+    },
+    {
+      "id": "59d6",
+      "name": "Devesh Singh",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQEMFstfFVXXBQ/profile-displayphoto-shrink_200_200/0/1686033145479?e=1714608000&v=beta&t=L0RAaWIzZOw5nyEwQLn_C7psKT4P7OoA6lpoYkJZ6cE",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Tech Enthusiasts-Full Stack  ||React.JS|| Maths Evangelist || IIT Delhi || HOD at PracBee",
+      "location": "Delhi, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "learning2hike@gmail.com",
+        "Connected": "Dec 1, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHzTD1OK_CoLA/company-logo_100_100/0/1635931233680/pracbee_educations_pvt_ltd_logo?e=1717027200&v=beta&t=yf2KFXo2YZx3TH5J3zxdR4wn3LgT4oLR2n8iTvjWft0",
+          "job_title": "Head Of DepartmentHead Of Department",
+          "company_name": "PracBee",
+          "employment_type": "Full-time",
+          "duration": "Jun 2021 - Present · 2 yrs 9 mos",
+          "location": "Delhi, India · RemoteDelhi, India · Remote"
+        },
+        {
+          "job_title": "Senior Maths FacultySenior Maths Faculty",
+          "company_name": "Rahman,s Super 30",
+          "employment_type": "Full-time",
+          "duration": "Jul 2018 - Jun 2021 · 3 yrs",
+          "location": "Patna, Bihar, India · HybridPatna, Bihar, India · Hybrid"
+        },
+        {
+          "job_title": "Senior Maths ExpertSenior Maths Expert",
+          "company_name": "Educomp Learning Hour Private Limited(An Educomp Company)",
+          "employment_type": "Full-time",
+          "duration": "Jul 2013 - May 2018 · 4 yrs 11 mos",
+          "location": "Delhi, India · On-siteDelhi, India · On-site"
+        },
+        {
+          "job_title": "Mathematics ExpertMathematics Expert",
+          "company_name": "Iota Institute",
+          "employment_type": "Part-time",
+          "duration": "Jul 2010 - Jun 2013 · 3 yrs",
+          "location": "Delhi, India · On-siteDelhi, India · On-site"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 42,
+          "degree": "Indian Institute of Technology",
+          "institution": "DelhiIndian Institute of Technology",
+          "dates": "Delhi Master's degree"
+        }
+      ]
+    },
+    {
+      "id": "aefa",
+      "name": "Aljith KJ",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D4D03AQHPyJQ0TGB5Qw/profile-displayphoto-shrink_200_200/0/1707061812705?e=1714608000&v=beta&t=eZRtBU0FaR8uyqPXbtocpkRX3gO0h0Mbf-4YGftC2Yg",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Diligence Meets Innovation | Tech-Agnostic Engineer with a 'Can Do' Spirit",
+      "location": "Thrissur, Kerala, India",
+      "connections": "2,601",
+      "contactInfo": {
+        "Email": "aljithkj02@gmail.com",
+        "Birthday": "January 3",
+        "Connected": "Sep 3, 2023"
+      },
+      "experience": [],
+      "educationDetails": []
+    },
+    {
+      "id": "561d",
+      "name": "Himanshu Kumar Keshri",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQHs_lPj2NLh1Q/profile-displayphoto-shrink_200_200/0/1696584776657?e=1714608000&v=beta&t=Ssu-BgChohD3movEv0hPjkNikQqME2t9MieOjvF3ALQ",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Student at Masai",
+      "location": "Ranchi, Jharkhand, India",
+      "connections": "500+",
+      "contactInfo": {
+        "Email": "keshripawan234@gmail.com",
+        "Connected": "Feb 15, 2024"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHdxMHntX6Z8Q/company-logo_100_100/0/1650372038758/masai_school_logo?e=1717027200&v=beta&t=ozFm11YBzokPfXMtN2boFgkUsGF2mfUKMjDFF_FOej0",
+          "job_title": "StudentStudent",
+          "company_name": "Masai",
+          "employment_type": "Full-time"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 40,
+          "degree": "Vatsal NahataVatsal Nahata · 2ndSecond degree connection IMF | Ex-World Bank | Yale | SRCCIMF | Ex-World Bank | Yale | SRCC 86",
+          "institution": "612 followers86",
+          "dates": "612 followers Follow"
+        }
+      ]
+    },
+    {
+      "id": "91e0",
+      "name": "Ganesh (ganesh) Gangurde",
+      "profilePicSrc": "https://media.licdn.com/dms/image/C5603AQHRmgaxzd-jmA/profile-displayphoto-shrink_200_200/0/1655864060705?e=1714608000&v=beta&t=vJUMiOxeqtktmxr4vTdEbGKza2hBIIcZWnqHL737i7E",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "SQL | PLSQL | Postgresql | Yugabyte  Developer | Python | UPI | Digital Currency | Bayapay",
+      "location": "Pune, Maharashtra, India",
+      "connections": "500",
+      "contactInfo": {
+        "Phone": "7507784194",
+        "Email": "gangurdeg198@gmail.com",
+        "Birthday": "January 16",
+        "Connected": "Jul 31, 2023"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C4E0BAQFNrVwPaqPUgQ/company-logo_100_100/0/1630636978971/mindgate_solutions_logo?e=1717027200&v=beta&t=1GAKFiiq6ofa-gr0oeXCXsl4l_VOiGV4cvuwvNp1Ab0",
+          "job_title": "Database DeveloperDatabase Developer",
+          "company_name": "Mindgate Solutions",
+          "employment_type": "Full-time",
+          "duration": "Dec 2021 - Present · 2 yrs 3 mos",
+          "location": "Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India",
+          "skills": "SQL"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 36,
+          "degree": "Savitribai Phule Pune UniversitySavitribai Phule Pune University Bachelor's degree",
+          "institution": "Electrical and Electronics EngineeringBachelor's degree",
+          "dates": "Electrical and Electronics Engineering Jun 2017 - Aug 2020Jun 2017 - Aug 2020"
+        }
+      ]
+    },
+    {
+      "id": "48e1",
+      "name": "Vaishnavi Kasar",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5635AQF0mRgPJu2IwA/profile-framedphoto-shrink_200_200/0/1691672084299?e=1709560800&v=beta&t=PZGzJLCD-xFWQgx5Er_oBH1Qcw5eKkWwxbmTbqAQqUs",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Full stack Web Developer | HTML | CSS | React | MySQL | JavaScript",
+      "location": "Nashik, Maharashtra, India",
+      "connections": "383",
+      "contactInfo": {
+        "Birthday": "April 5"
+      },
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/D560BAQEZKRKOWBcJ_A/company-logo_100_100/0/1706735138636/octanetsolutions_logo?e=1717027200&v=beta&t=2bcrHIOH810AQ82s8p_xgdra1NLsjhd8QcYJRPNAKeU",
+          "job_title": "Web Development InternWeb Development Intern",
+          "company_name": "OctaNet Services Pvt Ltd.",
+          "employment_type": "Internship",
+          "duration": "Feb 2024 - Present · 1 mo",
+          "location": "RemoteRemote"
+        }
+      ],
+      "educationDetails": [
+        {
+          "id": 32,
+          "degree": "Sandip UniversitySandip University Bachelor of Technology - BTech",
+          "institution": "Computer ScienceBachelor of Technology - BTech",
+          "dates": "Computer Science Dec 2022 - Apr 2025Dec 2022 - Apr 2025 React.js"
+        },
+        {
+          "id": 36,
+          "degree": "RSM Polytechnic",
+          "institution": "NashikRSM Polytechnic",
+          "dates": "Nashik Diploma of Education"
+        }
+      ]
+    },
+    {
+      "id": "0c67",
+      "name": "Analisa Pratt",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQFs04tckXRPwQ/profile-displayphoto-shrink_200_200/0/1685161885107?e=1714608000&v=beta&t=4dgvhfCYki70xxMYJqoNO1VNQYyWqqzqKSgcfthLPIY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Business Growth Strategist | Sr consultant Digital Transformation | Assisting CXO's with Application Development services",
+      "location": "Manokotak, Alaska, United States",
+      "connections": "500+",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHlXJd0IU1mrg/company-logo_100_100/0/1630639568588/business__decision_logo?e=1717027200&v=beta&t=m6Fqi6Jn7pG5CEazMxoSrSDaTNJVu9Z8-MJncOTbhaY",
+          "job_title": "Business & DecisionBusiness & Decision",
+          "company_name": "Full-time",
+          "employment_type": "2 yrs 2 mos",
+          "duration": "Nov 2022 - Present · 1 yr 4 mos",
+          "location": "Jan 2022 - Oct 2022 · 10 mosJan 2022 - Oct 2022 · 10 mos",
+          "skills": "Business & DecisionBusiness & Decision"
+        }
+      ],
+      "educationDetails": []
+    },
+    {
+      "id": "6c66",
+      "name": "Analisa Pratt",
+      "profilePicSrc": "https://media.licdn.com/dms/image/D5603AQFs04tckXRPwQ/profile-displayphoto-shrink_200_200/0/1685161885107?e=1714608000&v=beta&t=4dgvhfCYki70xxMYJqoNO1VNQYyWqqzqKSgcfthLPIY",
+      "companyName": "Company Info Not Found",
+      "designationAndTechStack": "Business Growth Strategist | Sr consultant Digital Transformation | Assisting CXO's with Application Development services",
+      "location": "Manokotak, Alaska, United States",
+      "connections": "500+",
+      "contactInfo": {},
+      "experience": [
+        {
+          "company_logo_url": "https://media.licdn.com/dms/image/C560BAQHlXJd0IU1mrg/company-logo_100_100/0/1630639568588/business__decision_logo?e=1717027200&v=beta&t=m6Fqi6Jn7pG5CEazMxoSrSDaTNJVu9Z8-MJncOTbhaY",
+          "job_title": "Business & DecisionBusiness & Decision",
+          "company_name": "Full-time",
+          "employment_type": "2 yrs 2 mos",
+          "duration": "Nov 2022 - Present · 1 yr 4 mos",
+          "location": "Jan 2022 - Oct 2022 · 10 mosJan 2022 - Oct 2022 · 10 mos",
+          "skills": "Business & DecisionBusiness & Decision"
+        }
+      ],
+      "educationDetails": []
     }
   ]
 }

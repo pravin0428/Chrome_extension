@@ -1,343 +1,147 @@
-// document.addEventListener("DOMContentLoaded", function() {
-//     let ourBtn = document.getElementById("powerButton");
-//     ourBtn.addEventListener("click", () => {
-//         chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-//             chrome.tabs.sendMessage(tabs[0].id, { text: "getDOM" }, function(response) {
-//                 if (response && response.html) {
-//                     let container = document.getElementById("container");
-//                     container.innerText = response.html; 
-                    
-//                     // Parse the HTML content to extract name and profile picture
-//                     let tempDiv = document.createElement('div');
-//                     tempDiv.innerHTML = response.html;
-                    
-//                     let nameElement = tempDiv.querySelector("h1"); // Assuming name is within an h1 tag
-//                     let name = nameElement ? nameElement.innerText : "Name not found";
-
-//                     let profilePicElement = tempDiv.querySelector(".profile-pic"); // Assuming profile picture has a class "profile-pic"
-//                     let profilePicSrc = profilePicElement ? profilePicElement.src : "Profile picture not found";
-
-//                     let nameElem = document.getElementById("name");
-//                     nameElem.innerText = name;
-
-//                     let profileElem = document.getElementById("profile");
-//                     profileElem.src = profilePicSrc;
-
-//                     // Rest of your code remains the same
-//                     let companyName = document.getElementById("companyName");
-//                     companyName.innerText = `Company Name: ${response.company}`;
-//                     let position = document.getElementById("position");
-//                     position.innerText =` Designation: ${response.designationAndTechStack}`;
-//                     let loc = document.getElementById("loc")
-//                     loc.innerText = `Location: ${response.location}`
-//                     let connection = document.getElementById("connection")
-//                     connection.innerText = `Connections: ${response.connection}`
-
-//                 } else {
-//                     let container = document.getElementById("container");
-//                     container.innerText = "Failed to fetch HTML content";
-//                 }
-//             });
-//         });
-//     });
-// });
-
-////////////////////////////////////////////////finel codes////////////////////////////////////////////////////////////////
-
-// document.addEventListener("DOMContentLoaded", function() {
-//     let ourBtn = document.getElementById("powerButton");
-//     ourBtn.addEventListener("click", () => {
-//         chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-//             chrome.tabs.sendMessage(tabs[0].id, { text: "getDOM" }, function(response) {
-//                 if (response && response.html) {
-//                     // Parse the HTML content to extract data
-//                     var data = response.html
-//                     let tempDiv = document.getElementById('container');
-//                     tempDiv.innerHTML = response.html;
-
-//                     console.log(response.html , "<<whole HTML content>>")
-                        
-//                     // console.log(htmlToJson(data))
-//                     // console.log(JSON.parse(data)) , "check the data is it converting or not"
-
-                    
-                    
-// // Extract name
-// // const nameElement = data.querySelector('.text-heading-xlarge inline t-24 v-align-middle break-words');
-// // const name = nameElement.textContent.trim();
-
-// // // Extract profile pic URL
-// // const profilePicElement = data.querySelector('.global-nav__me-photo');
-// // const profilePicUrl = profilePicElement.getAttribute('src');
-
-// // // Extract designation
-// // const designationElement = data.querySelector('.text-body-medium');
-// // const designation = designationElement.textContent.trim();
-
-// // // Extract location
-// // const locationElement = data.querySelector('.pv-top-card--list-bullet .text-body-small');
- 
-// // const location = locationElement.textContent.trim();
-
-// // // Extract number of connections
-// // const connectionsElement = data.querySelector('.pv-top-card--list-bullet .t-bold');
-// // const connections = connectionsElement.textContent.trim();
-
-// // // Extract background image URL
-// // const backgroundImageElement = data.querySelector('.profile-background-image__image');
-// // const backgroundImageUrl = backgroundImageElement.getAttribute('src');
-
-// // // Extract company logo URL
-// // const companyLogoElement = data.querySelector('.ivm-view-attr__img--centered');
-// // const companyLogoUrl = companyLogoElement.getAttribute('src');
-
-// // // Extract job title
-// // const jobTitleElement = data.querySelector('.pvs-header__title');
-// // const jobTitle = jobTitleElement.textContent.trim();
-
-// // // Extract job location
-// // const jobLocationElement = data.querySelector('.t-14.t-normal.t-black--light');
-// // const jobLocation = jobLocationElement.textContent.trim();
-
-// // Print or use the extracted data
-// // console.log('Name:', name);
-// // console.log('Profile Pic URL:', profilePicUrl);
-// // console.log('Designation:', designation);
-// // console.log('Location:', location);
-// // console.log('Number of Connections:', connections);
-// // console.log('Background Image URL:', backgroundImageUrl);
-// // console.log('Company Logo URL:', companyLogoUrl);
-// // console.log('Job Title:', jobTitle);
-// // console.log('Job Location:', jobLocation);
-
-                      
-//                     let nameElement = tempDiv.querySelector("h1");
-//                     let name = nameElement ? nameElement.innerText : "Name not found";
-//                     console.log("Name:", name);
-//                     let nameElemFromHtml = document.getElementById("name");
-//                     nameElemFromHtml.innerText = nameElement.innerText ;
-
-
-                     
-//                     // let profilePicElement = tempDiv.querySelectorAll(".global-nav__me-photo");
-//                     // console.log(profilePicElement , "profile pic url")
-//                     // let profilePicSrc = profilePicElement ? profilePicElement.src : "Profile picture not found";
-                               
-//                     let companyName = "Company Info Not Found";
-//                      const companyElement = tempDiv.querySelector(".member-current-company");
-//                      if (companyElement) {
-//                      companyName = companyElement.textContent.trim();
-//                     }
-//                     console.log("Company Name:", companyName);
-
-//                     let workigName = "Workig Info Not Found";
-//                     const workingElement = tempDiv.querySelector(".text-body-medium break-words")
-//                     if (workingElement) {
-//                         workigName = workingElement.textContent.trim();
-//                     }
-//                     console.log("Working Name:", workigName);
-//                     // let profile = document.getElementById("profile");
-//                     // profile.src = profilePicSrc;
-
-//                     // Prepare the data object
-//                     let newData = {
-//                         name: name,
-//                         profilePicSrc: response.profileUrl,
-//                         companyName: response.company,
-//                         desi : response.designationAndTechStack,
-                   
-//                   tagh1 : response.h1, 
-//             pic : response.profilePic,
-//             com: response.company,
-//             tech : response.designationAndTechStack,
-//             loc: response.location,
-//             con: response.connections,
-//             email_id: response.emailid
-//                     };
-
-//                     // Send a POST request to your JSON server
-//                     fetch('http://localhost:3000/data', {
-//                         method: 'POST',
-//                         headers: {
-//                             'Content-Type': 'application/json',
-//                         },
-//                         body: JSON.stringify(newData),
-//                     })
-//                     .then(response => response.json())
-//                     .then(data => {
-//                         console.log('Success:', data);
-//                     })
-//                     .catch((error) => {
-//                         console.error('Error:', error);
-//                     });
-
-//                 } else {
-//                     let container = document.getElementById("container");
-//                     container.innerText = "Failed to fetch HTML content";
-//                 }
-//             });
-//         });
-//     });
-// });
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
- 
-// import * as puppeteer from './commonjs_puppeteer.js';
-// import puppeteer from "./commonjs_puppeteer"
-// import cheerio from 'cheerio';
-
-//   const cheerio = require('cheerio');
-
-// import * as cheerio from 'cheerio';
-
-//  import { Cheerio } from "cheerio";
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     let ourBtn = document.getElementById("powerButton");
     ourBtn.addEventListener("click", () => {
-        chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-            chrome.tabs.sendMessage(tabs[0].id, { text: "getDOM" }, function(response) {
+        chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+            chrome.tabs.sendMessage(tabs[0].id, { text: "getDOM" }, function (response) {
                 if (response && response.html) {
 
-                //   console.log(response.html , "html at top");
 
-                    // const parser = new DOMParser();
-                    //                     const doc = parser.parseFromString(response.html, 'text/html');
-                                        
-                    //                     const profileData = {};
-
-                    //                     // Extract basic profile information
-                    //                     const profileNameElement = doc.querySelector('.profile-header h1');
-                    //                     if (profileNameElement) {
-                    //                       profileData.name = profileNameElement.textContent.trim();
-                    //                     }
-                                        
-                    //                     const profileTitleElement = doc.querySelector('.profile-header h2');
-                    //                     if (profileTitleElement) {
-                    //                       profileData.title = profileTitleElement.textContent.trim();
-                    //                     }
-                                        
-                    //                     const profileLocationElement = doc.querySelector('.profile-header .location');
-                    //                     if (profileLocationElement) {
-                    //                       profileData.location = profileLocationElement.textContent.trim();
-                    //                     }
-                                        
-                    //                     const profileConnectionsElement = doc.querySelector('.profile-header .connections');
-                    //                     if (profileConnectionsElement) {
-                    //                       profileData.connections = profileConnectionsElement.textContent.trim();
-                    //                     }
-                                        
-                    //                     const profileAboutElement = doc.querySelector('.profile-about p');
-                    //                     if (profileAboutElement) {
-                    //                       profileData.about = profileAboutElement.textContent.trim();
-                    //                     }
-                                        
-                    //                     // Extract contact information
-                    //                     const contactTypeSection = doc.querySelector('section.pv-contact-info__contact-type');
-                                        
-                    //                     // Extract email
-                    //                     const emailAnchor = contactTypeSection.querySelector('a.link-without-visited-state');
-                    //                     if (emailAnchor) {
-                    //                       profileData.email = emailAnchor.textContent.trim();
-                    //                     }
-                                        
-                    //                     // Extract phone number
-                    //                     const phoneNumberSpan = contactTypeSection.querySelector('span.t-14.t-black.t-normal');
-                    //                     if (phoneNumberSpan) {
-                    //                       profileData.phone = phoneNumberSpan.textContent.trim();
-                    //                     }
-                                        
-                    //                     // Extract experience information
-                    //                     const experienceItems = doc.querySelectorAll('.experience .experience-item');
-                    //                     profileData.experience = Array.from(experienceItems).map(item => {
-                    //                       const title = item.querySelector('.item-title').textContent.trim();
-                    //                       const company = item.querySelector('.item-subtitle').textContent.trim();
-                    //                       const duration = item.querySelector('.date-range').textContent.trim();
-                    //                       return { title, company, duration };
-                    //                     });
-                                        
-                    //                     // Extract education information
-                    //                     const educationItems = doc.querySelectorAll('.education .education-item');
-                    //                     profileData.education = Array.from(educationItems).map(item => {
-                    //                       const institution = item.querySelector('.item-title').textContent.trim();
-                    //                       const degree = item.querySelector('.item-subtitle').textContent.trim();
-                    //                       const duration = item.querySelector('.date-range').textContent.trim();
-                    //                       return { institution, degree, duration };
-                    //                     });
-                                        
-                    //                     // Convert the JavaScript object to JSON
-                    //                     const profileJSON = JSON.stringify(profileData, null, 2);
-
-                    
-
-                    // // Output the JSON data
-                    // console.log(profileJSON , "this is the json data");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                        // Parse the HTML content to extract data
-                    // const jsonData = htmlToJson(response.html);
-                    // console.log(JSON.stringify(jsonData, null, 2) , "last json data"); // Convert JSON to a formatted string for better readability
-
-                    // const jsonObject = getJSONFromDOMElement(response.html); 
-                    // const jsonString = JSON.stringify(jsonObject);
-                    // console.log(jsonString , "check we are getting the json")
-
-
+                    // console.log(response.html , "html data to send in the education function")
                     let tempDiv = document.createElement('div');
                     tempDiv.innerHTML = response.html;
-                    
 
-                    let containerDiv = document.getElementById("container");
-                    containerDiv.innerText =  response.html;
+                    // document.getElementById("all_info").addEventListener("click" , ()=>{
+                    //     let containerDiv = document.getElementById("container");
+                    // containerDiv.innerHTML = response.html;
+                    // console.log(response.html , "entaire html") 
+                    // })
+                    // console.log(response.html , "tempdiv data");
+
+
+////------------------------------------Education details fetching-----------------------------------------------------------////                    
+                    // function htmlToJSON() {
+                       
+                        const data = {};
+
+                        // Extract relevant information and add it to the object
+                        // data.title = tempDiv.querySelector('h1').innerText.trim();
+                        // data.content = tempDiv.querySelector('p').innerText.trim();
                     
+                        // Extract education details
+                        const listItems = tempDiv.querySelectorAll('li');
+                        const education = [];
+                    
+                        // listItems.forEach((item, index) => {
+                        //     const text = item.innerText.replace(/\s+/g, ' ').trim();
+                        //     if (text.includes("Bachelor") || text.includes("Master") || text.includes("Degree")) {
+                        //         const educationDetail = {
+                        //             id: index + 1,
+                        //             degree: text.split(',')[0].trim(),
+                        //             institution: text.split(',')[1].trim(),
+                        //             dates: text.split(',')[2].trim()
+                        //         };
+                        //         education.push(educationDetail);
+                        //     }
+                        // });
+
+
+                        //handling trim adge case here------------
+                        listItems.forEach((item, index) => {
+                            if (item.innerText) { // Check if item.innerText is defined
+                                const text = item.innerText.replace(/\s+/g, ' ').trim();
+                                console.log(text , "checkout the education text here")
+                                 if (text.includes("Bachelor") || text.includes("Bachelor's") || text.includes("Master") || text.includes("Degree") || text.includes("Deploma") || text.includes("Diploma") || text.includes("10th") || text.includes("SSC") || text.includes("HSC") || text.includes("Iti") || text.includes("12")) {
+                                    console.log(text , "<<<<<education text>>>>>>")
+                                    const splitText = text.split(',');
+                                    
+                                    if (splitText.length >= 3) { // Ensure splitText has at least 3 elements
+                                        const educationDetail = {
+                                            id: index + 1,
+                                            degree: splitText[0].trim(),
+                                            institution: splitText[1].trim(),
+                                            dates: splitText[2].trim()
+                                        };
+                                        education.push(educationDetail);
+                                    }
+                                }
+                            }
+                        });
+                    
+                        data.education = education;
+                    
+                        // // Extract about information
+                        // const aboutDiv = document.querySelector('.CgaNGyysQhGiLrJThBkklWezGqoIdPPHmeZoo');
+                        // if (aboutDiv) {
+                        //     const aboutTextElement = aboutDiv.querySelector('.pv-shared-text-with-see-more span[aria-hidden="true"]');
+                        //     if (aboutTextElement) {
+                        //         let aboutText = aboutTextElement.innerText.trim();
+                        //         aboutText = aboutText.replace(/\s+/g, ' ');
+                        //         data.about = aboutText;
+                        //     }
+                        // }
+                    
+                        // Convert object to JSON with compact output
+                        const jsonData = JSON.stringify(data, null, 0);
+                        console.log(jsonData);
+                    // }
+                    
+                    // Call the function
+                    // htmlToJSON();
+
+
+
+                    document.getElementById("education_btn").addEventListener("click" , ()=>{
+                       let educationCont =  document.getElementById("educationContainer")
+                    //    educationCont.innerHTML = null
+
+                     console.log(education ,"education data checking maping in ui")
+
+                      if(education.length === 0){
+                        let educationAlertText = document.createElement("p")
+                        educationAlertText.innerText = "Education details unavailable"
+                        educationCont.append(educationAlertText)
+
+                      }else{
+                        education.forEach(function(edu) {
+                            var educationDiv = document.createElement("div");
+                            educationDiv.classList.add("experience-item");
+                    
+                         
+                            var degree = document.createElement("p");
+                            degree.textContent = edu.degree;
+                            educationDiv.appendChild(degree);
+                    
+                            var institution = document.createElement("p");
+                            institution.textContent = "Company: " + edu.institution;
+                            educationDiv.appendChild(institution);
+                    
+                            var dates = document.createElement("p");
+                            dates.textContent = "Employment Type: " + edu.dates;
+                            educationDiv.appendChild(dates);
+                    
+                            
+                    
+                            educationCont.appendChild(educationDiv);
+                        });
+                      }
+                       
+
+                    })
+
+
+////-------------------------------------------------------End of Education details fetching---------------------------------------------------------------////                      
+                   
+
                     let nameElement = tempDiv.querySelector("h1");
                     let name = nameElement ? nameElement.innerText : "Name not found";
                     // console.log("Name:", name);
                     let nameElemFromHtml = document.getElementById("name");
                     nameElemFromHtml.innerText = `User Name: ${name}`;
 
-           
-                   
+
+
                     let newProfileUrlExtraxtion = tempDiv.querySelector(".pv-top-card-profile-picture__image")
-                    let profilePicSrc = newProfileUrlExtraxtion ? newProfileUrlExtraxtion.src : "unable to get the url" 
+                    let profilePicSrc = newProfileUrlExtraxtion ? newProfileUrlExtraxtion.src : "unable to get the url"
                     // console.log(profilePicSrc , "????????")
 
                     let profile = document.getElementById("profile");
@@ -345,7 +149,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
                     // let companyNameElement = tempDiv.querySelector(".artdeco-entity-lockup__title");
                     let companyNameElement = tempDiv.querySelector(".LambtnPsginIigeSQDelZWXHxsIhOOCpyDZs");
-                     
+
                     let companyName = companyNameElement ? companyNameElement.innerText.trim() : "Company Info Not Found";
                     // console.log("Company Name:", companyName);
                     let comp = document.getElementById("companyName")
@@ -373,357 +177,226 @@ document.addEventListener("DOMContentLoaded", function() {
                     // let connection = document.getElementById("connection")
                     connection.innerText = `Connections: ${connections}`;
 
-                   
+
                     let emailElement = tempDiv.querySelector('.AHNLAnkaBcZbAlkLZnoQDapVyXSnnEYZgE');
                     let email = emailElement ? emailElement.innerText.trim() : "Email Not Found";
-                    // console.log("Email address:", email );
 
-                     
-                    // //contact information 100% working finel code 
 
-                    // // Select all contact info sections
-                    // const contactSections = tempDiv.querySelectorAll('.pv-contact-info__contact-type');
-                    // const contactInfo = {};
-                    // // Iterate over each contact section
-                    // contactSections.forEach(section => {
-                    //     // Extract the header
-                    //     const headerElement = section.querySelector('.pv-contact-info__header');
-                    //     const header = headerElement ? headerElement.textContent.trim() : null;
-                        
-                     
-                    //     const contactElement = section.querySelector('.pv-contact-info__ci-container a');
-                    //     const contact = contactElement ? contactElement.textContent.trim() : null;
-                        
-                    //     // Store the extracted information in the contactInfo object
-                    //     if (header && contact) {
-                    //         contactInfo[header] = contact;
-                    //     }
-                    // });
-      
-                    // Prepare the data object
+                    //get about information 
+                    // const divElement = tempDiv.querySelector('.mHrcZJyKLnyUiYvgpBuGIXUGIGUXSIackjDqw');
+                    // if (divElement) {
+                    //     const aboutInfo = divElement.textContent.trim();
+                    //     console.log(aboutInfo , "about info");
+                    // } else {
+                    //     console.error('Div element not found.');
+                    // }
                     
-                    // Find the "Contact info" link by its ID
-     
-                   // const contactInfoLink = document.getElementById('top-card-text-details-contact-info');
-                   // console.log(contactInfoLink, "elem");
-
-                 const elem = tempDiv.querySelector('#top-card-text-details-contact-info')   //correct
-                //  console.log(elem  , "we got the acces of contact info button...");          // correct
-                // elem.click()  && console.log("contact info clicked")
+                    //  document.getElementById("education_btn").addEventListener("click" , ()=>{
+                    // //   getEducationDetails(response.html)
+                    //   var educationJSON = getEducationDetails(response.html);
+                    //   console.log(JSON.stringify(educationJSON, null, 2));
 
 
+                    //  })
+ 
 
-//  experimetal area for the contact info-------------------------------------------
+ 
+//-----------------------------------Experiance data company names starts here------------------------------------------------------------------------//
+                   
+                        // const experienceItems = tempDiv.querySelectorAll('.NgipKwWYJKLrPQGMygNPbSJlxSTCBvo');
 
-if(elem){
-    let href = elem.getAttribute('href');
+                        // // Extract text from each experience item
+                        // const experiences = [];
+                        // experienceItems.forEach(item => {
+                        //     const companyName = item.querySelector('.mHrcZJyKLnyUiYvgpBuGIXUGIGUXSIackjDqw').textContent.trim();
+                        //     experiences.push(companyName);
+                        // });
 
-    const contactInfoLink = `https://www.linkedin.com${href}`;
+                        // console.log(experiences  , "does we are getting the experiance here");
+                        // document.getElementById("experience_btn").addEventListener("click" , ()=> {
+                        //     experiences.map((elem)=>{
+                        //         document.getElementById("experienceContainer").innerText = elem
+                        //     })
+                        // })
+                        // const exp = document.getElementById("experienceContainer")
+
+                        // Find all experience sections
+const experienceSections = tempDiv.querySelectorAll('.artdeco-list__item');
+// console.log(experienceSections , "experience Section selected in js")
+// Initialize an empty array to store experiences
+const experiences = [];
+
+// Iterate over each experience section
+experienceSections.forEach(section => {
+    // Initialize an empty object to store details of each experience
+    const experience = {};
+
+    // Extracting company logo URL
+    const logo = section.querySelector('.ivm-view-attr__img--centered');
+    if (logo) {
+        experience.company_logo_url = logo.getAttribute('src');
+    }
+
+    // Extracting job title
+    const jobTitle = section.querySelector('.t-bold');
+    if (jobTitle) {
+        experience.job_title = jobTitle.textContent.trim();
+    }
+
+    // Extracting company name and employment type
+    const companyInfo = section.querySelector('.t-14.t-normal');
     
-    console.log(contactInfoLink ,  "here is our finel contat link");
+    if (companyInfo) {
+        const companyInfoText = companyInfo.textContent.trim().split(' · ');
+        // console.log(companyInfoText , "are we getting the company info")
+        if (companyInfoText.length >1) {
+            experience.company_name = companyInfoText[0];
+            experience.employment_type = companyInfoText[2];
+        }
+    }
 
-    // Check if the link exists
-if (contactInfoLink) {
+    // Extracting duration
+    const duration = section.querySelector('.pvs-entity__caption-wrapper');
+    if (duration) {
+        experience.duration = duration.textContent.trim();
+    }
 
-// Event listener for button click
-document.getElementById('new_contact_btn').addEventListener('click', async () => {
-    await runScraping();
+    // Extracting location
+    const location = section.querySelectorAll('.t-14.t-normal.t-black--light');
+    if (location.length > 1) {
+        experience.location = location[1].textContent.trim();
+    }
+
+    // Extracting skills
+    const skills = section.querySelector('.hoverable-link-text');
+    if (skills) {
+        experience.skills = skills.textContent.trim();
+    }
+    // console.log(experience , "finel experience data" );
+    
+    // const finelObjWithCompanyName = {}
+    for(let key in experience){
+        if(experience[key] === "company_name"){
+          console.log(experience[key] , "checking for company name in experience data")
+        }
+    }
+
+    if (experience.hasOwnProperty('company_name')) {
+        // Append this experience to the list of experiences
+        experiences.push(experience);
+    }
+    // Append this experience to the list of experiences
+    // experiences.push(experience);
+     
+    // const experiencesWithCompanyName = experiences.filter(experience => experience.company_name);
+    // experiences.push(experiencesWithCompanyName);
 });
 
-async function runScraping() {
-    try {
-        chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
-            chrome.tabs.sendMessage(tabs[0].id, { text: "getContactInfo", url: contactInfoLink }, function(response) {
-                if (response && response.html) {
+// console.log(experiences , "checking finel experiences data")
+// let experienceContainer = document.getElementById("experienceContainer")
+// let pTag = document.createElement("p")
+// experiences.forEach((elem)=> console.log(pTag.innerText = `Job_title: ${elem.job_title}`))
+// experienceContainer.append(pTag)
+// Log the list of experiences
 
-                    let champ = document.getElementById("show_iframe")
-                    champ.innerHTML = response.html;
+document.getElementById("experience_btn").addEventListener("click", function() {
+    var experienceContainer = document.getElementById("experienceContainer");
+    experienceContainer.innerHTML = ""; // Clear previous content
 
-                    const contactInfoDom = response.html
-
-                    //now extract the info from the dom /////
-
-                    var contactInfo = parseContactInfo(contactInfoDom);
-                    console.log(contactInfo);
-
-                    // console.log("Contact info response from content.js ", contactInfo);
-                }
-            });
-        });
-    } catch (error) {
-        console.error('Error scraping contact info:', error);
-    }
-}
-
-// Event listener for button click
- 
-
-    // Simulate a click event on the link
-    // contactInfoLink.click();
-    // contactInfoLink.dispatchEvent(new MouseEvent('click'));
-    // Wait for the modal to open and contact information to be available
-                        // setTimeout(() => {
-                        //     // Select all contact info sections
-                        //     const contactSections = tempDiv.querySelectorAll('.pv-contact-info__contact-type');
-
-                        //     // Define an object to store the extracted information
-                        //     const contactInfo = {};
-
-                        //     // Iterate over each contact section
-                        //     contactSections.forEach(section => {
-                        //         // Extract the header
-                        //         const headerElement = section.querySelector('.pv-contact-info__header');
-                        //         const header = headerElement ? headerElement.textContent.trim() : null;
-
-                        //         // Extract the contact information
-                        //         const contactElement = section.querySelector('.pv-contact-info__ci-container a');
-                        //         const contact = contactElement ? contactElement.textContent.trim() : null;
-
-                        //         // Store the extracted information in the contactInfo object
-                        //         if (header && contact) {
-                        //             contactInfo[header] = contact;
-                        //         }
-                        //     });
-
-                        //     // Log the extracted contact information
-                        //     console.log(contactInfo  , "does we are gettiging contact information??????????");
-                        // }, 2000); // Adjust the timeout value as needed
-} else {
-    console.log("Contact info link not found.");
-}
-
-}else{
-    console.log("Contact info link not found.");
-}
-
-//  experimetal area for the contact info-------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- //-----------------contact info usig js simulation --------------------
- 
- 
-                // if (elem) {                                                                  //done
-                //     let href = elem.getAttribute('href');                                    //done
-                //     const contactInfoLink = `https://www.linkedin.com${href}`;               //done
-                //     console.log(contactInfoLink, "here is our final contact link");          //done
-
-                     
-
- 
-                    
-                // if (contactInfoLink) {
-                //         setTimeout(() => {
-
-                //             // console.log(tempDiv, "before contact info clicked")
-                //             // let get_contact_btn = document.getElementById('new_contact_btn')
-                
-                //             // get_contact_btn.addEventListener('click', function () {
-                //             //     console.log("you're on contact page ")
-                //             //     window.location.href = contactInfoLink;
-                //             //     console.log(tempDiv, "tempdiv data updated")
-                //             //     console.log("contact page successfully visited ")
-                //             // });
-
-                //              let get_contact_btn = document.getElementById('new_contact_btn');
-                //             // get_contact_btn.addEventListener('click', function() {
-                //             //     console.log("you're on contact page ")
-                //             //     window.location.href = contactInfoLink;
-                //             //     // window.location.replace(contactInfoLink)
-                //             //     console.log(tempDiv, "tempdiv before reload")
-                //             //     console.log("contact page successfully visited ")
-                //             //     chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
-                //             //         chrome.tabs.sendMessage(tabs[0].id, { action: "reloadDOM" }, function(response) {
-
-                //             //             console.log("beafore" , response)
-                //             //             if (response && response.success) {
-                //             //                 console.log(response.htmlCode , "updated responce data after reload")
-                //             //             console.log("after" , response)
-
-                //             //                 console.log("DOM reloaded successfully");
-                //             //                 // Optionally, perform further actions in the popup script
-                //             //             } else {
-                //             //                 console.log("Failed to reload DOM");
-                //             //             }
-                //             //         });
-                //             //     });
-                //             // });
-
-                //             get_contact_btn.addEventListener('click', function() {
-                                
-                //                 console.log("you're on contact page ")
-                //                window.location.href = contactInfoLink;
-                //                 // window.open(contactInfoLink);
-
-
-                //                 console.log(tempDiv, "tempdiv before reload")
-                //                 console.log("contact page successfully visited ")
-                //                 chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
-                //                     chrome.tabs.sendMessage(tabs[0].id, { action: "reloadDOM" , linkData : contactInfoLink }, function(response) {
-                //                         if (response && response.success) {
-
-                //                              console.log(response, "updated response data after reload");
-                //                             // console.log("DOM reloaded successfully");
-                //                               let newDomData = response.htmlData
-                //                             // console.log(tempDiv, "tempdiv data before maping")
-                //                             const contactSections = newDomData.querySelectorAll('.pv-contact-info__contact-type');
-                //                             // console.log(contactSections , "contact section html")
-                //                             const contactInfo = {};
-                //                             // // Iterate over each contact section
-                //                             contactSections.forEach(section => {
-                //                                 // Extract the header
-                //                                 const headerElement = section.querySelector('.pv-contact-info__header');
-                //                                 const header = headerElement ? headerElement.textContent.trim() : null;
-                                
-                //                                 const contactElement = section.querySelector('.pv-contact-info__ci-container a');
-                //                                 const contact = contactElement ? contactElement.textContent.trim() : null;
-                                
-                //                                 // Store the extracted information in the contactInfo object
-                //                                 if (header && contact) {
-                //                                     contactInfo[header] = contact;
-                //                                 }
-                //                              });
-                                
-                //                             // console.log(contactInfo, "contact info extracted from the page");
-                //                             // Optionally, perform further actions in the popup script
-                //                          } else {
-                //                         //     console.log("Failed to reload DOM");
-                //                          }
-                //                     });
-                //                  });
-                //             });
-                //             // Select all contact info sections
-                          
-                            
-                //         }, 1000); // Wait for 1 second for the asynchronous operation to complete
-                //     } else {
-                //         console.log("Contact info href not found.");
-                //     }
-                // } else {
-                //     console.log("Contact info button not found.");
-                // }
-
-
-  //-----------------contact info usig js simulation --------|||||------------               
-
- //-------------------------------this is my last code to get the contact info when we opened contact info modal ---------------------------               
-
-// if(elem){
-//     let href = elem.getAttribute('href');
-
-//     const contactInfoLink = `https://www.linkedin.com${href}`;
+   if(experiences.length === 0){
     
-//     console.log(contactInfoLink ,  "here is our finel contat link");
+    let experienceAlertText = document.createElement("p")
+    experienceAlertText.innerText = "experience details unavailable"
+    experienceContainer.append(experienceAlertText)
 
-//     // Check if the link exists
-// if (contactInfoLink) {
+   }else{
+    experiences.forEach(function(experience) {
+        var experienceDiv = document.createElement("div");
+        experienceDiv.classList.add("experience-item");
 
-//    let get_contact_btn =  document.getElementById('new_contact_btn')
-//    get_contact_btn.href = contactInfoLink
-//     // Simulate a click event on the link
-//     // contactInfoLink.click();
-//     // contactInfoLink.dispatchEvent(new MouseEvent('click'));
-//     // Wait for the modal to open and contact information to be available
-//     setTimeout(() => {
-//         // Select all contact info sections
-//         const contactSections = tempDiv.querySelectorAll('.pv-contact-info__contact-type');
+        if (experience.company_logo_url) {
+            var logoImg = document.createElement("img");
+            logoImg.src = experience.company_logo_url;
+            logoImg.alt = experience.company_name + " Logo";
+            experienceDiv.appendChild(logoImg);
+        }
 
-//         // Define an object to store the extracted information
-//         const contactInfo = {};
+        var jobTitle = document.createElement("p");
+        jobTitle.textContent = experience.job_title;
+        experienceDiv.appendChild(jobTitle);
 
-//         // Iterate over each contact section
-//         contactSections.forEach(section => {
-//             // Extract the header
-//             const headerElement = section.querySelector('.pv-contact-info__header');
-//             const header = headerElement ? headerElement.textContent.trim() : null;
+        var companyName = document.createElement("p");
+        companyName.textContent = "Company: " + experience.company_name;
+        experienceDiv.appendChild(companyName);
 
-//             // Extract the contact information
-//             const contactElement = section.querySelector('.pv-contact-info__ci-container a');
-//             const contact = contactElement ? contactElement.textContent.trim() : null;
+        var employmentType = document.createElement("p");
+        employmentType.textContent = "Employment Type: " + experience.employment_type;
+        experienceDiv.appendChild(employmentType);
 
-//             // Store the extracted information in the contactInfo object
-//             if (header && contact) {
-//                 contactInfo[header] = contact;
-//             }
-//         });
+        var duration = document.createElement("p");
+        duration.textContent = "Duration: " + experience.duration;
+        experienceDiv.appendChild(duration);
 
-//         // Log the extracted contact information
-//         console.log(contactInfo  , "does we are gettiging contact information??????????");
-//     }, 2000); // Adjust the timeout value as needed
-// } else {
-//     console.log("Contact info link not found.");
-// }
+        if (experience.location) {
+            var location = document.createElement("p");
+            location.textContent = "Location: " + experience.location;
+            experienceDiv.appendChild(location);
+        }
 
-// }else{
-//     console.log("Contact info link not found.");
-// }
+        if (experience.skills) {
+            var skills = document.createElement("p");
+            skills.textContent = "Skills: " + experience.skills;
+            experienceDiv.appendChild(skills);
+        }
 
+        experienceContainer.appendChild(experienceDiv);
+    });
+   }
+});
 
-//-----------------------------very imp code do not remove it ---------------------------------------
-
-
-//contact info extraction using http request
-
-// const elem = tempDiv.querySelector('#top-card-text-details-contact-info');
-// console.log(elem, "we got access to the contact info button...");
-
-// if (elem) {
-//     const href = elem.getAttribute('href');
-//     const contactInfoLink = `https://www.linkedin.com${href}`;
-//     console.log(contactInfoLink, "here is our final contact link");
-
-//     // Make a fetch request to the contact info link
-//     fetch(contactInfoLink)
-//         .then(response => response.text())
-//         .then(data => {
-//             console.log(data, "here is the data ?????******??????")
-//             // Create a temporary DOM element to parse the HTML response
-//             const tempElement = document.createElement('div');
-//             tempElement.innerHTML = data;
-
-//             // Select all contact info sections
-//             const contactSections = tempElement.querySelectorAll('.pv-contact-info__contact-type');
-//             const contactInfo = {};
-
-//             // Iterate over each contact section
-//             contactSections.forEach(section => {
-//                 // Extract the header
-//                 const headerElement = section.querySelector('.pv-contact-info__header');
-//                 const header = headerElement ? headerElement.textContent.trim() : null;
-
-//                 const contactElement = section.querySelector('.pv-contact-info__ci-container a');
-//                 const contact = contactElement ? contactElement.textContent.trim() : null;
-
-//                 // Store the extracted information in the contactInfo object
-//                 if (header && contact) {
-//                     contactInfo[header] = contact;
-//                 }
-//             });
-
-//             console.log(contactInfo, "contact info extracted from the page");
-//         })
-//         .catch(error => {
-//             console.error("Error fetching contact info:", error);
-//         });
-// } else {
-//     console.log("Element is not provided.");
-// }
 
  
 
-                    
+                        
+//-----------------------------------Experiance data **company names** ------------------------------------------------------------------------//     
+
+
+//------------------------------------------------------Contact info data extraction--------------------------------------------------------------------------------//
+
+                const elem = tempDiv.querySelector('#top-card-text-details-contact-info')   //correct
+
+                 if (elem) {
+                        let href = elem.getAttribute('href');
+
+                        const contactInfoLink = `https://www.linkedin.com${href}`;
+
+                        console.log(contactInfoLink, "here is our finel contat link");
+
+                        // Check if the link exists
+                        if (contactInfoLink) {
+
+                            // Event listener for button click
+                            document.getElementById('new_contact_btn').addEventListener('click', async () => {
+                                await runScraping();
+                            });
+
+                            async function runScraping() {
+                                try {
+                                    chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+                                        chrome.tabs.sendMessage(tabs[0].id, { text: "getContactInfo", url: contactInfoLink }, function (response) {
+                                            if (response && response.html) {
+                                                console.log(response.html, "this is the contact page dom")
+                                                // let champ = document.getElementById("show_iframe")
+                                                // champ.innerHTML = response.html;
+
+                                                const contactInfoDom = response.html
+                                                //now extract the info from the dom /////
+                                                let finelContactInfoData = parseContactInfo(contactInfoDom)     //calling the information extraction function
+                                                // finelContactInfoData  = parseContactInfo(contactInfoDom)
+                                                console.log("Contact info response from content.js ", finelContactInfoData);
+
+
+                    // console.log(finelContactInfoData, "checking scope of the contact")
                     let newData = {
                         name: name,
                         profilePicSrc: profilePicSrc,
@@ -731,28 +404,45 @@ async function runScraping() {
                         designationAndTechStack: designationAndTechStack,
                         location: location,
                         connections: connections,
-                        //   contactInfo: contactInfo 
+                        contactInfo: finelContactInfoData,  
+                        experience : experiences,
+                        educationDetails : education
                         // email: email
                     };
 
-                    // Send newData to the desired destination (e.g., post to server, display on popup)
-                    // console.log(newData , "entered data");
 
-                      fetch('http://localhost:3000/data', {
+                    fetch('http://localhost:3000/data', {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json',
                         },
                         body: JSON.stringify(newData),
                     })
-                    .then(response => response.json())
-                    .then(data => {
-                        console.log('Success:', data);
-                    })
-                    .catch((error) => {
-                        console.error('Error:', error);
-                    });
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log('Success:', data);
+                        })
+                        .catch((error) => {
+                            console.error('Error:', error);
+                        });
+                            }
+                                        });
+                                    });
+                                } catch (error) {
+                                    console.error('Error scraping contact info:', error);
+                                }
+                            }
 
+
+                        } else {
+                            console.log("Contact info link not found.");
+                        }
+
+                    } else {
+                        console.log("Contact info link not found.");
+                    }
+
+ 
                 } else {
                     let container = document.getElementById("container");
                     container.innerText = "Failed to fetch HTML content";
@@ -764,201 +454,107 @@ async function runScraping() {
 
 
 
-
-//converting html to json
-
-// function htmlToJson(htmlString) {
-//     // console.log(htmlString , "checking string only")
-//     const parser = new DOMParser();
-//     console.log(parser , "2nd check")
-//     const doc = parser.parseFromString(htmlString, 'text/html');
-//     console.log(doc , "3rd check")
-//     const header = doc.querySelector('header');
-//     const body = doc.querySelector('body');
-//     console.log(header, "4th check")
-//     function parseNode(node) {
-//         console.log(node, "5th check")
-//         const json = {};
-//         const children = node.childNodes;
-//         console.log(children, "6th check")
-//         for (let i = 0; i < children.length; i++) {
-//               const child = children[i];
-//               console.log(child, "7th check") // it is working fine till here
-//               console.log(child.nodeType , Node.ELEMENT_NODE , "here cheking for nodetype >>>>>>>>><<<<<<<<<<<")
-         
-//             let a = child.nodeType;
-//             json.nodeType = a;
-//             if(a === 3){
-//                 json.text = element.textContent;
-//             }else if (a === 1) {
-//                 json.nodeName = element.nodeName;
-//                 let b = element.attributes;
-//                     json.nodeType = a;
-//                      console.log(b , "3rd check")
-//                 if (b && b.length>0) {
-//                     let attributes = {};
-//                     for (let i = 0; i < b.length; i++) {
-//                         const attribute = b[i];
-//                         attributes[attribute.name] = attribute.value;
-//                     }
-//                     console.log(attributes , "4rth check")
-//                     json.attributes = attributes;
-//                 }
-//                 if (json.nodeName === "svg") {
-//                     json.innerHTML = element.innerHTML;
-//                 }else{
-//                     let c = element.childNodes;
-//                     if (c && c.length>0) {
-//                         let childNodes = [];
-//                         c.forEach((child)=>{
-//                             let r = getJSONFromDOMElement(child);
-//                             if(r) childNodes.push(r);
-//                         });
-//                         json.childNodes = childNodes;
-//                     }
-//                 }
-            
-
-//         }
-//         console.log(result, "11th check")
-//         return result;
-//     }
-// console.log(parseNode(body), "12th check")
-//     return parseNode(body);
-// }
-
-// function htmlToJson(htmlString) {
-//     const parser = new DOMParser();
-//     const doc = parser.parseFromString(htmlString, 'text/html');
-//     const header = doc.querySelector('header');
-//     const body = doc.querySelector('body');
-    
-//     function parseNode(node) {
-//         const json = {};
-//         const children = node.childNodes;
-        
-//         for (let i = 0; i < children.length; i++) {
-//             const child = children[i];
-//             let nodeType = child.nodeType;
-//             json.nodeType = nodeType;
-            
-//             if (nodeType === 3) {
-//                 json.text = child.textContent;
-//             } else if (nodeType === 1) {
-//                 json.nodeName = child.nodeName;
-//                 let attributes = child.attributes;
-                
-//                 if (attributes && attributes.length > 0) {
-//                     let attributesObj = {};
-//                     for (let j = 0; j < attributes.length; j++) {
-//                         const attribute = attributes[j];
-//                         attributesObj[attribute.name] = attribute.value;
-//                     }
-//                     json.attributes = attributesObj;
-//                 }
-                
-//                 if (json.nodeName === "svg") {
-//                     json.innerHTML = child.innerHTML;
-//                 } else {
-//                     let childNodes = [];
-//                     let grandchildren = child.childNodes;
-//                     if (grandchildren && grandchildren.length > 0) {
-//                         grandchildren.forEach((grandchild) => {
-//                             let result = parseNode(grandchild);
-//                             if (result) childNodes.push(result);
-//                         });
-//                         json.childNodes = childNodes;
-//                     }
-//                 }
-//             }
-//         }
-//         return json;
-//     }
-
-//     return parseNode(body);
-// }
-
-
-
-
-
-// function getJSONFromDOMElement({element}){
-//     console.log(element  , "1st check")    
-//     if (!element || typeof element !== 'object') {
-//         return null;
-//     }
-//     console.log(element.nodeType? element.nodeType : "not reatched at 2nd step")
-//     const json = {};
-//     let a = element.nodeType;
-//     json.nodeType = a;
-//     if(a === 3){
-//         json.text = element.textContent;
-//     }else if (a === 1) {
-//         json.nodeName = element.nodeName;
-//         let b = element.attributes;
-//             json.nodeType = a;
-//              console.log(b , "3rd check")
-//         if (b && b.length>0) {
-//             let attributes = {};
-//             for (let i = 0; i < b.length; i++) {
-//                 const attribute = b[i];
-//                 attributes[attribute.name] = attribute.value;
-//             }
-//             console.log(attributes , "4rth check")
-//             json.attributes = attributes;
-//         }
-//         if (json.nodeName === "svg") {
-//             json.innerHTML = element.innerHTML;
-//         }else{
-//             let c = element.childNodes;
-//             if (c && c.length>0) {
-//                 let childNodes = [];
-//                 c.forEach((child)=>{
-//                     let r = getJSONFromDOMElement(child);
-//                     if(r) childNodes.push(r);
-//                 });
-//                 json.childNodes = childNodes;
-//             }
-//         }
-//     }else return null;
-//     return json;
-// }
-
-
-
-var parseContactInfo = (htmlContent) => {
+//contact information data extraction function ---------
+const parseContactInfo = (htmlContent) => {
     const parser = new DOMParser();
     const doc = parser.parseFromString(htmlContent, "text/html");
 
-    const contactInfo = {};
+    var contactInfo = {};
 
-    // Extracting Ankit’s Profile URL
-    const profileLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(1) a');
-    contactInfo.profileUrl = profileLink ? profileLink.getAttribute('href') : 'Profile URL not found';
+    const contactSections = doc.querySelectorAll('.pv-contact-info__contact-type');
 
-    // Extracting email
-    const emailLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(5) a');
-    contactInfo.email = emailLink ? emailLink.textContent.trim() : 'Email not found';
+    // Iterate over each contact section
+    contactSections.forEach(section => {
+        // Extract the header
+        const headerElement = section.querySelector('.pv-contact-info__header');
+        const header = headerElement ? headerElement.textContent.trim() : null;
 
-    // Extracting phone number
-    const phoneNumber = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(7) span');
-    contactInfo.phone = phoneNumber ? phoneNumber.textContent.trim() : 'Phone number not found';
+        // Extract the contact information
+        let contact = null;
 
-    // Extracting birthday
-    const birthday = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(9) span');
-    contactInfo.birthday = birthday ? birthday.textContent.trim() : 'Birthday not found';
+        // Different types of contact sections may have different structures, so we need to handle them separately
+        if (header === 'Profile') {
+            const profileLinkElement = section.querySelector('.pv-contact-info__ci-container a');
+            contact = profileLinkElement ? profileLinkElement.getAttribute('href') : null;
+            console.log(contact, "in the contact page<<>>><<>>")
+            // document.getElementById("pro_url").innerText = `Profile Url: ${profileLinkElement ? profileLinkElement.getAttribute('href') : null}`
+            document.getElementById("pro_url").innerText =  profileLinkElement.getAttribute('href') 
 
-    // Extracting connected date
-    const connectedDate = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(11) span');
-    contactInfo.connectedDate = connectedDate ? connectedDate.textContent.trim() : 'Connected date not found';
+        } else if (header === 'Phone') {
+            const phoneElement = section.querySelector('.pv-contact-info__ci-container .t-black.t-normal');
+            contact = phoneElement ? phoneElement.textContent.trim() : null;
+            document.getElementById("phone_num").innerText = `Contact No: ${contact}`
 
-    // Extracting address
-    const addressLink = doc.querySelector('.pv-contact-info__contact-type:nth-of-type(13) .pv-contact-info__ci-container a');
-    contactInfo.address = addressLink ? addressLink.textContent.trim() : 'Address not found';
+        } else if (header === 'Email') {
+            const emailElement = section.querySelector('.pv-contact-info__ci-container a');
+            contact = emailElement ? emailElement.textContent.trim() : null;
+            document.getElementById("email_add").innerText = emailElement ? `Email: ${emailElement.textContent.trim()}` : null
+
+
+        } else if (header === 'Birthday') {
+
+            const birthdayElement = section.querySelector('.pv-contact-info__ci-container .t-black.t-normal');
+            contact = birthdayElement ? birthdayElement.textContent.trim() : null;
+            document.getElementById("birth_day").innerText = birthdayElement ? `Birth Day: ${birthdayElement.textContent.trim()}` : null;
+
+
+        } else {
+            // For other sections like Birthday, Connected, etc.
+            const contactItemElement = section.querySelector('.pv-contact-info__ci-container .t-black.t-normal');
+            contact = contactItemElement ? contactItemElement.textContent.trim() : null;
+
+        }
+
+        // Store the extracted information in the contactInfo object
+        if (header && contact) {
+            contactInfo[header] = contact;
+        }
+    });
+
+
 
     return contactInfo;
 };
 
 
- 
+
+
+
+// function getEducationDetails(htmlData){
+//     console.log(htmlData , "checking for the data in the education section")
+//     //---------------------------------Education Details--------------------------------------------------//
+                   
+//     const parser = new DOMParser();
+//     const doc = parser.parseFromString(htmlData, 'text/html');
+//     const educationItems = doc.querySelectorAll('li.artdeco-list__item');
+
+//     const educationDetails = [];
+
+//     educationItems.forEach(item => {
+//         const titleElement = item.querySelector('span.t-14');
+//         const durationElement = item.querySelector('span.t-black--light');
+//         const descriptionElement = item.querySelector('div.pv-shared-text-with-see-more');
+
+//         // Check if elements are found before accessing their textContent
+//         if (titleElement && durationElement && descriptionElement) {
+//             const title = titleElement.textContent.trim();
+//             const duration = durationElement.textContent.trim();
+//             const description = descriptionElement.textContent.trim();
+
+//             const educationObj = {
+//                 title: title,
+//                 duration: duration,
+//                 description: description
+//             };
+
+//             educationDetails.push(educationObj);
+//         } else {
+//             console.error('Missing element in education item:', item);
+//         }
+//     });
+
+//     return educationDetails;
+
+// //------------------------------||---Education Details---||-----------------------------------------------//
+// }
 

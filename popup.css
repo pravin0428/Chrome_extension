@@ -1,29 +1,30 @@
 body {
-    width: 350px;
+    width: 370px;
     padding: 10px;
-  }
-  
-  button {
-    margin-bottom: 10px;
-  }
-  
-  #domContent {
-    white-space: pre-line;
-  }
+}
 
-  /* Main container */
+button {
+    margin-bottom: 10px;
+}
+
+#domContent {
+    white-space: pre-line;
+}
+
+
 #main-div {
     text-align: center;
     margin-bottom: 20px;
+    font-size: 16px;
 }
 
-/* Profile photo */
+
 #profile {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 3px solid #ffffff; /* Add border with white color */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border: 3px solid #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Name */
@@ -33,31 +34,31 @@ body {
     margin-top: 10px;
 }
 
-/* Company name */
+
 #companyName {
     font-size: 1em;
-    color: #666; 
+    color: #666;
     margin-bottom: 20px;
 }
 
-/* Container for additional content */
+
 #container {
     padding: 20px;
-    background-color: #f9f9f9;  
+    background-color: white;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
-    text-align: left;  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
 }
 
-/* Button */
+
 #powerButton {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
     padding: 10px 20px;
     font-size: 1em;
-    background-color: #007bff;  
-    color: #fff;  
+    background-color: #007bff;
+    color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -65,6 +66,107 @@ body {
 }
 
 #powerButton:hover {
-    background-color: #0056b3;  
+    background-color: #0056b3;
 }
+
+/* #button_container{
+    display: flex;
+    justify-content: space-around;
+} */
+
+#new_contact_btn{
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#education_btn{
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#all_info{
+    border-radius: 50%;
+    padding: 10px; 
+}
+
+/* #contactContainer{
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    color: #007bff;
+} */
+
+#button_div{
+    display: flex;
+    justify-content: space-around;
+}
+
+#button_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+
+#contactContainer {
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    margin-bottom: 10px;
+    color:#007bff;
+}
+
+#experienceContainer, #educationContainer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 150px;
+}
+
+#new_contact_btn, #experience_btn, #education_btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+}
+
+#new_contact_btn:hover, #experience_btn:hover, #education_btn:hover {
+    background-color: #0056b3;
+}
+
+
+#experienceContainer {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
   
+  #experienceContainer p {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 16px;
+    color: #333;
+  }
+
+  #experienceContainer{
+    /* border: 2px solid red; */
+    width: 95%;
+  }
+
+  #educationContainer{
+    /* border: 2px solid red; */
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .experience-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}

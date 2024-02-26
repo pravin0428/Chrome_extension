@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,19 +9,48 @@
     <script src="popup.js" type="module"></script>
     <link rel="stylesheet" href="popup.css">
 </head>
+
 <body>
-     <div id="main-div">
-        <img  id="profile" src="" alt="">
-        <p id="name" ></p>
-        <p id="companyName" ></p>
-        <p id="position" ></p>
-        <p id="location_details" ></p>
-        <p id="connection" ></p>
-       <button id="new_contact_btn" >Get Info</button>
-     </div>
-     <div id="show_iframe" ></div>
-     <div id="text_info" ></div>
-    <div id="container"></div>
-    <button id="powerButton">get dom</button>
+    <div id="main-div">
+        <img id="profile" src="" alt="">
+        <p id="name"></p>
+        <p id="companyName"></p>
+        <p id="position"></p>
+        <p id="location_details"></p>
+        <p id="connection"></p>
+
+        <button id="powerButton">get dom</button>
+        <div id="button_container" > 
+
+            <div id="contactContainer">
+                <p id="pro_url"></p>
+                <p id="email_add"></p>
+                <p id="phone_num"></p>
+                <p id="birth_day"></p>
+           </div>
+
+           <div id="experienceContainer" ></div>
+           <div id="educationContainer" ></div>
+
+            <div id="button_div"> <button id="new_contact_btn">Contact</button> 
+                <button id="experience_btn" >Experience</button> 
+                <button id="education_btn">Education</button> </div>
+            <!-- <button id="new_contact_btn">Others</button>   -->
+        </div>
+
+        <!-- contact info -->
+        <!-- <div id="contactContainer">
+            <p id="pro_url"></p>
+            <p id="email_add"></p>
+            <p id="phone_num"></p>
+            <p id="birth_day"></p>
+      </div> -->
+    </div>
+    <!-- <div id="show_iframe"></div> -->
+    <div id="text_info"></div>
+     <div id="container"></div>  
      
-</body></html>
+
+</body>
+
+</html>
